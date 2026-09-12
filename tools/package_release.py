@@ -25,7 +25,7 @@ PUBLIC_DIRS = ('assets', 'docs', 'output/pdf', 'production', 'site',
                'templates', 'tools', 'tests', '.github')
 PRIVATE_PARTS = {'.git', '.venv', 'node_modules', '__pycache__', '.pytest_cache',
                  'tmp', 'review', 'rendered', 'screenshots', 'archive', 'retired'}
-FONT_LICENSES = ('assets/fonts/LICENSE-Source-Sans-3.md', 'assets/fonts/LICENSE-IBM-Plex.txt')
+FONT_LICENSES = ('assets/fonts/LICENSE-Sora.txt',)
 MANUAL = 'output/pdf/decisioninvitation-identity-manual.pdf'
 MANIFEST = 'releases/manifest.json'
 COMMON = {'ASSET-LICENSE.md', 'brand-system.json', 'releases/README.md'}

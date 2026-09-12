@@ -1,6 +1,6 @@
 # 0001 - Independent identity, catalyst strategy
 
-Status: owner-directed strategic brief; visual recommendation pending owner review.
+Status: superseded by ADR 0002. The owner-directed verbal strategy remains active; the visual recommendation below is historical.
 
 ## Context
 

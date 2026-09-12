@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.3.0 — 2026-09-12 — Decision Instrument proposal
+
+Replaced the parent-adjacent editorial identity with an independent system derived from the product's role between analysis and commitment.
+
+- Introduced the **Decision Instrument** direction and **Commitment Gate** mark: separate perspectives cross a fixed threshold and resolve into accountable action.
+- Replaced the inherited-feeling cream/navy/green environment with Register, Cobalt, Periwinkle, Optic, and White.
+- Replaced the parent type stack with Sora Regular and SemiBold across identity, web, documents, and applications.
+- Restricted Suki Orange to a post-threshold provenance point capped at two percent of any composition.
+- Preserved the established verbal platform, including **Catalyst of analysis.**, **Better input. Clearer decisions.**, **A quieter way to decide.**, and **Ask separately. Decide clearly.**
+- Rebuilt the public brand center, manual, production assets, templates, tokens, and governance documents around the new system.
+- Recorded the superseding rationale in ADR 0002. The identity remains a proposal until owner approval; generation, repository publication, and live deployment remain separate gates.
+
 ## 0.2.0 — 2026-09-12 — proposed identity system
 
 Rebuilt the initial identity sketch into a corporate identity proposal with an independent graphic system, a complete source package, reusable channel applications, and a governed handoff.

@@ -16,11 +16,11 @@ Working formats are A4 (210 × 297 mm) and US Letter (8.5 × 11 in) for correspo
 
 Business card: mark/full name on one face; supplied person, role, verified contact, and domain on the other. Use only information that is safe and authorized to publish. QR codes require a verified destination, sufficient quiet zone, and physical scan testing; the identity package does not require one.
 
-Print proofs must use the intended stock, printer profile, trim, bleed, and finishing specifications. The supplied RGB assets are not a substitute for vendor preflight. Do not label exported PDFs “press-ready,” “CMYK approved,” or “Pantone matched” without that work. A rough uncoated paper can support the editorial tone; material selection is a creative recommendation, not a sustainability claim.
+Print proofs must use the intended stock, printer profile, trim, bleed, and finishing specifications. The supplied RGB assets are not a substitute for vendor preflight. Do not label exported PDFs “press-ready,” “CMYK approved,” or “Pantone matched” without that work. Material selection is a creative recommendation, not a sustainability claim.
 
 ## Reports and presentations
 
-Use a typographic cover with one thought, one signature, and a restrained frame. Inside, one claim per section, explicit source/caption for evidence, and numbered headings if the argument needs navigation. Use Source Sans 3 for reading and IBM Plex Mono for page labels, dates, and identifiers. Do not set entire reports or long tables in the utility face.
+Use a typographic cover with one thought, one signature, and a visible commitment threshold. Inside, one claim per section and an explicit source or caption for evidence. Use Sora Regular for reading and Sora SemiBold for page labels, dates, identifiers, and decisions. Distinguish analytical inputs from the final accountable choice through lanes and rules, not a second typeface.
 
 A report distinguishes question, evidence, perspective, proposed next step, and owner decision. A presentation must not flatten uncertainty into a decorative consensus score. Tables align comparable units; charts directly label series and expose sample/evidence limitations. Color alone never defines a contributor or state.
 

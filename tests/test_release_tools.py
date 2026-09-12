@@ -71,8 +71,8 @@ class ReleaseBoundaryTests(unittest.TestCase):
 class ValidatorTests(unittest.TestCase):
     def test_color_contrast_uses_relative_luminance(self):
         validate = load_tool('validate')
-        self.assertAlmostEqual(validate.contrast('#182B33', '#F5F4EF'), 13.31, places=2)
-        self.assertAlmostEqual(validate.contrast('#52766D', '#F5F4EF'), 4.57, places=2)
+        self.assertAlmostEqual(validate.contrast('#211B2B', '#F7F8FF'), 15.78, places=2)
+        self.assertAlmostEqual(validate.contrast('#3346C8', '#F7F8FF'), 6.95, places=2)
 
     def test_identity_validation_rejects_palette_drift(self):
         validate = load_tool('validate')
@@ -87,7 +87,7 @@ class ValidatorTests(unittest.TestCase):
             self.assertEqual(validate.check_identity(root), [])
             path = root / 'assets/tokens/decisioninvitation.tokens.json'
             data = json.loads(path.read_text())
-            data['primitive']['color']['ink'] = '#000000'
+            data['primitive']['color']['register'] = '#000000'
             path.write_text(json.dumps(data))
             self.assertTrue(any('palette' in issue.lower() for issue in validate.check_identity(root)))
 

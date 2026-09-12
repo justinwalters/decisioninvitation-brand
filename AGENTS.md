@@ -2,7 +2,7 @@
 
 This repository defines DecisionInvitation's corporate identity and its public `/brand` reference. It is an independent product system within the aSUKIra family. Parent identity material supplies lineage and discipline; it does not override DecisionInvitation's documented choices.
 
-The current system is **0.2.0, a complete proposal for review**. “Catalyst of analysis.” is the user's explicit strategic direction. The visual direction, mark, and applications remain proposed. Do not promote a proposal to approved by renaming a folder, publishing a preview, or producing exports.
+The current system is **0.3.0, a complete proposal for review**. “Catalyst of analysis.” is the user's explicit strategic direction. The visual direction, mark, and applications remain proposed. Do not promote a proposal to approved by renaming a folder, publishing a preview, or producing exports.
 
 ## Start here
 
@@ -14,10 +14,10 @@ The current system is **0.2.0, a complete proposal for review**. “Catalyst of 
 
 ## Rules
 
-- Keep the exact product name `DecisionInvitation`, domain `decisioninvitation.com`, and accessible name intact. `Di` is a visual monogram, never a prose replacement.
-- Keep DecisionInvitation recognizable without mentioning or showing Suki. The orange point is a restrained family cue, not a notification, intelligence indicator, or parent seal.
+- Keep the exact product name `DecisionInvitation`, domain `decisioninvitation.com`, and accessible name intact. Do not reduce the Commitment Gate to a `Di` monogram.
+- Keep DecisionInvitation recognizable without mentioning or showing Suki. The orange post-threshold point is a restrained provenance cue, not a notification, intelligence indicator, action, or parent seal.
 - Never describe an acquisition as a historical fact. The acquired-product feeling is creative direction supplied by the user.
-- Maintain the documented palette, type roles, mark geometry, clear space, and smallest-size variants together. Do not copy parent colors or controls into a new page by habit.
+- Maintain the documented palette, type roles, mark geometry, lane/threshold grammar, clear space, and smallest-size variants together. Do not copy parent colors, fonts, editorial layouts, or controls into a new page.
 - Keep the decision owner responsible for the call. A contributor's position is attributed to the authorized owner; private does not mean anonymous.
 - Use product source and deployment receipts for capability claims. Do not infer security, email delivery, encryption, compliance, or live availability from brand mockups.
 - No live participant data, addresses, tokens, credentials, private attachments, or customer logos in public examples or repository releases.

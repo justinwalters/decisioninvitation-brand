@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "name": "DecisionInvitation",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "status": "proposal-pending-owner-review",
   "archiveRoot": "repository-relative; no enclosing directory",
   "checksumAlgorithm": "SHA-256",
@@ -17,162 +17,138 @@
     {
       "path": ".gitignore",
       "role": "documentation",
-      "bytes": 80,
-      "sha256": "e9fbc56544a87b196f0733618a727a8f797d68cd69186be3a438582b0848bb6e"
+      "bytes": 94,
+      "sha256": "eea760562a9680fdc53f7d4bd1896f5a1d3bfab42a7f2bfdc8a9580d11cb26c6"
     },
     {
       "path": "AGENTS.md",
       "role": "documentation",
-      "bytes": 2962,
-      "sha256": "333b42f19ee05e45b4b9ff9245145ed350b9494ea01387e2f73ef1c28eee084d"
+      "bytes": 3031,
+      "sha256": "42e343ecf5ebcbb0eadca06729ccdae435dd52261cd90541410c4b7fbb0c8a02"
     },
     {
       "path": "ASSET-LICENSE.md",
       "role": "asset-usage-terms",
-      "bytes": 3609,
-      "sha256": "ff5c53f26c4b023a72655deb3e19804c65cb74f49b9525e1780650c30b9aac09"
+      "bytes": 528,
+      "sha256": "f1ca91769748ba1dcc1e5c371c979a8bdcd2a62d77e65065f40349dca7c89f55"
     },
     {
       "path": "BRAND-GUIDELINES.md",
       "role": "documentation",
-      "bytes": 4352,
-      "sha256": "7216529c052183533544bbb99bafc6dfa72ed3316ec4ec44ec651700e4028215"
+      "bytes": 1255,
+      "sha256": "714f92c662b160bd096daaaf7acbc125cf533ef94fb9a1f3dbcd2c86c7a3010d"
     },
     {
       "path": "CHANGELOG.md",
       "role": "documentation",
-      "bytes": 1710,
-      "sha256": "abfaddbc4347947d967a7dcb3e5cddb35d16f1a38256931d203db642bc01844d"
+      "bytes": 2910,
+      "sha256": "64a86bff42de9a58e1d32f26c72ab706894d56f0a77bdcbf643f941a25f0cd67"
     },
     {
       "path": "CONTRIBUTING.md",
       "role": "documentation",
       "bytes": 2303,
-      "sha256": "f558795a7aef7f9ec04e40b7d8b9a06ea3b0699477fc69867318195d3d994baf"
+      "sha256": "95fb9d324deee4be33e9757b84e339f57c8f0daff0f6248b3df0860e78e4fb51"
     },
     {
       "path": "README.md",
       "role": "documentation",
-      "bytes": 8078,
-      "sha256": "dba96aad68fac490791f327d977daa1eafadb3470e3023ecbc2247c0462007d7"
+      "bytes": 1356,
+      "sha256": "0eefdd2b223267c97050d305efed05c1d98239eb8bf0dbba9332ed42d9183ec1"
     },
     {
-      "path": "assets/fonts/IBMPlexMono-Regular.ttf",
-      "role": "font",
-      "bytes": 173052,
-      "sha256": "7c6fbddca4b700be918f5f6183d9bd4464fa427fe435f0b480d77fe2bb8c5a43"
-    },
-    {
-      "path": "assets/fonts/IBMPlexMono-Regular.woff2",
-      "role": "font",
-      "bytes": 49248,
-      "sha256": "ba204497f16b6d334cee9d1e963a831b73e3a56e1d6300a8489d18df7214b350"
-    },
-    {
-      "path": "assets/fonts/LICENSE-IBM-Plex.txt",
+      "path": "assets/fonts/LICENSE-Sora.txt",
       "role": "font-license",
-      "bytes": 4456,
-      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
-    },
-    {
-      "path": "assets/fonts/LICENSE-Source-Sans-3.md",
-      "role": "font-license",
-      "bytes": 4486,
-      "sha256": "56af9b9c6715597e458284a474dc118a50a4150e9d547c70f7b4a33c3e6a9328"
+      "bytes": 4385,
+      "sha256": "ba0b9729c9428ba79a0459ab8ec575791b51509dbec213e383d0316d37fec299"
     },
     {
       "path": "assets/fonts/README.md",
       "role": "font",
-      "bytes": 1355,
-      "sha256": "27487d5a85b62f6090669e60eb3d286443c47ca9fdc58373168d7346578e3363"
+      "bytes": 384,
+      "sha256": "875daa9127ce30ecee8e349f08831e49e01a7c237f55a3ceea12d6e30045f816"
     },
     {
-      "path": "assets/fonts/SourceSans3-Regular.ttf",
+      "path": "assets/fonts/Sora-Regular.ttf",
       "role": "font",
-      "bytes": 431196,
-      "sha256": "4644c81b86ec9caaa76b634889968ed3c4f4f52f054855933acc7c2b21e53b0f"
+      "bytes": 84640,
+      "sha256": "517e945dedbeeb8d700ccae77d189a6ef2a01f6dcc95ba5d032ef9a30f7f0de9"
     },
     {
-      "path": "assets/fonts/SourceSans3-Regular.woff2",
+      "path": "assets/fonts/Sora-Regular.woff2",
       "role": "font",
-      "bytes": 109632,
-      "sha256": "53492fb3a0def77354f166a55d09b63a10855e91c206c7620a81cf56e97f8ec3"
+      "bytes": 32452,
+      "sha256": "4d848854da33f6274c3b5b181d6c3c104e60352c3f55b10d0f0a8ae93a9922c0"
     },
     {
-      "path": "assets/fonts/SourceSans3-Semibold.ttf",
+      "path": "assets/fonts/Sora-SemiBold.ttf",
       "role": "font",
-      "bytes": 425904,
-      "sha256": "a3f4f8dcf343a8f24dc61951de93f3ba1558b15cd250ba24af8a40e957081b7d"
+      "bytes": 91276,
+      "sha256": "b02621d4009da9a18eb8a5cbe277f084eb9c3f065ba08a6e77769e81863becf2"
     },
     {
-      "path": "assets/fonts/SourceSans3-Semibold.woff2",
+      "path": "assets/fonts/Sora-SemiBold.woff2",
       "role": "font",
-      "bytes": 108900,
-      "sha256": "47b9b661b9f395fe7f0d0e119637fba5c8dad97bde3df60066fd24229c0792f4"
-    },
-    {
-      "path": "assets/fonts/SourceSans3.ttf",
-      "role": "font",
-      "bytes": 646540,
-      "sha256": "1147db9a3f0edd4956068de77930148acce2742dd76d57f7239b2b1c687ac63f"
+      "bytes": 33720,
+      "sha256": "c8ef09866c1ce0e389507b89c9123b02f9766b17ab6abc6707cb2cecabf953dd"
     },
     {
       "path": "assets/fonts/provenance.json",
       "role": "font",
-      "bytes": 1938,
-      "sha256": "ce1cc2cff05dc89259756dbeea807eae973357ec0a7a0b8bb29f1553019eb0b6"
+      "bytes": 1019,
+      "sha256": "ebd2251b633de051c0cc186a297decc818f650cc8a70a59c39c0662edc413cd2"
     },
     {
       "path": "assets/logo/decisioninvitation-di-mark.svg",
       "role": "compatibility-logo",
-      "bytes": 380,
-      "sha256": "70a1045a17df28607d7cdf8ceb02ab135171027bd0759668a57cc9fd655116b7",
+      "bytes": 330,
+      "sha256": "3308a651924841d96ef1cc770d033b5f7ef327ad69e01977282235cc99aea9e0",
       "width": 256,
       "height": 256
     },
     {
       "path": "assets/logo/decisioninvitation-wordmark.svg",
       "role": "compatibility-logo",
-      "bytes": 11098,
-      "sha256": "de51a16dcf0184aff0bbde4b9ad0bb93654bc08dd7e033e28dad04e8f50aff33",
-      "width": 709,
-      "height": 150
+      "bytes": 11011,
+      "sha256": "b403db21d44cdcffad9626225d72d47331c05adef2273bb2759506b758382929",
+      "width": 782,
+      "height": 146
     },
     {
       "path": "assets/source/identity.json",
       "role": "identity-source",
-      "bytes": 1039,
-      "sha256": "03862da9f5825e59581a27b78bc122ba046465cee5a1ee906332d6340cbdd05e"
+      "bytes": 1119,
+      "sha256": "8d689a766dc17df790f7bd5cf40219a0e44e4bd98e374b4721eb4c79cc006079"
     },
     {
       "path": "assets/tokens/decisioninvitation.tokens.css",
       "role": "design-tokens",
-      "bytes": 655,
-      "sha256": "ca87e4bff2b9885b0772e7bef16a36bdb9dea0d53b8a077b61093716903a545d"
+      "bytes": 564,
+      "sha256": "b435c50c36bf632f4822e56af72d7a7c5e41a3e42497e9abacebe7b5e1ffe8b6"
     },
     {
       "path": "assets/tokens/decisioninvitation.tokens.json",
       "role": "design-tokens",
-      "bytes": 1406,
-      "sha256": "78b38f7bf4ff87f33502d6c390bbcb3fa33d05f4554bae378cb1a4f7f002296c"
+      "bytes": 1394,
+      "sha256": "1ff564616ed0d8fb4c66f86bf07d710e28f8b954227ac95badd241d3fd356bd5"
     },
     {
       "path": "brand-system.json",
       "role": "documentation",
-      "bytes": 3392,
-      "sha256": "6e8c59d6af2cceef968420899843dcfb638846c9958923cd8524f073936ac35e"
+      "bytes": 3418,
+      "sha256": "5a1ec245615948c67c175024b21b9a8bc92fe250055c5fbad829214aa8f5a700"
     },
     {
       "path": "docs/AI-HANDOFF.md",
       "role": "documentation",
-      "bytes": 4219,
-      "sha256": "abeba84d9dafeeb4c0aa7c51c3fd45c1fcba43a54455124da60914b4804edeaf"
+      "bytes": 1209,
+      "sha256": "3f60cd10faccb176e39db3c2d7308650c248e3acdceb9f3610224b636185b357"
     },
     {
       "path": "docs/README.md",
       "role": "documentation",
-      "bytes": 3246,
-      "sha256": "725e304a3f6f215a978adee43bee2d2b1efc8df448cce361666e3bb7d53edd6b"
+      "bytes": 1283,
+      "sha256": "5e2099eecae9a6c1a19921147a78a1b82176998286ac13d31b87adcd677a00dc"
     },
     {
       "path": "docs/adoption-register-template.md",
@@ -183,26 +159,26 @@
     {
       "path": "docs/art-direction.md",
       "role": "documentation",
-      "bytes": 4793,
-      "sha256": "37d3a4fdb8a1eda88f7ad0ed756b2f366dd3d63dfac9b7cb04ed9ee4d3315c53"
+      "bytes": 932,
+      "sha256": "9870d30a042d28cd8cfa6992a5082bec9be201624cce6baca0a21f63dc2f3bbf"
     },
     {
       "path": "docs/brand-architecture.md",
       "role": "documentation",
-      "bytes": 3063,
-      "sha256": "b73bfd03a8a23b95e3d85b4f0c45a490722eaa4a994b99d2f497652b87ba889b"
+      "bytes": 761,
+      "sha256": "c252ba0f90608931bb19259d9567f2a30bd755f2dd0b77ef7705afd5164fc7a9"
     },
     {
       "path": "docs/brand-guidelines.md",
       "role": "documentation",
-      "bytes": 6774,
-      "sha256": "644316cfa58ecf229daea0a82f5f1dc64cb7f7544839fb5b13bbb779d0b5edee"
+      "bytes": 3694,
+      "sha256": "eee63641d8d07a344da6788d6bbcaf3ff8b4bd7e841259bf50e8be82b81baeb1"
     },
     {
       "path": "docs/brand-strategy.md",
       "role": "documentation",
-      "bytes": 7520,
-      "sha256": "123799bb7f6273fe744b369b7630a044deec433f5afa441c3e5f64b8451dd3ed"
+      "bytes": 1059,
+      "sha256": "65ccde37f37ba10c1977f570f601db755b1647d3ee3a0ce933b439ac6f36bf90"
     },
     {
       "path": "docs/claims-and-privacy.md",
@@ -213,278 +189,284 @@
     {
       "path": "docs/color-and-accessibility.md",
       "role": "documentation",
-      "bytes": 4623,
-      "sha256": "f3307f45e66b5fce9de1121190067147816debfe4cf2ed52af22b77aacc2eaf2"
+      "bytes": 1352,
+      "sha256": "5542d9ddc40136c02b2968a73bb1adcffe624f89eff2dba26fa4aa7bbb1e9057"
     },
     {
       "path": "docs/decisions/0001-independent-catalyst-identity.md",
       "role": "documentation",
-      "bytes": 2417,
-      "sha256": "90fc6fbf9df20ae9ed5ef40567452e8c3ed3a9cb428932aae1f667efee6a6f41"
+      "bytes": 2463,
+      "sha256": "5232965b655b024d50d551b6d188235c98204c63e2a092fe0bc649fc16219565"
+    },
+    {
+      "path": "docs/decisions/0002-decision-instrument-identity.md",
+      "role": "documentation",
+      "bytes": 1205,
+      "sha256": "363a50d80820088b35ef0f025bcbb2222a1cce6e68b83675a2452ad93f0c31ed"
     },
     {
       "path": "docs/email-and-documents.md",
       "role": "documentation",
-      "bytes": 3530,
-      "sha256": "72913ec7e929ac9c3dddd3941d67c23fb6c645e40d09790a74d15d9f469865e2"
+      "bytes": 3500,
+      "sha256": "e1aebececb9c01e2fef86e27f7b31a061d0a420a5a89813e4a30c6a46dc1e12f"
     },
     {
       "path": "docs/governance-and-release.md",
       "role": "documentation",
-      "bytes": 4673,
-      "sha256": "b79b0b00a1e6189c899978fada969cba72ad5cf2b5015676670203dd9831d2e5"
+      "bytes": 4704,
+      "sha256": "5b4cfa2a8710adaab4209d9a41f47a10919b5ad88b90ff67137fd39bb0d853d1"
     },
     {
       "path": "docs/logo-standards.md",
       "role": "documentation",
-      "bytes": 4769,
-      "sha256": "830008e7ba0c927f47d0df59221de8984d17601e47d2e429eafe58d1b7160bcb"
+      "bytes": 1028,
+      "sha256": "2f292abf1ac53d4a40a410d04410be36f24194c07c87379ca82867b74d54e587"
     },
     {
       "path": "docs/messaging-and-voice.md",
       "role": "documentation",
-      "bytes": 7460,
-      "sha256": "910a5560108dee108fa8a0d2a47c27e4d49116b5dd6752f45d94ce020765dcef"
+      "bytes": 7458,
+      "sha256": "3d61348bd37703c3889ab6c2f1422b31cf315a57dc700f636c835c93750bd920"
     },
     {
       "path": "docs/motion-and-interaction.md",
       "role": "documentation",
-      "bytes": 2374,
-      "sha256": "73147c3946754ff2b15f19890774bbaf544f8586c118c1b69f3db3dd12055fe3"
+      "bytes": 666,
+      "sha256": "8b668d9d3a89001968e5adf68239dd0ad8b69ee4cea427ff2b0632d6086da40e"
     },
     {
       "path": "docs/social-media-guidelines.md",
       "role": "documentation",
-      "bytes": 3804,
-      "sha256": "22f219c5658d8bec1b5e73ac3827d8e2e8f83d15337d8af363449b8b90293bd4"
+      "bytes": 2219,
+      "sha256": "e36c9d74a5c5a28c292353b7b22868989b0e961f0a15a95bc9c817586e0f4942"
     },
     {
       "path": "docs/typography.md",
       "role": "documentation",
-      "bytes": 4094,
-      "sha256": "f997d4a066dff29c462382df1566ae86d36441c3f7e90c46f552e06865ff0d61"
+      "bytes": 998,
+      "sha256": "e78f473540f97a5913ce7b4cdea43077d97e1e057469b422e386e3d09826bfc5"
     },
     {
       "path": "docs/website-guidelines.md",
       "role": "documentation",
-      "bytes": 4529,
-      "sha256": "be66cd4ebd3e183fdfcb2f8a1b7d64a38e51d1a06ebb7495027c21ff935c3302"
+      "bytes": 1009,
+      "sha256": "80d5d50e671bb89025720949ed8c175cc865012d8dd2de25f0b9a593f8bc96c4"
     },
     {
       "path": "output/pdf/decisioninvitation-identity-manual.pdf",
       "role": "identity-manual",
-      "bytes": 97366,
-      "sha256": "68ef0f7f4ef3da5d31bd093a50e7019d4a1868d92a43170df90bce67efe05cc0"
+      "bytes": 47566,
+      "sha256": "69e25352b899d255e5af371b63acddd2568ba0d2d6634bfbbf81f593425235f7"
     },
     {
       "path": "package-lock.json",
       "role": "dependency-definition",
       "bytes": 21224,
-      "sha256": "08da50728aed6478022440dd413a025662364b5d2d6d6b3f2feb36697bb78d90"
+      "sha256": "8a80509c7ddfc65c5c3fa84ad214cccb5ff7aaeae27cfbafcdf9b484d3735ff3"
     },
     {
       "path": "package.json",
       "role": "dependency-definition",
       "bytes": 418,
-      "sha256": "f2fd0e8b6176cc76561ad60629e7705eca20c5971949df0d6fb5a0409c7e1101"
+      "sha256": "43306b060f6b421c2c1fd06b0a273f10310661226549f2d144f168ae97915e87"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 6635,
-      "sha256": "c649f07bc7bc4bd3aabe59f0285e54a4979b21c3786505af1b16371a623bff2c"
+      "bytes": 7184,
+      "sha256": "6573009a661565c0a0b5280934c4b48ba3f1e1dd4b322b37afc8310f41d3c993"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 6651,
-      "sha256": "294548fe25306548894d300c2249f7103a964c9a0d264e43581292fdb27d9008"
+      "bytes": 7200,
+      "sha256": "68e564e0a7a6160efe4555c71ad2ecef28c468bcb9bb37b7975311f3c6382443"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 6663,
-      "sha256": "0609d3b18209ddbfd3590c9ccdbc487240933b2ddd40d18fdb63f33f144e1bb3"
+      "bytes": 7184,
+      "sha256": "626184e99e771a4720d1271c5b08b929e7874154f26a0ac1e4a435352f527a30"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-white.pdf",
       "role": "logo-pdf",
-      "bytes": 6621,
-      "sha256": "4bbb71146c74378fe11e6124c2e92a00731df33c4f36d9a9bfa497f8cb64ffa4"
+      "bytes": 7164,
+      "sha256": "2a695d604e045cc9f5e8ade2697d43683dbe2f5ebbf806872a6162e073e07179"
     },
     {
       "path": "production/01-logo/pdf/di-mark-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 1599,
-      "sha256": "df860591bde24e04963db49a4a7b3b4759bf86c23c0ff34289393ee7217ee3c3"
+      "bytes": 1579,
+      "sha256": "b1aa31fbbb2be859777b5c94439ab8c4ab20097860dc23c91e3e15449fcba7d3"
     },
     {
       "path": "production/01-logo/pdf/di-mark-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 1614,
-      "sha256": "9a854c1055cf1cdb4c0045f5ff020dd82f0b951d91a7681a8714c38b9d5f1ddd"
+      "bytes": 1595,
+      "sha256": "aae888d95abaa38034b392f9e1359720e4220d7f02e068a9bf90a5348faabda4"
     },
     {
       "path": "production/01-logo/pdf/di-mark-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 1620,
-      "sha256": "67251b0977a8ea913dd6beb48b2ff21a68eb6e02d8eac463c73ef29deedbf28c"
+      "bytes": 1584,
+      "sha256": "42dbe56d8c361655b7ae67288642227677f290f58912cd183fa1b36ab88004a4"
     },
     {
       "path": "production/01-logo/pdf/di-mark-white.pdf",
       "role": "logo-pdf",
-      "bytes": 1589,
-      "sha256": "d1d1c98d4d322511b6a31596676ed1b7a24b3a2a551ea16face64b7458d41252"
+      "bytes": 1565,
+      "sha256": "1060df18ec3a7e41cba2ae32e5cce98abbcd1886297b429de5b520c338e99070"
     },
     {
       "path": "production/01-logo/pdf/di-micro-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 1589,
-      "sha256": "cc17ea88bdb2f404c528c8ee5f9db28dc62d4a73d47feb578720842ba02c56ed"
+      "bytes": 1564,
+      "sha256": "b5acc916d35d50aa86666e9d3faee4d9f652a44c71b18aae5bad7567c7c50707"
     },
     {
       "path": "production/01-logo/pdf/di-micro-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 1601,
-      "sha256": "3820427ede77efa58f8753ed98d9c4cf7cf21fac988f2865966d9ea0ebdfc8f9"
+      "bytes": 1579,
+      "sha256": "2d3f9aa850b8fcf4709016cd76567216ba1822167c3360c2b9469b97efd0798c"
     },
     {
       "path": "production/01-logo/pdf/di-micro-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 1606,
-      "sha256": "2c140ad29305b26319ef2436e7f938818cb8a35627c593a7958c7c4d71b88a9b"
+      "bytes": 1567,
+      "sha256": "fdad078540d3c47a7b8109cb1d169e51e5ebd77e077004e8b9e555c3adec91f7"
     },
     {
       "path": "production/01-logo/pdf/di-micro-white.pdf",
       "role": "logo-pdf",
-      "bytes": 1577,
-      "sha256": "663ef7035829660991ec002f21d5f38561c3cb6ed786a59aae57cfb4c0fa2daa"
+      "bytes": 1550,
+      "sha256": "06c000d7b1cc0bc71dc128017a73534f7f26f04f6e9db91f46f3a0c39f6b280a"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 7067,
-      "sha256": "9d6388cb7e2a906f8bf68c80f2fb783c5b0e586d456f21b7787f2eb0f86e9f27"
+      "bytes": 7010,
+      "sha256": "9ce40267fb474e18673b5c170406e356228f1008cd62ec3db72c10e63d427410"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 7081,
-      "sha256": "f882f61edca4692ba7e1693bb2e7de5c54e4d545bc186b26c0065180ff48eef2"
+      "bytes": 7027,
+      "sha256": "3a6ce8771e4f3c741c3fe98f98beb2e8016c970f895710789efc6c3d1177df7d"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 7088,
-      "sha256": "3db13fbbc60ee477f92e329e975433cb56a1018fd55114b886500bd6a86dd6ce"
+      "bytes": 7011,
+      "sha256": "c767b56e81cec88d0e7ce2e734b1b02294bc9a08f69b75b56326af91e38f6c30"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-white.pdf",
       "role": "logo-pdf",
-      "bytes": 7052,
-      "sha256": "94937268299b3b6c4be7bdf653c83b833a6363df8bf7dc8c5d20153be680acd3"
+      "bytes": 6991,
+      "sha256": "b6427ad11bb10005ea234efadf7993a91cc2fa7e435bbe3f681474b80b49c876"
     },
     {
       "path": "production/01-logo/pdf/di-wordmark-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 6379,
-      "sha256": "18a3d83b0df9fdfbe7ef4d2a6fedb0bfe2a4931e5baf3389c959600d166dfb4f"
+      "bytes": 6907,
+      "sha256": "969b811920d112876ed1f3430d482a3dc9f2050f0dc1bfad60a3275261443c86"
     },
     {
       "path": "production/01-logo/pdf/di-wordmark-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 6379,
-      "sha256": "18a3d83b0df9fdfbe7ef4d2a6fedb0bfe2a4931e5baf3389c959600d166dfb4f"
+      "bytes": 6907,
+      "sha256": "969b811920d112876ed1f3430d482a3dc9f2050f0dc1bfad60a3275261443c86"
     },
     {
       "path": "production/01-logo/pdf/di-wordmark-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 6382,
-      "sha256": "299db91eb752eabbb3be32267c89b60e4082b57420e72a0c29882cc28b2d7e79"
+      "bytes": 6886,
+      "sha256": "25d55e70564b9158ca5a6503adbf924d9c7033d0d7d83c93556d5f9885d82a2f"
     },
     {
       "path": "production/01-logo/pdf/di-wordmark-white.pdf",
       "role": "logo-pdf",
-      "bytes": 6360,
-      "sha256": "c9868eeb569b17cc1e926b92cbd5eb1ac5832c0e38a394796fbceac041929df9"
+      "bytes": 6886,
+      "sha256": "25d55e70564b9158ca5a6503adbf924d9c7033d0d7d83c93556d5f9885d82a2f"
     },
     {
       "path": "production/01-logo/png/di-lockup-ink-1200.png",
       "role": "logo-raster",
-      "bytes": 19750,
-      "sha256": "1b9bed4937db642b34aedc2578e674aee3328ec10b97ebf423039b1cd9a81a3c",
+      "bytes": 18330,
+      "sha256": "33e76f7f915fe2930eaa5c435f8fe9f3e1dc4e20c057cac911511b0c6ed86140",
       "width": 1200,
-      "height": 254,
+      "height": 224,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-ink-2400.png",
       "role": "logo-raster",
-      "bytes": 46355,
-      "sha256": "bc86c325fa5579bd2328bc160c6ad1eafccf7a08d8152ab9498e0303ef505842",
+      "bytes": 42582,
+      "sha256": "d203bebeba12bed53705aef58ac600f0f2111fbab97a15344fde6f6b75d50e8c",
       "width": 2400,
-      "height": 508,
+      "height": 448,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-primary-1200.png",
       "role": "logo-raster",
-      "bytes": 19974,
-      "sha256": "2c00f8e82e482bd5abca703d553574ecbf50225ed913c43a17cce378a0abbb8d",
+      "bytes": 18477,
+      "sha256": "72e33a82d4be327c73e6730ab9e694c88946d5fa228189cfc35261d09db067ac",
       "width": 1200,
-      "height": 254,
+      "height": 224,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-primary-2400.png",
       "role": "logo-raster",
-      "bytes": 46725,
-      "sha256": "f64a9febdd8a6860c88e806b1141c2b675529eeaed7518782be3dc0cbe6eca5e",
+      "bytes": 42757,
+      "sha256": "6169097cf47d4586c4472fa2fdac972e2b506c5c03d85246109b4a29fe2604de",
       "width": 2400,
-      "height": 508,
+      "height": 448,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-reverse-1200.png",
       "role": "logo-raster",
-      "bytes": 19815,
-      "sha256": "664327c93a652b8c0ecf2bd9f00d17ca004749770f4104bd14b40e9bba0d8d80",
+      "bytes": 15367,
+      "sha256": "4708b03952e3849832354f4358360f7183cf71b514b27cde44dce2a94b38e89c",
       "width": 1200,
-      "height": 254,
+      "height": 224,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-reverse-2400.png",
       "role": "logo-raster",
-      "bytes": 46231,
-      "sha256": "b95292387084444ec6a424997af18b74b3194f6fc0b0011ecba1a2f7d209683f",
+      "bytes": 34880,
+      "sha256": "bdd4164c62ee86e56b1b60bf214940f7a46ed762382318017df1f67d6514e16e",
       "width": 2400,
-      "height": 508,
+      "height": 448,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-white-1200.png",
       "role": "logo-raster",
-      "bytes": 16076,
-      "sha256": "bead7e73560ce64e6e8db0d142da9a8920064356241bc9570c968b8012dd67fb",
+      "bytes": 15194,
+      "sha256": "40e288b206c563500d90885dc3c2a05673945573f5dd156ea9de977e7384b593",
       "width": 1200,
-      "height": 254,
+      "height": 224,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-lockup-white-2400.png",
       "role": "logo-raster",
-      "bytes": 38071,
-      "sha256": "6f11cea045581ec919b1f19aebeae0458e917a9ee8023bbae33b718ea282c521",
+      "bytes": 34541,
+      "sha256": "d2824cc4bb7617ad3b78028c2c127a0ca0cb0c8584c39b4731b90ba89f773486",
       "width": 2400,
-      "height": 508,
+      "height": 448,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-mark-ink-1024.png",
       "role": "logo-raster",
-      "bytes": 28727,
-      "sha256": "83d9d9748c2680484b62fd8356394c2caf61b084059b5717f04ae87e881eea13",
+      "bytes": 22618,
+      "sha256": "16208a17500b2952014faa91b189b684ffdc2da49c79836b69aff55088e20533",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -492,8 +474,8 @@
     {
       "path": "production/01-logo/png/di-mark-ink-256.png",
       "role": "logo-raster",
-      "bytes": 4444,
-      "sha256": "40c52cabbe3a98c8c403e5de8573bebd68bf0a7ad128aab7be3b2cdbbf751d3a",
+      "bytes": 3156,
+      "sha256": "02ec9a2e684a75f3847d3ca239a1b062a6da39a8ce4b56d0201fbdda9091c1b7",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -501,8 +483,8 @@
     {
       "path": "production/01-logo/png/di-mark-primary-1024.png",
       "role": "logo-raster",
-      "bytes": 29243,
-      "sha256": "df5b6a4aad80bf022a7d626d182fb5e0998c378fc0ab6b028c6128bffc1756cc",
+      "bytes": 22850,
+      "sha256": "196779a40945bb8ca90e73840a714a60e3a1296060f9839d9a7f6e645f449493",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -510,8 +492,8 @@
     {
       "path": "production/01-logo/png/di-mark-primary-256.png",
       "role": "logo-raster",
-      "bytes": 4568,
-      "sha256": "17103a5c500491c6cad94782bb5c49a2434f2a635158c596e59997e832a81022",
+      "bytes": 3218,
+      "sha256": "25f22bc9b887ee60024bae3d76b87fd303e81df9d953b099772f9f05f207587b",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -519,8 +501,8 @@
     {
       "path": "production/01-logo/png/di-mark-reverse-1024.png",
       "role": "logo-raster",
-      "bytes": 28791,
-      "sha256": "5f0264b985f83f7c4485395245c6ffc89b5711d0e58a57e8557cc1df7b428edb",
+      "bytes": 17176,
+      "sha256": "da78ddd5d12c2e1ea43800f878b7329395cd6d874cc462c064e31ad5573a0982",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -528,8 +510,8 @@
     {
       "path": "production/01-logo/png/di-mark-reverse-256.png",
       "role": "logo-raster",
-      "bytes": 4500,
-      "sha256": "04bd8d530d6a897bebcfc28c9c9037c6460e20108e283788a67d04b9e7626298",
+      "bytes": 2850,
+      "sha256": "97881cfe62be07ce72992230000ef211d62180646fa58e23987e281853477a8a",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -537,8 +519,8 @@
     {
       "path": "production/01-logo/png/di-mark-white-1024.png",
       "role": "logo-raster",
-      "bytes": 20023,
-      "sha256": "d7d1a225f6ce75392b7495e1591eaad4c55b611b5d78cfbe47c21f4a1f931e66",
+      "bytes": 16594,
+      "sha256": "8ddfaaf4884733480533c0aed5945864e0af589359d87313a0aa2eec87901168",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -546,8 +528,8 @@
     {
       "path": "production/01-logo/png/di-mark-white-256.png",
       "role": "logo-raster",
-      "bytes": 3448,
-      "sha256": "359e36a312dbf7158c778c106b8d9ac3b65b2e99bc740cdfd436a08a8c4e5e9d",
+      "bytes": 2756,
+      "sha256": "91a62174051ad004b4b6bf8644456307f80d915226f0d166d76ea505af2d7c6d",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -555,8 +537,8 @@
     {
       "path": "production/01-logo/png/di-micro-ink-1024.png",
       "role": "logo-raster",
-      "bytes": 28789,
-      "sha256": "84bbcfc740a0e3fedcdc2144f171a18207dbbe1ba97a15c27eb7183e45ecf54f",
+      "bytes": 21446,
+      "sha256": "29625f75206410a2a8735d9988943a72eb8ab22be76449d5d77d2e9b1a86815c",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -564,8 +546,8 @@
     {
       "path": "production/01-logo/png/di-micro-ink-256.png",
       "role": "logo-raster",
-      "bytes": 4866,
-      "sha256": "7d8783ce751b251d1e082881609aab68acb07824bcfef013f04dfb367c8102d3",
+      "bytes": 2469,
+      "sha256": "c4e5f81aaae9dd7cf72a183d21f8972b2b609afa3aedd70cc0066a8e35e06bf2",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -573,8 +555,8 @@
     {
       "path": "production/01-logo/png/di-micro-primary-1024.png",
       "role": "logo-raster",
-      "bytes": 29339,
-      "sha256": "cf87ab8967d9e454dad8a11d1e155f4994813689bc0b23fe9dac3370ac255250",
+      "bytes": 21729,
+      "sha256": "94cce31f2368bb1efd36aced6fbe04ff1e52b4b0ab8b5bd19e2ba09e98a2de21",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -582,8 +564,8 @@
     {
       "path": "production/01-logo/png/di-micro-primary-256.png",
       "role": "logo-raster",
-      "bytes": 4989,
-      "sha256": "f989107e1a2e3ea521205399b26381a677b7924ad180bf197f3f360bd555bd87",
+      "bytes": 2529,
+      "sha256": "d70a0f886c810971949d7020bffa080c0eade168163d41907f8f5c5205e49b8b",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -591,8 +573,8 @@
     {
       "path": "production/01-logo/png/di-micro-reverse-1024.png",
       "role": "logo-raster",
-      "bytes": 29074,
-      "sha256": "3e7ef71aa207ec0b5367ac802b90866660092a2d9bd5c09a8330a21a1357c559",
+      "bytes": 17146,
+      "sha256": "1916d21b39de1e1c2ba9ee2ffdb69092bc1992d54673917f2af8d9f86f17466f",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -600,8 +582,8 @@
     {
       "path": "production/01-logo/png/di-micro-reverse-256.png",
       "role": "logo-raster",
-      "bytes": 4943,
-      "sha256": "bfb018186e826b34f45172ed9421cea3974354360f5d096df6923f8ed732fee8",
+      "bytes": 2350,
+      "sha256": "e059607bf3c75663201eaa2ee42988567b97d389df1c494a55f132aabb7a9dae",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -609,8 +591,8 @@
     {
       "path": "production/01-logo/png/di-micro-white-1024.png",
       "role": "logo-raster",
-      "bytes": 19897,
-      "sha256": "50e32579a185a39bfb3830fde67b005266178484bde93dcc22264fd66abe3038",
+      "bytes": 16609,
+      "sha256": "c2886db03975993a8e940fb9dd91d131779230717e5980c24015764920b3d34e",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -618,8 +600,8 @@
     {
       "path": "production/01-logo/png/di-micro-white-256.png",
       "role": "logo-raster",
-      "bytes": 3494,
-      "sha256": "7690cc6fe6cb6df6ff33ff3eeb6c8f87b8f5c9f14485a8f06c5ff20521afc9d4",
+      "bytes": 2242,
+      "sha256": "15f9d9e8846eedba8baf80cd780fd9cf8d9dfebbecb0dbe1ff7411503d63b7a3",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -627,8 +609,8 @@
     {
       "path": "production/01-logo/png/di-stacked-ink-1200.png",
       "role": "logo-raster",
-      "bytes": 43017,
-      "sha256": "0cb3534804cfa5f9bc03d34d07165afaca91f29702f077640b093d8a49384949",
+      "bytes": 44270,
+      "sha256": "4ad0b65b9598ae3505448796b7c63fa330d9ea4ca6e08dcdccd584df73ad2088",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -636,8 +618,8 @@
     {
       "path": "production/01-logo/png/di-stacked-ink-2400.png",
       "role": "logo-raster",
-      "bytes": 110271,
-      "sha256": "63e78f9baf50ef90a99fa8736a58cc9b63ebc9ef6fcb3ecee5b6ea663a80d9d3",
+      "bytes": 114548,
+      "sha256": "9745d46919921d4953d8a4fe52af3a11697065b33f16dd2c9bffbc51e3dca3d9",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -645,8 +627,8 @@
     {
       "path": "production/01-logo/png/di-stacked-primary-1200.png",
       "role": "logo-raster",
-      "bytes": 43333,
-      "sha256": "384cfad7d1ab29758fff40782ac3d3b7eb258e16e031676214ff2bf5718da0b0",
+      "bytes": 44431,
+      "sha256": "ca7f4c9c8c7cc98565984126c19899558faea42905d8576073060d85742eba0f",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -654,8 +636,8 @@
     {
       "path": "production/01-logo/png/di-stacked-primary-2400.png",
       "role": "logo-raster",
-      "bytes": 110680,
-      "sha256": "e9c52d98bed4473a6db4b6872429fac32607433cef5010639436c8d671bad75b",
+      "bytes": 114845,
+      "sha256": "64a8254bb47013bf9aca91f98e9e733ef8ae085f47726655ff1083e3d893b5ea",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -663,8 +645,8 @@
     {
       "path": "production/01-logo/png/di-stacked-reverse-1200.png",
       "role": "logo-raster",
-      "bytes": 42913,
-      "sha256": "075cf5ab201d95f7383aa51d4fb54923bdddfcdda204e83ac9d9571ac60b509d",
+      "bytes": 35120,
+      "sha256": "f9d0316d12ecc88c972c64b45d571f5fe5aa353b2ca48c6dfa2265c417f065d8",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -672,8 +654,8 @@
     {
       "path": "production/01-logo/png/di-stacked-reverse-2400.png",
       "role": "logo-raster",
-      "bytes": 109217,
-      "sha256": "4ad32bc2a1a200ed0fd7312642e20752be512a4267211465b9f1ce34c6383e4e",
+      "bytes": 88456,
+      "sha256": "0fa0a598d396bb8bd21cf6ee5cc4255ba8952a34094a81631b75f0773c0b2c8c",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -681,8 +663,8 @@
     {
       "path": "production/01-logo/png/di-stacked-white-1200.png",
       "role": "logo-raster",
-      "bytes": 33936,
-      "sha256": "f8ce8168fce94e35951b03a2ab2100f691048775c40cb35fd31575f7970f8e16",
+      "bytes": 34843,
+      "sha256": "3ed42ae24c005a963ca00d5b15de1931b07ec46c33767e6a1be5d79bcea30ad6",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -690,8 +672,8 @@
     {
       "path": "production/01-logo/png/di-stacked-white-2400.png",
       "role": "logo-raster",
-      "bytes": 84970,
-      "sha256": "9c012b433a26ed9ef6755e87acda7d9ddc6afb365e4686c8e75d420c2aa8302f",
+      "bytes": 87712,
+      "sha256": "e93fd1c447d48e8f152fb3839340672b559cb8c2365e30ed272ddc0926c1c035",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -699,240 +681,240 @@
     {
       "path": "production/01-logo/png/di-wordmark-ink-1200.png",
       "role": "logo-raster",
-      "bytes": 20375,
-      "sha256": "7cdf901f9b8f9024fe095cfa9d1810812dace2ae068cfc7fb169809483938086",
+      "bytes": 19190,
+      "sha256": "535af0d15019ea57a1dcac1d51ed868b371dc1c9a48f77a0c1809d18a1a88c9f",
       "width": 1200,
-      "height": 236,
+      "height": 204,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-ink-2400.png",
       "role": "logo-raster",
-      "bytes": 48703,
-      "sha256": "03e00ba0ef58cb2879df81d9a7c38092bb22a65dafdd765d6580d3ade5d28420",
+      "bytes": 45817,
+      "sha256": "1bf9fb3d96cc3ed8cee346c1f4c3e081388a735f96c66f493f5ca3d4dd87c029",
       "width": 2400,
-      "height": 472,
+      "height": 408,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-primary-1200.png",
       "role": "logo-raster",
-      "bytes": 20375,
-      "sha256": "7cdf901f9b8f9024fe095cfa9d1810812dace2ae068cfc7fb169809483938086",
+      "bytes": 19190,
+      "sha256": "535af0d15019ea57a1dcac1d51ed868b371dc1c9a48f77a0c1809d18a1a88c9f",
       "width": 1200,
-      "height": 236,
+      "height": 204,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-primary-2400.png",
       "role": "logo-raster",
-      "bytes": 48703,
-      "sha256": "03e00ba0ef58cb2879df81d9a7c38092bb22a65dafdd765d6580d3ade5d28420",
+      "bytes": 45817,
+      "sha256": "1bf9fb3d96cc3ed8cee346c1f4c3e081388a735f96c66f493f5ca3d4dd87c029",
       "width": 2400,
-      "height": 472,
+      "height": 408,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-reverse-1200.png",
       "role": "logo-raster",
-      "bytes": 20207,
-      "sha256": "6f7ca04002c298447b2dbbd538b84942dde0177b843b6c5b958a91a73b5c86c9",
+      "bytes": 15763,
+      "sha256": "cbbfc666518a3f8df901bc17b5e1876cea62d8931d18ebc035813d398f14e7f7",
       "width": 1200,
-      "height": 236,
+      "height": 204,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-reverse-2400.png",
       "role": "logo-raster",
-      "bytes": 47944,
-      "sha256": "5ec8518392722c5f6dea58f480a7b00428f5bc63e29e078869f69fe931b9af77",
+      "bytes": 36894,
+      "sha256": "67786a7fd390fe347b75a545e26a33adf608c4ff6be3c5076e1f69b7d8541014",
       "width": 2400,
-      "height": 472,
+      "height": 408,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-white-1200.png",
       "role": "logo-raster",
-      "bytes": 16688,
-      "sha256": "f895e34395ae82ab267158a049905c32372fb9741f4541c1b3f45b9f810dd04f",
+      "bytes": 15763,
+      "sha256": "cbbfc666518a3f8df901bc17b5e1876cea62d8931d18ebc035813d398f14e7f7",
       "width": 1200,
-      "height": 236,
+      "height": 204,
       "alpha": true
     },
     {
       "path": "production/01-logo/png/di-wordmark-white-2400.png",
       "role": "logo-raster",
-      "bytes": 39055,
-      "sha256": "ab0662b3ca21fab8203d9c79c7fc29c0694d49b4b4698883acd3a56c1da3c452",
+      "bytes": 36894,
+      "sha256": "67786a7fd390fe347b75a545e26a33adf608c4ff6be3c5076e1f69b7d8541014",
       "width": 2400,
-      "height": 472,
+      "height": 408,
       "alpha": true
     },
     {
       "path": "production/01-logo/svg/di-lockup-ink.svg",
       "role": "logo-vector",
-      "bytes": 11098,
-      "sha256": "ad551c5ec714ef4c762f0de94596b66f2135eb1b52f8e9a64ee8f325e7094209",
-      "width": 709,
-      "height": 150
+      "bytes": 11011,
+      "sha256": "f484eebadea000c2941cb570548eede8f05a4a6c8f9b74e0d06da9d1537d23e1",
+      "width": 782,
+      "height": 146
     },
     {
       "path": "production/01-logo/svg/di-lockup-primary.svg",
       "role": "logo-vector",
-      "bytes": 11098,
-      "sha256": "de51a16dcf0184aff0bbde4b9ad0bb93654bc08dd7e033e28dad04e8f50aff33",
-      "width": 709,
-      "height": 150
+      "bytes": 11011,
+      "sha256": "b403db21d44cdcffad9626225d72d47331c05adef2273bb2759506b758382929",
+      "width": 782,
+      "height": 146
     },
     {
       "path": "production/01-logo/svg/di-lockup-reverse.svg",
       "role": "logo-vector",
-      "bytes": 11098,
-      "sha256": "f8c934fa6aac1976e4ebd6815aebd16f12d49268f6a94ce14eeb2f3565873007",
-      "width": 709,
-      "height": 150
+      "bytes": 11011,
+      "sha256": "af60f2168f99c5d57dfc38e7c8e9fa4024e6439479a192a9760bf820271619a7",
+      "width": 782,
+      "height": 146
     },
     {
       "path": "production/01-logo/svg/di-lockup-white.svg",
       "role": "logo-vector",
-      "bytes": 11098,
-      "sha256": "8cea7eb80044107881315992f380b24d933c16344ceffa1582dfeb6fd7511c1f",
-      "width": 709,
-      "height": 150
+      "bytes": 11011,
+      "sha256": "9fd766acfcddaf5847864477c241a96afc2f368be8fcc06d667e42422458158b",
+      "width": 782,
+      "height": 146
     },
     {
       "path": "production/01-logo/svg/di-mark-ink.svg",
       "role": "logo-vector",
-      "bytes": 380,
-      "sha256": "5e8654b732f5b7a63e2a6c78d983b57063c33cbf04275039413f1225e263ffa2",
+      "bytes": 330,
+      "sha256": "b8e2220efca2e109756a5b447b61970a7f021ce209b14b78d312d992d40754d4",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-mark-primary.svg",
       "role": "logo-vector",
-      "bytes": 380,
-      "sha256": "70a1045a17df28607d7cdf8ceb02ab135171027bd0759668a57cc9fd655116b7",
+      "bytes": 330,
+      "sha256": "3308a651924841d96ef1cc770d033b5f7ef327ad69e01977282235cc99aea9e0",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-mark-reverse.svg",
       "role": "logo-vector",
-      "bytes": 380,
-      "sha256": "088485bc6aaef42b834ef31617394df61ece00cc5fac121ee70d7fffb4c78b7f",
+      "bytes": 330,
+      "sha256": "82129f03e05371418fe037552133333d7d20c52a5bc080c36b071e8723d80389",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-mark-white.svg",
       "role": "logo-vector",
-      "bytes": 380,
-      "sha256": "f17817bd1131212abacb7fde554efb0502549404193969cf8878b3e68521c035",
+      "bytes": 330,
+      "sha256": "e0bde2602b43d4da4cb2df23951af37227315bc3f1207c7b66beccdb3889dce6",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-ink.svg",
       "role": "logo-vector",
-      "bytes": 371,
-      "sha256": "3c6cfa79ef1f5aa8e903b8a2c6e30a36cb3922d68b87c68de916a3fd01d29ada",
+      "bytes": 298,
+      "sha256": "cb9fe886758317824ab4bb9dde6e7483ea9c771cddd2e001ed89ac0af359ba23",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-primary.svg",
       "role": "logo-vector",
-      "bytes": 371,
-      "sha256": "4a8d42a5c399ce299492c36002e1d9934b7a37670d0796a99dbc2f05772ac9b8",
+      "bytes": 298,
+      "sha256": "cb5b275c588e8fc7f062bded284782fe82fe64ca414ecca5855f128dec8d9be1",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-reverse.svg",
       "role": "logo-vector",
-      "bytes": 371,
-      "sha256": "cf44198e135b82fa3d3c30d3799b0cbc3753e778a4c0333c7388e23737a812c8",
+      "bytes": 298,
+      "sha256": "e45e0905bc5f5387e38c92ca473c94586781e61d2e753c9823f3f78f2facf0d1",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-white.svg",
       "role": "logo-vector",
-      "bytes": 371,
-      "sha256": "1fb28d1a0db325dd4acc6c1700e06365a89536df091e51ccd3c2053f3931f20c",
+      "bytes": 298,
+      "sha256": "0d35d4b867c3c11e03e69c2895594607ca22ace9509ad5945adfd6d39a35cded",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-stacked-ink.svg",
       "role": "logo-vector",
-      "bytes": 11413,
-      "sha256": "6ebe19128894a87412e4c81c9dc884ae0acc4af54d05f4d99c59141d4febd56d",
+      "bytes": 14245,
+      "sha256": "726b4db447aa406e5e63e804b39f841c856e846d75428610d27fc6bed191e187",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-stacked-primary.svg",
       "role": "logo-vector",
-      "bytes": 11413,
-      "sha256": "dad46870a4935454ffb1937b8a4a1b874ad1c83f447ab952852fdbaf7bd20ac1",
+      "bytes": 14245,
+      "sha256": "f725642e0101ba1ef650f4dd5aa85953cf2315d8d55e09f2a50424e7b2da8e70",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-stacked-reverse.svg",
       "role": "logo-vector",
-      "bytes": 11413,
-      "sha256": "220b175dc7f1b9d741ed752831e8d1fb566f008c68c517574934d9624ffa367e",
+      "bytes": 14245,
+      "sha256": "fc070cd3a3dc79574327c109abd2424d9a18bf4fdc58d6f8e8da9b3b7f761360",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-stacked-white.svg",
       "role": "logo-vector",
-      "bytes": 11413,
-      "sha256": "a5eb5c4af262d679aa9a2ac77a20af6ca6c09aab9c20e2c442a8a2268ad3c1a4",
+      "bytes": 14245,
+      "sha256": "3791366763abdf5035a6a9ef0955d27b929e2805ad4992e3770c828f82873d0e",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-wordmark-ink.svg",
       "role": "logo-vector",
-      "bytes": 12586,
-      "sha256": "c2d1e0b5a800b6de0f9ed22379005a8d5efa121559fe74c0592b8a32bb39ffc1",
-      "width": 539,
-      "height": 106
+      "bytes": 11459,
+      "sha256": "69716752692d1eefd5dba1c7a0abe3a7f9d8a8238bf76f026a59d0f3117c1d47",
+      "width": 612,
+      "height": 104
     },
     {
       "path": "production/01-logo/svg/di-wordmark-primary.svg",
       "role": "logo-vector",
-      "bytes": 12586,
-      "sha256": "c2d1e0b5a800b6de0f9ed22379005a8d5efa121559fe74c0592b8a32bb39ffc1",
-      "width": 539,
-      "height": 106
+      "bytes": 11459,
+      "sha256": "69716752692d1eefd5dba1c7a0abe3a7f9d8a8238bf76f026a59d0f3117c1d47",
+      "width": 612,
+      "height": 104
     },
     {
       "path": "production/01-logo/svg/di-wordmark-reverse.svg",
       "role": "logo-vector",
-      "bytes": 12586,
-      "sha256": "3e1c0da763643a0716ed885d6cbc529f6f2a5f59b34d7e6940eae88d41dfdade",
-      "width": 539,
-      "height": 106
+      "bytes": 11459,
+      "sha256": "a2cbac9f81a24ddb18f70c910353fc371671580af3ec2a8ddc74add71af6d5b8",
+      "width": 612,
+      "height": 104
     },
     {
       "path": "production/01-logo/svg/di-wordmark-white.svg",
       "role": "logo-vector",
-      "bytes": 12586,
-      "sha256": "54126f91889cd4e5fce3bb4da3a04e321b5592771c872c474fe4eae2d5e878ac",
-      "width": 539,
-      "height": 106
+      "bytes": 11459,
+      "sha256": "a2cbac9f81a24ddb18f70c910353fc371671580af3ec2a8ddc74add71af6d5b8",
+      "width": 612,
+      "height": 104
     },
     {
       "path": "production/02-digital/di-icon-1024.png",
       "role": "digital-icon",
-      "bytes": 41728,
-      "sha256": "d568105624563d96258b5570219fe1f280e1601021f341f189589a78c6c0a4f0",
+      "bytes": 37330,
+      "sha256": "1a28f8dda5715457b62fd80b612c89225e9021e9d104eb74839f2de9aa158ecb",
       "width": 1024,
       "height": 1024,
       "alpha": false
@@ -940,16 +922,16 @@
     {
       "path": "production/02-digital/di-icon-1024.svg",
       "role": "digital-icon",
-      "bytes": 474,
-      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "bytes": 424,
+      "sha256": "e0288db407c0171fcb6149225e63be1f34c440506b30bc1c440ad3b4ac27587e",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-16.png",
       "role": "digital-icon",
-      "bytes": 366,
-      "sha256": "02a9e008ae5fc9091a757bfb5ffc2ad1880030074cd5a34564d2d14c0a55a103",
+      "bytes": 309,
+      "sha256": "a1d73ed3d668e3ef987d5fe4e511e06e224d262e3dd3eebc10b73687857398ff",
       "width": 16,
       "height": 16,
       "alpha": false
@@ -957,16 +939,16 @@
     {
       "path": "production/02-digital/di-icon-16.svg",
       "role": "digital-icon",
-      "bytes": 465,
-      "sha256": "698b7efcdd4c7e1ecc95fd1dd92f20763c6b583994fe69a699ccaa8470d9f2b1",
+      "bytes": 392,
+      "sha256": "213a60b0caabe24723c3f3dceba3de3f5f55adfc4eab880d775c8dd60138df28",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-180.png",
       "role": "digital-icon",
-      "bytes": 3156,
-      "sha256": "ee4f492de0486fd265ea71810003b8936e005bab752d0bd49f9dc0e6cfe49e72",
+      "bytes": 2579,
+      "sha256": "655fb9c6616c088e6344add630be57ddb0aa7b298f8f49378363a8abb3d6d9d8",
       "width": 180,
       "height": 180,
       "alpha": false
@@ -974,16 +956,16 @@
     {
       "path": "production/02-digital/di-icon-180.svg",
       "role": "digital-icon",
-      "bytes": 474,
-      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "bytes": 424,
+      "sha256": "e0288db407c0171fcb6149225e63be1f34c440506b30bc1c440ad3b4ac27587e",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-192.png",
       "role": "digital-icon",
-      "bytes": 3403,
-      "sha256": "7564607686d7de7650c7b83457524c6003f3bb871c4495469e7d63292cc67c1c",
+      "bytes": 2839,
+      "sha256": "784fcdb8267a54d321cf7987bb8394211705d69d1fa9f7f41e22650721c0dc69",
       "width": 192,
       "height": 192,
       "alpha": false
@@ -991,16 +973,16 @@
     {
       "path": "production/02-digital/di-icon-192.svg",
       "role": "digital-icon",
-      "bytes": 474,
-      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "bytes": 424,
+      "sha256": "e0288db407c0171fcb6149225e63be1f34c440506b30bc1c440ad3b4ac27587e",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-32.png",
       "role": "digital-icon",
-      "bytes": 609,
-      "sha256": "a4950d0da906892014a49d7202996431ca62a784d712a15afc961e696ee28c31",
+      "bytes": 520,
+      "sha256": "611025f641dd0d6141b70462d791cd8afb7516f7d0e6196b8825bf53683d65ed",
       "width": 32,
       "height": 32,
       "alpha": false
@@ -1008,16 +990,16 @@
     {
       "path": "production/02-digital/di-icon-32.svg",
       "role": "digital-icon",
-      "bytes": 465,
-      "sha256": "698b7efcdd4c7e1ecc95fd1dd92f20763c6b583994fe69a699ccaa8470d9f2b1",
+      "bytes": 392,
+      "sha256": "213a60b0caabe24723c3f3dceba3de3f5f55adfc4eab880d775c8dd60138df28",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-48.png",
       "role": "digital-icon",
-      "bytes": 856,
-      "sha256": "10a8a244ae6d7325f2e539985b77347bee27529066e9e8ec5e9eb28ba2d1107d",
+      "bytes": 792,
+      "sha256": "bada3ff7baf3f9b191eed878746fc2bfce4389aa3d747f9826d0bb23f170e2c2",
       "width": 48,
       "height": 48,
       "alpha": false
@@ -1025,16 +1007,16 @@
     {
       "path": "production/02-digital/di-icon-48.svg",
       "role": "digital-icon",
-      "bytes": 474,
-      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "bytes": 424,
+      "sha256": "e0288db407c0171fcb6149225e63be1f34c440506b30bc1c440ad3b4ac27587e",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-512.png",
       "role": "digital-icon",
-      "bytes": 14230,
-      "sha256": "e5f59e90b75ad95db5842bd238c6ba5cdc2babd9377b02db9702d654d2be46d3",
+      "bytes": 12576,
+      "sha256": "9eaf1a7b45b8a08c648974d15430b447300bd4931bbcf681056473a58839c6c1",
       "width": 512,
       "height": 512,
       "alpha": false
@@ -1042,16 +1024,16 @@
     {
       "path": "production/02-digital/di-icon-512.svg",
       "role": "digital-icon",
-      "bytes": 474,
-      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "bytes": 424,
+      "sha256": "e0288db407c0171fcb6149225e63be1f34c440506b30bc1c440ad3b4ac27587e",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/favicon.ico",
       "role": "digital-icon",
-      "bytes": 2254,
-      "sha256": "4e2d83d275d7f66cc4e31224f2ce44b3c420f457761bef86826deac4d1628d78",
+      "bytes": 2057,
+      "sha256": "32b2ec03bf1ff60f5ce63c77dc86b84a43d73b46d96d982f17e1e5053233345d",
       "width": 48,
       "height": 48,
       "alpha": false
@@ -1059,8 +1041,8 @@
     {
       "path": "production/03-social/di-avatar-dark-1200.png",
       "role": "social-artwork",
-      "bytes": 46001,
-      "sha256": "13275dbaa1f67e71ac8b763e77e30bf5b1050ce685e3dc5f5cfc5d6d93215055",
+      "bytes": 43480,
+      "sha256": "4f84dfeacdd8b457978a3e5acde4f7c5b75bd233f411da636854987db331f2dd",
       "width": 1200,
       "height": 1200,
       "alpha": false
@@ -1068,16 +1050,16 @@
     {
       "path": "production/03-social/di-avatar-dark.svg",
       "role": "social-artwork",
-      "bytes": 482,
-      "sha256": "07bc92f465c3fea183f798716eeb7c2c314008a2e2dcf5f04a12be31c73dc4d0",
+      "bytes": 432,
+      "sha256": "d102990144db7351d284e3e0fa71230128715bf01afcb7d9902c858d9bd92870",
       "width": 1200,
       "height": 1200
     },
     {
       "path": "production/03-social/di-avatar-light-1200.png",
       "role": "social-artwork",
-      "bytes": 46045,
-      "sha256": "1be1f41ccb0b0b7befc21bc5e9b7ac1166e4307aa2fbc8997d70952994bb831e",
+      "bytes": 45087,
+      "sha256": "a4ffd6937c72d3d338b8c964e28fd965a2aad31bf7c4cc3343941e68aebcd680",
       "width": 1200,
       "height": 1200,
       "alpha": false
@@ -1085,16 +1067,16 @@
     {
       "path": "production/03-social/di-avatar-light.svg",
       "role": "social-artwork",
-      "bytes": 482,
-      "sha256": "2b5b491b7d5e6e47a59c57b972f0ef0035e5770dd24e2c2313a6fab0aedce247",
+      "bytes": 432,
+      "sha256": "db038c5fb8011fd8c06d9b8da1ddbd35a4b4dfea680d1e519bcaac053d2574f2",
       "width": 1200,
       "height": 1200
     },
     {
       "path": "production/03-social/di-header.png",
       "role": "social-artwork",
-      "bytes": 81423,
-      "sha256": "0dae2b541cb5b1ca33d6159563830f2e8af0ac4d40ab95c5ee5858ac5c00994e",
+      "bytes": 88627,
+      "sha256": "fddc5e0171ba6807e4cb254082f01835f22ba9825ca30d60f6e7ee91697b1629",
       "width": 2400,
       "height": 800,
       "alpha": false
@@ -1102,16 +1084,16 @@
     {
       "path": "production/03-social/di-header.svg",
       "role": "social-artwork",
-      "bytes": 28088,
-      "sha256": "3ef25fd254a58087ccb9e4e4d72bfc4d812d447da8860203137671ca958e252d",
+      "bytes": 27144,
+      "sha256": "fbc9a87f91214beee34721d387d35ccfdca7562239df7893c3e5d4a4b9b780db",
       "width": 2400,
       "height": 800
     },
     {
       "path": "production/03-social/di-portrait.png",
       "role": "social-artwork",
-      "bytes": 58591,
-      "sha256": "405f91637f2e47283a6636f3e5e71cfffda35d03e5baada3b5b8cbe012e09f74",
+      "bytes": 67751,
+      "sha256": "5b52da526c49fec930bc031982f2e34cf12ecd99b8568bf2955eb25c327e51f7",
       "width": 1080,
       "height": 1350,
       "alpha": false
@@ -1119,16 +1101,16 @@
     {
       "path": "production/03-social/di-portrait.svg",
       "role": "social-artwork",
-      "bytes": 31845,
-      "sha256": "8e1494f9a32f6154d814d96914a7b0d7ff2829a8a78792d7692ca87a76f49c5f",
+      "bytes": 28677,
+      "sha256": "181e456abb54304b0fd24237621ed656bc3c84982422e1692ff1ec24b9fa6ae4",
       "width": 1080,
       "height": 1350
     },
     {
       "path": "production/03-social/di-presentation.png",
       "role": "social-artwork",
-      "bytes": 83518,
-      "sha256": "0225a7a730b4f138deee2b8d780fd5e4bd1b728f7629d05d76f81ae5a8615131",
+      "bytes": 95540,
+      "sha256": "f58bb89c4206dcdb9c45fd49c65d3cf427b51702ec71d7960f9e685f568b215c",
       "width": 1920,
       "height": 1080,
       "alpha": false
@@ -1136,16 +1118,16 @@
     {
       "path": "production/03-social/di-presentation.svg",
       "role": "social-artwork",
-      "bytes": 32140,
-      "sha256": "32ba2f385474e7439ef18efca70923f9932d5691cacb11cb2b2f826126cbfb51",
+      "bytes": 31599,
+      "sha256": "b63cc4b41ea8b14b4702e40c051c941b7592e1d43e2c3aa9a51ec3f38ab23e8f",
       "width": 1920,
       "height": 1080
     },
     {
       "path": "production/03-social/di-share-card.png",
       "role": "social-artwork",
-      "bytes": 40916,
-      "sha256": "08c3a0455ebb47ea7df37dbe7835a163987c0428cb24935e1e237814a5c0d463",
+      "bytes": 44819,
+      "sha256": "19c41626c85094d382dc5a33d57639d1f6dc760918712cf93f1e329b4cdb30a1",
       "width": 1200,
       "height": 630,
       "alpha": false
@@ -1153,16 +1135,16 @@
     {
       "path": "production/03-social/di-share-card.svg",
       "role": "social-artwork",
-      "bytes": 27318,
-      "sha256": "dd7fe46e52b8ae879b5039119b9b89408929cde1fdaa11c06649bd28d7e3e402",
+      "bytes": 28503,
+      "sha256": "b7e6a8cfd942ca0921415b31689451e12ece58e27a0afceb357687b9cf87a8d8",
       "width": 1200,
       "height": 630
     },
     {
       "path": "production/03-social/di-square.png",
       "role": "social-artwork",
-      "bytes": 59801,
-      "sha256": "83542e52872a219c43065de890780ad07dc30d8540d645609b0ef0c9e4b45994",
+      "bytes": 68094,
+      "sha256": "11d6e53f9ac2675f4b3bb5efe068e1bff45ae3221dcc0f422ddbd2e10608c302",
       "width": 1200,
       "height": 1200,
       "alpha": false
@@ -1170,16 +1152,16 @@
     {
       "path": "production/03-social/di-square.svg",
       "role": "social-artwork",
-      "bytes": 27091,
-      "sha256": "bfe6c1af65222df4b8b0d5d240d79659865a17f8243c09ca675bcc23b5807885",
+      "bytes": 28159,
+      "sha256": "cfde080a5e4dd0b21364e0eadc814378ad4d6d8b23bca9c140c98edb46fd4878",
       "width": 1200,
       "height": 1200
     },
     {
       "path": "production/03-social/di-story.png",
       "role": "social-artwork",
-      "bytes": 73330,
-      "sha256": "9a221c22278bd7a8248b41933cfdabdd9b7f7ecb598b5bc455aa9c4cabc75d6c",
+      "bytes": 83531,
+      "sha256": "a260b6a2f63148f0eef1da5dac63704926574420a40517c5b83b26ac04921bd4",
       "width": 1080,
       "height": 1920,
       "alpha": false
@@ -1187,16 +1169,16 @@
     {
       "path": "production/03-social/di-story.svg",
       "role": "social-artwork",
-      "bytes": 31921,
-      "sha256": "0dddb138c3b3f0ea54051c9bc7ba670666988d7faff914de5fb2b0994e70c10a",
+      "bytes": 28659,
+      "sha256": "ccd606fc841e736f967350a1b6fb61bb535994e29c4503da84e41605e08a1266",
       "width": 1080,
       "height": 1920
     },
     {
       "path": "production/05-proofs/identity-overview.png",
       "role": "identity-overview",
-      "bytes": 117245,
-      "sha256": "0d26e1cfe98c96d3748496eeab470f6ade93010cab8ccb42960e496ddf346c67",
+      "bytes": 127837,
+      "sha256": "461b1e0330566763977663c5568740462727a68c13f06c368b4e67828d6e02e8",
       "width": 1800,
       "height": 1200,
       "alpha": false
@@ -1204,16 +1186,16 @@
     {
       "path": "production/05-proofs/identity-overview.svg",
       "role": "identity-overview",
-      "bytes": 126958,
-      "sha256": "f1c97cdd95a9e9ad9c01e3ff5932f4af2e4122343e2ee757385a6830e9dc618a",
+      "bytes": 135665,
+      "sha256": "a313e9f9f14ec7edfcab08338df77fb30c965321618a9145e0399a21e639c8df",
       "width": 1800,
       "height": 1200
     },
     {
       "path": "releases/README.md",
       "role": "documentation",
-      "bytes": 3810,
-      "sha256": "051c7ff5372165235e1c2957974e60cf9c1748152d7791030119ca54a0bbff98"
+      "bytes": 3827,
+      "sha256": "8cfe7d3770a8a05c51a51ac9bf8b7ef04b7431f36ac3c173640e1db3f0f5c092"
     },
     {
       "path": "requirements.txt",
@@ -1225,13 +1207,13 @@
       "path": "site/README.md",
       "role": "public-page-source",
       "bytes": 4471,
-      "sha256": "353a0d04877e4450819d911b5c50960097cf418484fa4af2f3136a5d216107a7"
+      "sha256": "4230eebd46d751bcfb9130589d2d5f69c13676ffd9e8671a054e93981eca7f0b"
     },
     {
       "path": "site/brand.css",
       "role": "public-page-source",
-      "bytes": 18600,
-      "sha256": "0f5680e5f4470de199fc35f7bba807b6c992632db051debaf9a3a55dbeede1fe"
+      "bytes": 8487,
+      "sha256": "77f98165d9fe1236c14198483c261185e9e1efdc83e16ae743bdcd3ed4998b7a"
     },
     {
       "path": "site/brand.js",
@@ -1242,68 +1224,68 @@
     {
       "path": "site/index.html",
       "role": "public-page-source",
-      "bytes": 20027,
-      "sha256": "d657b243758079a0722ec102c8c7e3c234944c7358a05b9972016d2ee0a4f9e4"
+      "bytes": 10610,
+      "sha256": "bb598eddefa4af6becebaf3813023f2c6705430c80a2ee82816d63160b3d3818"
     },
     {
       "path": "templates/applications/README.md",
       "role": "editable-template",
-      "bytes": 7731,
-      "sha256": "0e36bf6dde3cd6dbddac5af8d75a598e47a8f06d4659be9813084ead24260002"
+      "bytes": 7716,
+      "sha256": "d7107148d25a2f2bdf135998eb824bd049b56ae2ee57e375765022b7eba31b53"
     },
     {
       "path": "templates/applications/application.css",
       "role": "editable-template",
-      "bytes": 15911,
-      "sha256": "bd1cfbeab9fd746c76809dc06d49e02f78623d05193e3b14339fa96cc3ee3a47"
+      "bytes": 15776,
+      "sha256": "ab4201a4b34b474a1abfef383b1ebb5154cf3491d1b6a5ffe3f2927941dfd881"
     },
     {
       "path": "templates/applications/business-card.html",
       "role": "editable-template",
       "bytes": 1748,
-      "sha256": "10d10f0ff6ba9a6ef5bf5f8f401418e0e13859f186d511cc27876d45e97a57c9"
+      "sha256": "41b7bf8060e1933b9227b031eb53d373cc572f3c13ed44a42636a56282dd598e"
     },
     {
       "path": "templates/applications/decision-brief.html",
       "role": "editable-template",
       "bytes": 3895,
-      "sha256": "9f059cd014fe5f969c6d9e6bf8d4cd5a02a94ccd92349a88867bce876a26213e"
+      "sha256": "e8b334dfe8689c644109937162252abb4f10451cb255ff64188317a116ae1ded"
     },
     {
       "path": "templates/applications/email-signature.html",
       "role": "editable-template",
-      "bytes": 3358,
-      "sha256": "e40ee506efd489bee5f839ffddd2192b5df725404406294c3cd4b5ec6554f340"
+      "bytes": 3356,
+      "sha256": "a6fa27fab2c26621fd96af87c54e269ff0133002115f62f5c7ec0855c98ca77f"
     },
     {
       "path": "templates/applications/index.html",
       "role": "editable-template",
       "bytes": 2626,
-      "sha256": "6ff3598314183cd23a1fa6d378cc59c0843f77c05ac2d0a994259251d167b7ee"
+      "sha256": "45fcca55bd96de4ce7ac8254a8bb37714585144877f805f1ec3ae5fabdff1a2a"
     },
     {
       "path": "templates/applications/letterhead.html",
       "role": "editable-template",
       "bytes": 2273,
-      "sha256": "7718ae4cd66eed63b8b32fe5db3e0810e50ead424a3180701245fd9885c29cb2"
+      "sha256": "f0a816081f3b5bed2accba267343f0e86d167c958a4ef7029aabacf7d3f3e9dd"
     },
     {
       "path": "templates/applications/presentation.html",
       "role": "editable-template",
       "bytes": 3931,
-      "sha256": "858f94e47d6bfb750879e160d8e381687a93a8b9247fda8bdd8cbdea6ea8a415"
+      "sha256": "214f06841747cee7da1b5fbe78f2fed2e9e8050799cb2e7fb4659fc5c10b6a53"
     },
     {
       "path": "templates/applications/product-moments.html",
       "role": "editable-template",
       "bytes": 5331,
-      "sha256": "c4e85c523da86aeb493ecab9c71e605c2b6d077ee139b69fd1596dc43a2dc132"
+      "sha256": "674ecb1940de4d0bf8ff6d952f6a13d59836dc1f721881d24dc7ecd5457baa6b"
     },
     {
       "path": "templates/applications/social-layouts.html",
       "role": "editable-template",
       "bytes": 3852,
-      "sha256": "c6db00d9f2795107eefe8aedf60844499abeaf43666a8665197b08907182493d"
+      "sha256": "a040673f558a59551ca0b9bcdd7779fc717b4784a45467fdc8bf4d20ba904c67"
     },
     {
       "path": "templates/briefs/campaign.md",
@@ -1332,38 +1314,44 @@
     {
       "path": "tests/test_package.py",
       "role": "quality-test",
-      "bytes": 4245,
-      "sha256": "5d4f39cf2d9c71894dca90c5d95920c42e1e1b03ea6029626da0c87d9869fd13"
+      "bytes": 3995,
+      "sha256": "92792f2e06c2780f18869e5578e59b054c1225f6a9ddc40ae1513017fd92b144"
     },
     {
       "path": "tests/test_release_tools.py",
       "role": "quality-test",
-      "bytes": 6080,
-      "sha256": "9d93e7bdc172e60c30f13930cb15da8c8b611f79668d61dd8a485eed54403efc"
+      "bytes": 6085,
+      "sha256": "685dc79bc993d3ece67595656eff255b5db0ed6c8a864e30dd3147de0d141696"
     },
     {
       "path": "tools/build.py",
       "role": "build-tool",
-      "bytes": 10346,
-      "sha256": "85a0d94596a4ee9dc6f10973487c4f51847181782b7ea4d3d7485c2c78b0bda3"
+      "bytes": 9492,
+      "sha256": "bcac7286d0c80e26f50d01643ad75c2a77f687209fc8ab876690fa19c86f5da8"
     },
     {
       "path": "tools/build_manual.py",
       "role": "build-tool",
-      "bytes": 21753,
-      "sha256": "bf8f3cb99e45eb3f69960835a245b546233d9a7c87cbd44072eff72f9c49b151"
+      "bytes": 8476,
+      "sha256": "4b681caa9406760754ab3d9af792f5f3fcadc40d7159599979b36435de759078"
     },
     {
       "path": "tools/package_release.py",
       "role": "build-tool",
-      "bytes": 11085,
-      "sha256": "4cae1679f8db1b439236bba00be0d1e78a5c086430dfdcc8218e2d7338031413"
+      "bytes": 11041,
+      "sha256": "65ec08afcd324927dd4db497608ba5b35cd5404f233991160ed6e056ce0cc4b7"
+    },
+    {
+      "path": "tools/proof_applications.cjs",
+      "role": "build-tool",
+      "bytes": 3180,
+      "sha256": "c17ced2e690898840ab494fafc766d12d01445f41643d40a046a7b27a107b697"
     },
     {
       "path": "tools/proof_site.cjs",
       "role": "build-tool",
       "bytes": 2186,
-      "sha256": "becb6835bf594132630b1203916db887bc47d00923973aa2ef440188747252ca"
+      "sha256": "5cf72bf17dd0c67a7b27f3d87911d536cd1dd383f5b0d1a6e384280602320064"
     },
     {
       "path": "tools/sync_site.py",
@@ -1374,13 +1362,13 @@
     {
       "path": "tools/validate.py",
       "role": "build-tool",
-      "bytes": 16114,
-      "sha256": "d3fe59545023751cd807c32fea23f7da21fed4b8bf63c753bd18da2ab299cf44"
+      "bytes": 16163,
+      "sha256": "dc063efc77aa361805711ed765df7279ef25668db016f1c151aa4d1e69f0ee76"
     }
   ],
   "kits": {
     "brand": {
-      "path": "releases/decisioninvitation-brand-0.2.0.zip",
+      "path": "releases/decisioninvitation-brand-0.3.0.zip",
       "files": [
         ".gitignore",
         "AGENTS.md",
@@ -1389,16 +1377,12 @@
         "CHANGELOG.md",
         "CONTRIBUTING.md",
         "README.md",
-        "assets/fonts/IBMPlexMono-Regular.ttf",
-        "assets/fonts/IBMPlexMono-Regular.woff2",
-        "assets/fonts/LICENSE-IBM-Plex.txt",
-        "assets/fonts/LICENSE-Source-Sans-3.md",
+        "assets/fonts/LICENSE-Sora.txt",
         "assets/fonts/README.md",
-        "assets/fonts/SourceSans3-Regular.ttf",
-        "assets/fonts/SourceSans3-Regular.woff2",
-        "assets/fonts/SourceSans3-Semibold.ttf",
-        "assets/fonts/SourceSans3-Semibold.woff2",
-        "assets/fonts/SourceSans3.ttf",
+        "assets/fonts/Sora-Regular.ttf",
+        "assets/fonts/Sora-Regular.woff2",
+        "assets/fonts/Sora-SemiBold.ttf",
+        "assets/fonts/Sora-SemiBold.woff2",
         "assets/fonts/provenance.json",
         "assets/logo/decisioninvitation-di-mark.svg",
         "assets/logo/decisioninvitation-wordmark.svg",
@@ -1416,6 +1400,7 @@
         "docs/claims-and-privacy.md",
         "docs/color-and-accessibility.md",
         "docs/decisions/0001-independent-catalyst-identity.md",
+        "docs/decisions/0002-decision-instrument-identity.md",
         "docs/email-and-documents.md",
         "docs/governance-and-release.md",
         "docs/logo-standards.md",
@@ -1565,13 +1550,14 @@
         "tools/build.py",
         "tools/build_manual.py",
         "tools/package_release.py",
+        "tools/proof_applications.cjs",
         "tools/proof_site.cjs",
         "tools/sync_site.py",
         "tools/validate.py"
       ]
     },
     "logos": {
-      "path": "releases/decisioninvitation-logos-0.2.0.zip",
+      "path": "releases/decisioninvitation-logos-0.3.0.zip",
       "files": [
         "ASSET-LICENSE.md",
         "brand-system.json",
@@ -1661,19 +1647,15 @@
       ]
     },
     "templates": {
-      "path": "releases/decisioninvitation-templates-0.2.0.zip",
+      "path": "releases/decisioninvitation-templates-0.3.0.zip",
       "files": [
         "ASSET-LICENSE.md",
-        "assets/fonts/IBMPlexMono-Regular.ttf",
-        "assets/fonts/IBMPlexMono-Regular.woff2",
-        "assets/fonts/LICENSE-IBM-Plex.txt",
-        "assets/fonts/LICENSE-Source-Sans-3.md",
+        "assets/fonts/LICENSE-Sora.txt",
         "assets/fonts/README.md",
-        "assets/fonts/SourceSans3-Regular.ttf",
-        "assets/fonts/SourceSans3-Regular.woff2",
-        "assets/fonts/SourceSans3-Semibold.ttf",
-        "assets/fonts/SourceSans3-Semibold.woff2",
-        "assets/fonts/SourceSans3.ttf",
+        "assets/fonts/Sora-Regular.ttf",
+        "assets/fonts/Sora-Regular.woff2",
+        "assets/fonts/Sora-SemiBold.ttf",
+        "assets/fonts/Sora-SemiBold.woff2",
         "assets/fonts/provenance.json",
         "assets/tokens/decisioninvitation.tokens.css",
         "assets/tokens/decisioninvitation.tokens.json",
@@ -1781,19 +1763,15 @@
       ]
     },
     "webfonts": {
-      "path": "releases/decisioninvitation-webfonts-0.2.0.zip",
+      "path": "releases/decisioninvitation-webfonts-0.3.0.zip",
       "files": [
         "ASSET-LICENSE.md",
-        "assets/fonts/IBMPlexMono-Regular.ttf",
-        "assets/fonts/IBMPlexMono-Regular.woff2",
-        "assets/fonts/LICENSE-IBM-Plex.txt",
-        "assets/fonts/LICENSE-Source-Sans-3.md",
+        "assets/fonts/LICENSE-Sora.txt",
         "assets/fonts/README.md",
-        "assets/fonts/SourceSans3-Regular.ttf",
-        "assets/fonts/SourceSans3-Regular.woff2",
-        "assets/fonts/SourceSans3-Semibold.ttf",
-        "assets/fonts/SourceSans3-Semibold.woff2",
-        "assets/fonts/SourceSans3.ttf",
+        "assets/fonts/Sora-Regular.ttf",
+        "assets/fonts/Sora-Regular.woff2",
+        "assets/fonts/Sora-SemiBold.ttf",
+        "assets/fonts/Sora-SemiBold.woff2",
         "assets/fonts/provenance.json",
         "brand-system.json",
         "docs/typography.md",

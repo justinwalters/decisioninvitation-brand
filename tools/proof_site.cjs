@@ -9,7 +9,7 @@ const path = require('node:path');
   await page.goto(process.env.BRAND_URL || 'http://127.0.0.1:3000/brand');await page.evaluate(()=>document.fonts.ready);
   await page.screenshot({path:path.join(out,'brand-desktop.png'),fullPage:true});
   await page.screenshot({path:path.join(out,'brand-first-fold.png')});
-  for(const id of ['identity','color','type','in-use','voice','resources'])await page.locator(`#${id}`).screenshot({path:path.join(out,`brand-${id}.png`)});
+  for(const id of ['system','identity','color','type','voice','resources'])await page.locator(`#${id}`).screenshot({path:path.join(out,`brand-${id}.png`)});
   const broken=await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src));
   const links=await page.locator('a[href^="/brand-assets/"]').evaluateAll(a=>[...new Set(a.map(i=>i.href))]);
   const downloads=[];for(const url of links){const r=await page.request.get(url);downloads.push({url,status:r.status(),type:r.headers()['content-type']});}

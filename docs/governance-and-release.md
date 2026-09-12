@@ -4,7 +4,7 @@
 
 The brand owner approves the identity. A brand steward maintains the source system. Product, security/privacy, and legal reviewers validate claims in their scopes. These are roles to assign, not people or approvals invented by this repository.
 
-The release is `0.2.0-proposal`: the user's strategic idea is explicit, while the Open frame identity, logo, layout, and applications await review. Exported does not mean approved. Publicly reachable does not mean approved. Asset counts do not establish quality.
+The release is `0.3.0-proposal`: the user's strategic idea is explicit, while the Decision Instrument identity, Commitment Gate mark, layout, and applications await final review. Exported does not mean approved. Publicly reachable does not mean approved. Asset counts do not establish quality.
 
 ## Decision rights
 

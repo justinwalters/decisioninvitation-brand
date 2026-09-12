@@ -1,33 +1,21 @@
 {
-  "policy": "Original upstream binaries, distributed unchanged. Local filenames may omit a redundant .ttf segment; embedded names and bytes are preserved.",
+  "policy": "Original Sora upstream binaries, distributed unchanged under the SIL Open Font License 1.1.",
   "files": {
-    "SourceSans3.ttf": {
-      "url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/3.052R/VF/SourceSans3VF-Upright.ttf",
-      "sha256": "1147db9a3f0edd4956068de77930148acce2742dd76d57f7239b2b1c687ac63f"
+    "Sora-Regular.ttf": {
+      "url": "https://raw.githubusercontent.com/sora-xor/sora-font/master/fonts/ttf/Sora-Regular.ttf",
+      "sha256": "517e945dedbeeb8d700ccae77d189a6ef2a01f6dcc95ba5d032ef9a30f7f0de9"
     },
-    "SourceSans3-Regular.ttf": {
-      "url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/3.052R/TTF/SourceSans3-Regular.ttf",
-      "sha256": "4644c81b86ec9caaa76b634889968ed3c4f4f52f054855933acc7c2b21e53b0f"
+    "Sora-SemiBold.ttf": {
+      "url": "https://raw.githubusercontent.com/sora-xor/sora-font/master/fonts/ttf/Sora-SemiBold.ttf",
+      "sha256": "b02621d4009da9a18eb8a5cbe277f084eb9c3f065ba08a6e77769e81863becf2"
     },
-    "SourceSans3-Semibold.ttf": {
-      "url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/3.052R/TTF/SourceSans3-Semibold.ttf",
-      "sha256": "a3f4f8dcf343a8f24dc61951de93f3ba1558b15cd250ba24af8a40e957081b7d"
+    "Sora-Regular.woff2": {
+      "url": "https://raw.githubusercontent.com/sora-xor/sora-font/master/fonts/woff2/Sora-Regular.woff2",
+      "sha256": "4d848854da33f6274c3b5b181d6c3c104e60352c3f55b10d0f0a8ae93a9922c0"
     },
-    "SourceSans3-Regular.woff2": {
-      "url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/3.052R/WOFF2/TTF/SourceSans3-Regular.ttf.woff2",
-      "sha256": "53492fb3a0def77354f166a55d09b63a10855e91c206c7620a81cf56e97f8ec3"
-    },
-    "SourceSans3-Semibold.woff2": {
-      "url": "https://raw.githubusercontent.com/adobe-fonts/source-sans/3.052R/WOFF2/TTF/SourceSans3-Semibold.ttf.woff2",
-      "sha256": "47b9b661b9f395fe7f0d0e119637fba5c8dad97bde3df60066fd24229c0792f4"
-    },
-    "IBMPlexMono-Regular.ttf": {
-      "url": "https://raw.githubusercontent.com/IBM/plex/bf260093582f04622aacc1e9f9ca604d7ccd0c42/packages/plex-mono/fonts/complete/ttf/IBMPlexMono-Regular.ttf",
-      "sha256": "7c6fbddca4b700be918f5f6183d9bd4464fa427fe435f0b480d77fe2bb8c5a43"
-    },
-    "IBMPlexMono-Regular.woff2": {
-      "url": "https://raw.githubusercontent.com/IBM/plex/bf260093582f04622aacc1e9f9ca604d7ccd0c42/packages/plex-mono/fonts/complete/woff2/IBMPlexMono-Regular.woff2",
-      "sha256": "ba204497f16b6d334cee9d1e963a831b73e3a56e1d6300a8489d18df7214b350"
+    "Sora-SemiBold.woff2": {
+      "url": "https://raw.githubusercontent.com/sora-xor/sora-font/master/fonts/woff2/Sora-SemiBold.woff2",
+      "sha256": "c8ef09866c1ce0e389507b89c9123b02f9766b17ab6abc6707cb2cecabf953dd"
     }
   }
 }

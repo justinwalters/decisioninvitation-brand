@@ -1,6 +1,6 @@
 # Public identity center source
 
-This folder implements the intended **decisioninvitation.com/brand** center for identity version **0.2.0**, visibly labeled as a proposal pending owner review. Its existence does not establish deployment or final visual approval. This is a separate brand page; preserve the product's original homepage and real invitation routes.
+This folder implements the intended **decisioninvitation.com/brand** center for identity version **0.3.0**, visibly labeled as a proposal pending owner review. Its existence does not establish deployment or final visual approval. This is a separate brand page; preserve the product's original homepage and real invitation routes.
 
 ## Files and behavior
 

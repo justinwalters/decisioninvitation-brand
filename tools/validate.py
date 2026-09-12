@@ -18,8 +18,8 @@ import zipfile
 from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
-PALETTE = {'ink': '#182B33', 'paper': '#F5F4EF', 'mist': '#E4ECEA',
-           'field': '#52766D', 'orange': '#D54B1E', 'white': '#FFFFFF'}
+PALETTE = {'register': '#211B2B', 'cobalt': '#3346C8', 'periwinkle': '#C3CCFF',
+           'optic': '#F7F8FF', 'orange': '#D54B1E', 'white': '#FFFFFF'}
 
 
 def contrast(first, second):
@@ -54,16 +54,16 @@ def check_identity(root):
         for label, colors in [('source', source.get('colors')), ('brand-system', system.get('identity', {}).get('palette')),
                               ('tokens', tokens.get('primitive', {}).get('color'))]:
             if colors != PALETTE:
-                issues.append(f'{label} palette differs from the version 0.2.0 identity palette')
+                issues.append(f'{label} palette differs from the version 0.3.0 identity palette')
         semantic = tokens.get('semantic', {})
-        expected = {'surface': PALETTE['paper'], 'text': PALETTE['ink'], 'textMuted': PALETTE['field'],
-                    'action': PALETTE['ink'], 'onAction': PALETTE['paper'], 'focus': PALETTE['ink'],
+        expected = {'surface': PALETTE['optic'], 'text': PALETTE['register'], 'textMuted': '#5F5870',
+                    'action': PALETTE['cobalt'], 'onAction': PALETTE['white'], 'focus': PALETTE['cobalt'],
                     'signature': PALETTE['orange']}
         for key, value in expected.items():
             if semantic.get(key) != value:
                 issues.append(f'Semantic token {key} must be {value}, received {semantic.get(key)}')
         css = (Path(root)/'assets/tokens/decisioninvitation.tokens.css').read_text()
-        for key, value in {**PALETTE, **{'action': PALETTE['ink'], 'on-action': PALETTE['paper'], 'focus': PALETTE['ink']}}.items():
+        for key, value in {**PALETTE, **{'action': PALETTE['cobalt'], 'on-action': PALETTE['white'], 'focus': PALETTE['cobalt']}}.items():
             if not re.search(r'--di-' + re.escape(key) + r'\s*:\s*' + re.escape(value) + r'\s*;', css, re.I):
                 issues.append(f'CSS token --di-{key} is missing or stale')
         for key in ('display', 'body', 'utility'):
@@ -76,7 +76,7 @@ def check_identity(root):
             issues.append('Proposal status changed: explicit owner decision and validator update required')
         if system.get('strategy', {}).get('acquisitionClaim') is not False:
             issues.append('Acquisition history must not be asserted by this proposed identity')
-        for label, first, second, minimum in [('Ink/Paper', 'ink', 'paper', 13.30), ('Field/Paper', 'field', 'paper', 4.5)]:
+        for label, first, second, minimum in [('Register/Optic', 'register', 'optic', 13), ('Cobalt/Optic', 'cobalt', 'optic', 4.5)]:
             if contrast(PALETTE[first], PALETTE[second]) < minimum:
                 issues.append(f'{label} contrast is below its specified minimum')
         if contrast(semantic.get('onAction', '#000000'), semantic.get('action', '#000000')) < 4.5:
@@ -287,5 +287,5 @@ if __name__ == '__main__':
     print('PASS: versions, palette, typography, semantic contrast, outlined SVGs, logo transparency, and local page references.')
     if not args.source_only:
         print('PASS: complete public inventory, SHA-256 checksums, deterministic archive metadata, exclusions, and all four ZIP payloads.')
-    print(f'Contrast: Ink/Paper {contrast(PALETTE["ink"], PALETTE["paper"]):.2f}:1; Field/Paper {contrast(PALETTE["field"], PALETTE["paper"]):.2f}:1; Paper/Ink action {contrast(PALETTE["paper"], PALETTE["ink"]):.2f}:1.')
+    print(f'Contrast: Register/Optic {contrast(PALETTE["register"], PALETTE["optic"]):.2f}:1; Cobalt/Optic {contrast(PALETTE["cobalt"], PALETTE["optic"]):.2f}:1; White/Cobalt action {contrast(PALETTE["white"], PALETTE["cobalt"]):.2f}:1.')
     print('Local technical verification only. Owner approval, visual/print review, publication and live acceptance are separate gates.')

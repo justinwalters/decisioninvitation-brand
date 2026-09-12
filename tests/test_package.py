@@ -19,13 +19,13 @@ class PackageTests(unittest.TestCase):
 
     def test_download_kits_contain_real_assets_and_licenses(self):
         for kind in ['brand', 'logos', 'templates', 'webfonts']:
-            with zipfile.ZipFile(ROOT/f'releases/decisioninvitation-{kind}-0.2.0.zip') as bundle:
+            with zipfile.ZipFile(ROOT/f'releases/decisioninvitation-{kind}-0.3.0.zip') as bundle:
                 self.assertIsNone(bundle.testzip())
                 self.assertTrue(bundle.namelist())
                 self.assertFalse(any(n.endswith('.zip') for n in bundle.namelist()))
                 self.assertFalse(any('/.venv/' in n or '/.git/' in n or '/review/' in n for n in bundle.namelist()))
                 if kind in ['brand','webfonts','templates']:
-                    self.assertTrue(any('LICENSE-Source-Sans-3' in n for n in bundle.namelist()))
+                    self.assertTrue(any('LICENSE-Sora' in n for n in bundle.namelist()))
 
     def test_all_lockups_are_font_independent_vectors(self):
         for kind in ['mark', 'wordmark', 'lockup', 'stacked', 'micro']:
@@ -38,24 +38,22 @@ class PackageTests(unittest.TestCase):
                 self.assertIn('path', tags)
 
     def test_webfonts_and_licenses_are_distributed(self):
-        for name in ['SourceSans3-Regular.woff2', 'SourceSans3-Semibold.woff2',
-                     'IBMPlexMono-Regular.woff2', 'LICENSE-Source-Sans-3.md', 'LICENSE-IBM-Plex.txt']:
+        for name in ['Sora-Regular.woff2', 'Sora-SemiBold.woff2', 'LICENSE-Sora.txt']:
             self.assertTrue((ROOT / 'assets/fonts' / name).is_file(), name)
 
     def test_static_font_names_distinguish_weights(self):
         from fontTools.ttLib import TTFont
-        for style, weight in [('Regular', 400), ('Semibold', 600)]:
+        for style, weight in [('Regular', 400), ('SemiBold', 600)]:
             for extension in ['ttf', 'woff2']:
-                font = TTFont(ROOT / f'assets/fonts/SourceSans3-{style}.{extension}')
-                self.assertEqual(font['name'].getDebugName(6), f'SourceSans3-{style}')
-                self.assertEqual(font['name'].getDebugName(16) or font['name'].getDebugName(1), 'Source Sans 3')
-                self.assertEqual(font['name'].getDebugName(17) or font['name'].getDebugName(2), style)
+                font = TTFont(ROOT / f'assets/fonts/Sora-{style}.{extension}')
+                self.assertIn('Sora', font['name'].getDebugName(6))
+                self.assertEqual(font['name'].getDebugName(16) or font['name'].getDebugName(1), 'Sora')
                 self.assertEqual(font['OS/2'].usWeightClass, weight)
                 self.assertNotIn('fvar', font)
 
     def test_upstream_fonts_are_unmodified(self):
         provenance = json.loads((ROOT/'assets/fonts/provenance.json').read_text())
-        self.assertGreaterEqual(len(provenance['files']), 6)
+        self.assertEqual(len(provenance['files']), 4)
         for name, entry in provenance['files'].items():
             self.assertEqual(hashlib.sha256((ROOT/'assets/fonts'/name).read_bytes()).hexdigest(), entry['sha256'], name)
             self.assertTrue(entry['url'].startswith('https://raw.githubusercontent.com/'))

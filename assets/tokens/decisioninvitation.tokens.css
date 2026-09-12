@@ -1,25 +1,24 @@
-/* Generated from assets/source/identity.json. Do not hand-edit. */
+/* Generated. */
 :root {
-  --di-ink: #182B33;
-  --di-paper: #F5F4EF;
-  --di-mist: #E4ECEA;
-  --di-field: #52766D;
+  --di-register: #211B2B;
+  --di-cobalt: #3346C8;
+  --di-periwinkle: #C3CCFF;
+  --di-optic: #F7F8FF;
   --di-orange: #D54B1E;
   --di-white: #FFFFFF;
-  --di-surface: #F5F4EF;
-  --di-surface-alternate: #E4ECEA;
-  --di-text: #182B33;
-  --di-text-muted: #52766D;
-  --di-action: #182B33;
-  --di-on-action: #F5F4EF;
-  --di-focus: #182B33;
+  --di-surface: #F7F8FF;
+  --di-surface-alternate: #C3CCFF;
+  --di-text: #211B2B;
+  --di-text-muted: #5F5870;
+  --di-action: #3346C8;
+  --di-on-action: #FFFFFF;
+  --di-focus: #3346C8;
   --di-signature: #D54B1E;
-  --di-border: #BAC8C4;
-  --di-positive: #52766D;
-  --di-warning: #71531A;
-  --di-error: #A82C27;
-  --di-font: "Source Sans 3", Arial, sans-serif;
-  --di-mono: "IBM Plex Mono", monospace;
-  --di-radius: 3px;
-  --di-motion: 160ms;
+  --di-border: #AAB4F0;
+  --di-positive: #176B58;
+  --di-warning: #765313;
+  --di-error: #A52B3A;
+  --di-font: "Sora", Arial, sans-serif;
+  --di-radius: 0;
+  --di-motion: 120ms;
 }

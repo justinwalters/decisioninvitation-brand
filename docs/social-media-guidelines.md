@@ -1,42 +1,30 @@
 # Social and campaign applications
 
-DecisionInvitation speaks as a product, not as Suki wearing another name. Keep the name, typography, and Open frame grammar consistent across channels. Platform dimensions below are composition targets, not guarantees about changing platform interfaces; preview the actual account before release.
+DecisionInvitation speaks as an independent product. Social work uses the Decision Instrument grammar: separate lanes for perspective, one commitment threshold, and a single accountable outcome.
 
 ## Roles and source formats
 
 | Surface | Composition target | Content rule |
-| --- | --- | --- |
-| Profile/avatar | square source, 1024 × 1024 | Di mark; test circular and square crops at 32 px |
-| Feed square | 1080 × 1080 | one idea, short headline, clear full name |
-| Feed portrait | 1080 × 1350 | same hierarchy, more breathing room, no extra claims |
-| Link preview | 1200 × 630 | essential type inside central safe area; full name |
-| Professional banner | 1584 × 396 | identity toward center/right; left/lower crop risk |
-| Vertical story | 1080 × 1920 | generous top/bottom UI clearance; captions in safe middle |
+|---|---:|---|
+| Profile/avatar | 1024 × 1024 | Commitment Gate mark; test circular and square crops at 32 px |
+| Feed square | 1080 × 1080 | One tension, one threshold, full product name |
+| Feed portrait | 1080 × 1350 | More evidence or perspective, never more decoration |
+| Link preview | 1200 × 630 | Essential type inside the central field; full name |
+| Professional banner | 1584 × 396 | Recompose for crop risk; do not stretch a feed asset |
+| Vertical story | 1080 × 1920 | Keep essential content clear of platform controls |
 
-These ratios share an editorial grammar, not a forced crop. Recompose each master. Keep essential content at least 8% inside source edges; allow extra clearance around profile overlays and app controls after previewing. Never invent a platform-specific safe-zone guarantee. Social headline size must survive a phone preview. Small legal or explanatory copy belongs in the caption, not a barely readable image.
+Targets are working compositions, not guarantees about current platform interfaces. Preview the actual destination before release. Keep essential content at least eight percent inside source edges and repeat essential image copy in accessible post text.
 
 ## Content system
 
-Three content roles keep the product understandable:
+1. **Name the tension.** More analysis does not always move a decision.
+2. **Invite the perspectives.** Show independent input without manufacturing consensus.
+3. **Cross the threshold.** Make the owner, condition, or next move concrete.
 
-1. **Name the tension.** A decision can gather more analysis without getting closer to a call. Avoid shaming thoughtful people as indecisive.
-2. **Show the practice.** Frame one question, ask separately, compare reasons and conditions. Use fictional examples clearly labeled as such.
-3. **Make the next move concrete.** A next move may be a decision, a condition to satisfy, or a missing fact to establish. Do not equate movement with speed at any cost.
-
-Lead campaign assets with `Catalyst of analysis.` when establishing the brand. Later pieces may use a specific question or insight. Keep the primary line intact when used; don't turn it into “The catalyst,” “analysis catalyst,” or a performance claim. The supporting promise can close a caption or appear in a second frame.
-
-## Example caption
-
-> More perspectives should help a decision move, not leave it standing still. DecisionInvitation gives a question a clear frame and invites people to contribute separately. Ask separately. Decide clearly.
-
-This is proposed brand copy. A publishable launch CTA must match actual availability. Do not substitute “Start free,” “Join thousands,” “Try Pro,” or “Decide in minutes” without current supporting evidence.
+Lead brand-establishing work with “Catalyst of analysis.” Supporting lines include “Better input. Clearer decisions.” and “Ask separately. Decide clearly.” Do not turn these into speed, certainty, or performance claims.
 
 ## Identity restraint
 
-One signature per visual. One orange point is normally enough. No Suki mascot, parent endorsement badge, generic AI sparkle, boardroom handshake, stock trust seal, or orange gradient. Avoid repeating the monogram as a wallpaper. Dark and light compositions may alternate, but typography and alignment should make a series recognizable.
+Use one signature or mark per composition. Orange appears only as the tiny post-threshold lineage point and never exceeds two percent of the artwork. Avoid parent-brand typography, cream/navy fields, editorial numbering, generic AI sparkles, stock boardrooms, gradients, rounded card piles, or orange decoration.
 
-Captions use plain words, sentence case, and one relevant CTA. Avoid hashtag chains, manufactured urgency, excessive punctuation, or victory language about persuading other participants. Meaningful images need useful alternative text. Video must include captions and a static equivalent of essential content; do not put meaning only in motion or music.
-
-## Release checks
-
-Check actual crop, thumbnail legibility, accessible caption, verified link, current product claim, release version, and licensed/consented imagery. Obtain permission before naming a customer or displaying a partner. Profile creation, username availability, verification, scheduled publishing, and account ownership remain separate external tasks; producing assets proves none of them.
+Before publication, check crop, thumbnail legibility, accessible caption, verified link, evidence for every product claim, image permission, and release status. Asset creation does not prove account ownership, username availability, platform verification, scheduling, or publication.

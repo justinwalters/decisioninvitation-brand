@@ -92,4 +92,4 @@ Do not say “anonymous,” “only you,” “completely confidential,” or �
 - Use “Catalyst of analysis.” as the primary brand line. “Ask separately. Decide clearly.” is supporting language.
 - Make statements at the strength of their evidence. “Designed to help” describes intent; it does not establish a measured outcome.
 - Avoid guaranteed results, speed claims, synthetic consensus, urgency theater, and unsupported superlatives.
-- Use ordinary text in subject lines, URLs, alt text, and metadata. The monogram does not change spelling or pronunciation.
+- Use ordinary text in subject lines, URLs, alt text, and metadata. The symbol does not change spelling or pronunciation.

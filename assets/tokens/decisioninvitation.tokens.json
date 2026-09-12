@@ -1,50 +1,50 @@
 {
   "system": {
     "name": "DecisionInvitation",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "status": "Design proposal - owner review pending"
   },
   "primitive": {
     "color": {
-      "ink": "#182B33",
-      "paper": "#F5F4EF",
-      "mist": "#E4ECEA",
-      "field": "#52766D",
+      "register": "#211B2B",
+      "cobalt": "#3346C8",
+      "periwinkle": "#C3CCFF",
+      "optic": "#F7F8FF",
       "orange": "#D54B1E",
       "white": "#FFFFFF"
     }
   },
   "semantic": {
-    "surface": "#F5F4EF",
-    "surfaceAlternate": "#E4ECEA",
-    "text": "#182B33",
-    "textMuted": "#52766D",
-    "action": "#182B33",
-    "onAction": "#F5F4EF",
-    "focus": "#182B33",
+    "surface": "#F7F8FF",
+    "surfaceAlternate": "#C3CCFF",
+    "text": "#211B2B",
+    "textMuted": "#5F5870",
+    "action": "#3346C8",
+    "onAction": "#FFFFFF",
+    "focus": "#3346C8",
     "signature": "#D54B1E",
-    "border": "#BAC8C4",
-    "positive": "#52766D",
-    "warning": "#71531A",
-    "error": "#A82C27"
+    "border": "#AAB4F0",
+    "positive": "#176B58",
+    "warning": "#765313",
+    "error": "#A52B3A"
   },
   "component": {
     "button": {
       "minHeight": 48,
       "background": "{semantic.action}",
       "text": "{semantic.onAction}",
-      "radius": 3
+      "radius": 0
     },
     "input": {
       "minHeight": 48,
       "focusWidth": 2,
-      "focusOffset": 4
+      "focusOffset": 3
     }
   },
   "font": {
-    "display": "Source Sans 3",
-    "body": "Source Sans 3",
-    "utility": "IBM Plex Mono",
+    "display": "Sora",
+    "body": "Sora",
+    "utility": "Sora",
     "wordmarkWeight": 600
   },
   "space": [
@@ -60,16 +60,16 @@
     128
   ],
   "type": {
-    "caption": 14,
-    "body": 18,
+    "caption": 13,
+    "body": 17,
     "lead": 24,
-    "title": 40,
-    "display": 96
+    "title": 44,
+    "display": 104
   },
   "motion": {
-    "shortMs": 160,
-    "transitionMs": 320,
-    "easing": "cubic-bezier(.2,.7,.2,1)",
+    "shortMs": 120,
+    "transitionMs": 260,
+    "easing": "cubic-bezier(.22,.8,.24,1)",
     "reducedMotion": "static final state"
   }
 }

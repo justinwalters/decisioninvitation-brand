@@ -1,6 +1,6 @@
 # DecisionInvitation application masters
 
-**System:** 0.2.0 identity proposal · **Creative direction:** Catalyst of analysis. · **Supporting promise:** Ask separately. Decide clearly.
+**System:** 0.3.0 identity proposal · **Creative direction:** Catalyst of analysis. · **Supporting promise:** Ask separately. Decide clearly.
 
 These are editable HTML/CSS source masters. They are not screenshots, locked PDFs, finished customer communications, or evidence of a deployed workflow. Open [the application index](index.html) from a local HTTP server serving the repository root. The HTML can also be opened directly when the browser permits local fonts and images.
 
@@ -8,7 +8,7 @@ These are editable HTML/CSS source masters. They are not screenshots, locked PDF
 
 The audience is a decision owner, an invited contributor, or someone encountering the product through ordinary business correspondence. Each artifact should make the next useful thought or action clear. The identity acts as a catalyst for analysis that leads to a responsible decision; it does not promise speed, agreement, objectivity, or a guaranteed outcome.
 
-The system is calm but active: a large sentence, a precise label, a clearly held question, and an identifiable next step. Source Sans 3 carries the voice. IBM Plex Mono identifies references, dates, and specifications. Paper, Mist, and Ink make the independent product recognizable. The orange point in the canonical signature supplies the subtle family cue. There are no additional orange decorations, invented endorsement seals, or acquisition claims.
+The system is calm but active: separate perspectives, a precise threshold, a clearly held question, and an identifiable next step. Sora carries both voice and utility. Register, Cobalt, Periwinkle, and Optic make the independent product recognizable. The orange point after the threshold supplies the subtle provenance cue. There are no additional orange decorations, parent-brand layouts, invented endorsement seals, or acquisition claims.
 
 The current assignment's `Catalyst of analysis.` language takes precedence over earlier campaign-line proposals. Source assets and the overall identity remain proposals until user approval is recorded. These applications must not be relabeled approved by exporting or publishing them.
 
@@ -27,12 +27,12 @@ The current assignment's `Catalyst of analysis.` language takes precedence over 
 
 ## Source dependencies
 
-- Main font: `../../assets/fonts/SourceSans3-Regular.woff2`, weight 400.
-- Semibold: `../../assets/fonts/SourceSans3-Semibold.woff2`, weight 600.
-- Utility: `../../assets/fonts/IBMPlexMono-Regular.woff2`, weight 400.
+- Main font: `../../assets/fonts/Sora-Regular.woff2`, weight 400.
+- Semibold: `../../assets/fonts/Sora-SemiBold.woff2`, weight 600.
+- Utility: `../../assets/fonts/Sora-Regular.woff2`, weight 400.
 - Primary lockup: `../../production/01-logo/svg/di-lockup-primary.svg`.
-- Primary monogram: `../../production/01-logo/svg/di-mark-primary.svg`.
-- Palette: Ink `#182B33`; Paper `#F5F4EF`; Mist `#E4ECEA`; Field `#52766D`; Orange `#D54B1E`; White `#FFFFFF`.
+- Primary mark: `../../production/01-logo/svg/di-mark-primary.svg`.
+- Palette: Register `#211B2B`; Optic `#F7F8FF`; Periwinkle `#C3CCFF`; Cobalt `#3346C8`; provenance Orange `#D54B1E`; White `#FFFFFF`.
 
 Font files and licenses are maintained by the full identity package, not duplicated here. Wait for `document.fonts.ready` before creating browser proofs. A missing font or logo is a packaging failure, not an acceptable final fallback. Normal web-font fallback exists for reading resilience; it is not intended as a branded export. The email signature deliberately uses Arial/Helvetica for recipient compatibility and references `../../production/01-logo/png/di-mark-primary-256.png` for local review. Replace that path with an approved hosted HTTPS PNG URL before use.
 
