@@ -1,0 +1,8 @@
+{
+  "name": "decisioninvitation-brand",
+  "version": "0.2.0",
+  "private": true,
+  "description": "DecisionInvitation corporate identity source and public brand center",
+  "scripts": {"test":"python3 -m unittest discover -s tests", "build":"python3 tools/build.py", "validate":"python3 tools/validate.py", "release":"python3 tools/package_release.py"},
+  "devDependencies": {"sharp":"0.34.5", "playwright":"1.58.2"}
+}

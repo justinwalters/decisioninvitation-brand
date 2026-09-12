@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "status": "Design proposal - owner review pending",
+  "name": "DecisionInvitation",
+  "idea": "Catalyst of analysis.",
+  "promise": "Ask separately. Decide clearly.",
+  "colors": {"ink":"#182B33","paper":"#F5F4EF","mist":"#E4ECEA","field":"#52766D","orange":"#D54B1E","white":"#FFFFFF"},
+  "mark": {
+    "viewBox": [0,0,256,256],
+    "body": "M24 40H83C143 40 178 78 178 132C178 186 143 224 83 224H24V147H58V190H82C122 190 144 168 144 132C144 96 122 74 82 74H58V113H24Z M198 110H230V224H198Z",
+    "microBody": "M24 40H83C143 40 178 78 178 132C178 186 143 224 83 224H24Z M60 76V188H82C121 188 142 166 142 132C142 98 121 76 82 76Z M196 112H232V224H196Z",
+    "dot": {"cx":214,"cy":69,"r":18},
+    "clearSpace":36,
+    "minimumMasterPixels":24,
+    "minimumMicroPixels":16
+  },
+  "typography": {"display":"Source Sans 3","body":"Source Sans 3","utility":"IBM Plex Mono","wordmarkWeight":600},
+  "motion": {"shortMs":160,"transitionMs":320,"easing":"cubic-bezier(.2,.7,.2,1)","reducedMotion":"static final state"}
+}

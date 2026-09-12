@@ -1,19 +1,75 @@
 {
-  "$schema": "https://design-tokens.github.io/community-group/format/",
-  "system": { "name": "DecisionInvitation identity", "version": "2026.1", "status": "working visual system" },
-  "color": {
-    "invitationInk": { "$value": "#042747", "$type": "color" },
-    "responsePaper": { "$value": "#FFFCF7", "$type": "color" },
-    "contextParchment": { "$value": "#F8F2E8", "$type": "color" },
-    "decisionPlum": { "$value": "#563B4D", "$type": "color" },
-    "invitationPoint": { "$value": "#D54B1E", "$type": "color" },
-    "evidenceSlate": { "$value": "#50636B", "$type": "color" },
-    "quietRule": { "$value": "#E8DDD0", "$type": "color" }
+  "system": {
+    "name": "DecisionInvitation",
+    "version": "0.2.0",
+    "status": "Design proposal - owner review pending"
+  },
+  "primitive": {
+    "color": {
+      "ink": "#182B33",
+      "paper": "#F5F4EF",
+      "mist": "#E4ECEA",
+      "field": "#52766D",
+      "orange": "#D54B1E",
+      "white": "#FFFFFF"
+    }
+  },
+  "semantic": {
+    "surface": "#F5F4EF",
+    "surfaceAlternate": "#E4ECEA",
+    "text": "#182B33",
+    "textMuted": "#52766D",
+    "action": "#182B33",
+    "onAction": "#F5F4EF",
+    "focus": "#182B33",
+    "signature": "#D54B1E",
+    "border": "#BAC8C4",
+    "positive": "#52766D",
+    "warning": "#71531A",
+    "error": "#A82C27"
+  },
+  "component": {
+    "button": {
+      "minHeight": 48,
+      "background": "{semantic.action}",
+      "text": "{semantic.onAction}",
+      "radius": 3
+    },
+    "input": {
+      "minHeight": 48,
+      "focusWidth": 2,
+      "focusOffset": 4
+    }
   },
   "font": {
-    "display": { "$value": ["Lexend", "Avenir Next", "Helvetica Neue", "Arial", "sans-serif"], "$type": "fontFamily" },
-    "body": { "$value": ["Source Sans 3", "Avenir Next", "Helvetica Neue", "Arial", "sans-serif"], "$type": "fontFamily" },
-    "mono": { "$value": ["IBM Plex Mono", "SFMono-Regular", "Consolas", "monospace"], "$type": "fontFamily" }
+    "display": "Source Sans 3",
+    "body": "Source Sans 3",
+    "utility": "IBM Plex Mono",
+    "wordmarkWeight": 600
   },
-  "radius": { "cut": { "$value": "2px", "$type": "dimension" } }
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "type": {
+    "caption": 14,
+    "body": 18,
+    "lead": 24,
+    "title": 40,
+    "display": 96
+  },
+  "motion": {
+    "shortMs": 160,
+    "transitionMs": 320,
+    "easing": "cubic-bezier(.2,.7,.2,1)",
+    "reducedMotion": "static final state"
+  }
 }

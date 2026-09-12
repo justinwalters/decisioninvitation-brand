@@ -1,0 +1,1804 @@
+{
+  "schemaVersion": "1.0",
+  "name": "DecisionInvitation",
+  "version": "0.2.0",
+  "status": "proposal-pending-owner-review",
+  "archiveRoot": "repository-relative; no enclosing directory",
+  "checksumAlgorithm": "SHA-256",
+  "dimensions": "PNG/ICO dimensions are pixels; SVG dimensions are viewBox units. Alpha means actual transparent pixels.",
+  "exclusions": [
+    "operational adoption ledger",
+    "private/review evidence",
+    "generated public mirror",
+    "caches and dependencies",
+    "nested ZIP archives"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "role": "documentation",
+      "bytes": 80,
+      "sha256": "e9fbc56544a87b196f0733618a727a8f797d68cd69186be3a438582b0848bb6e"
+    },
+    {
+      "path": "AGENTS.md",
+      "role": "documentation",
+      "bytes": 2962,
+      "sha256": "333b42f19ee05e45b4b9ff9245145ed350b9494ea01387e2f73ef1c28eee084d"
+    },
+    {
+      "path": "ASSET-LICENSE.md",
+      "role": "asset-usage-terms",
+      "bytes": 3609,
+      "sha256": "ff5c53f26c4b023a72655deb3e19804c65cb74f49b9525e1780650c30b9aac09"
+    },
+    {
+      "path": "BRAND-GUIDELINES.md",
+      "role": "documentation",
+      "bytes": 4352,
+      "sha256": "7216529c052183533544bbb99bafc6dfa72ed3316ec4ec44ec651700e4028215"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "role": "documentation",
+      "bytes": 1710,
+      "sha256": "abfaddbc4347947d967a7dcb3e5cddb35d16f1a38256931d203db642bc01844d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "role": "documentation",
+      "bytes": 2303,
+      "sha256": "f558795a7aef7f9ec04e40b7d8b9a06ea3b0699477fc69867318195d3d994baf"
+    },
+    {
+      "path": "README.md",
+      "role": "documentation",
+      "bytes": 8078,
+      "sha256": "dba96aad68fac490791f327d977daa1eafadb3470e3023ecbc2247c0462007d7"
+    },
+    {
+      "path": "assets/fonts/IBMPlexMono-Regular.ttf",
+      "role": "font",
+      "bytes": 173052,
+      "sha256": "7c6fbddca4b700be918f5f6183d9bd4464fa427fe435f0b480d77fe2bb8c5a43"
+    },
+    {
+      "path": "assets/fonts/IBMPlexMono-Regular.woff2",
+      "role": "font",
+      "bytes": 49248,
+      "sha256": "ba204497f16b6d334cee9d1e963a831b73e3a56e1d6300a8489d18df7214b350"
+    },
+    {
+      "path": "assets/fonts/LICENSE-IBM-Plex.txt",
+      "role": "font-license",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    },
+    {
+      "path": "assets/fonts/LICENSE-Source-Sans-3.md",
+      "role": "font-license",
+      "bytes": 4486,
+      "sha256": "56af9b9c6715597e458284a474dc118a50a4150e9d547c70f7b4a33c3e6a9328"
+    },
+    {
+      "path": "assets/fonts/README.md",
+      "role": "font",
+      "bytes": 1355,
+      "sha256": "27487d5a85b62f6090669e60eb3d286443c47ca9fdc58373168d7346578e3363"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Regular.ttf",
+      "role": "font",
+      "bytes": 431196,
+      "sha256": "4644c81b86ec9caaa76b634889968ed3c4f4f52f054855933acc7c2b21e53b0f"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Regular.woff2",
+      "role": "font",
+      "bytes": 109632,
+      "sha256": "53492fb3a0def77354f166a55d09b63a10855e91c206c7620a81cf56e97f8ec3"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Semibold.ttf",
+      "role": "font",
+      "bytes": 425904,
+      "sha256": "a3f4f8dcf343a8f24dc61951de93f3ba1558b15cd250ba24af8a40e957081b7d"
+    },
+    {
+      "path": "assets/fonts/SourceSans3-Semibold.woff2",
+      "role": "font",
+      "bytes": 108900,
+      "sha256": "47b9b661b9f395fe7f0d0e119637fba5c8dad97bde3df60066fd24229c0792f4"
+    },
+    {
+      "path": "assets/fonts/SourceSans3.ttf",
+      "role": "font",
+      "bytes": 646540,
+      "sha256": "1147db9a3f0edd4956068de77930148acce2742dd76d57f7239b2b1c687ac63f"
+    },
+    {
+      "path": "assets/fonts/provenance.json",
+      "role": "font",
+      "bytes": 1938,
+      "sha256": "ce1cc2cff05dc89259756dbeea807eae973357ec0a7a0b8bb29f1553019eb0b6"
+    },
+    {
+      "path": "assets/logo/decisioninvitation-di-mark.svg",
+      "role": "compatibility-logo",
+      "bytes": 380,
+      "sha256": "70a1045a17df28607d7cdf8ceb02ab135171027bd0759668a57cc9fd655116b7",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/logo/decisioninvitation-wordmark.svg",
+      "role": "compatibility-logo",
+      "bytes": 11098,
+      "sha256": "de51a16dcf0184aff0bbde4b9ad0bb93654bc08dd7e033e28dad04e8f50aff33",
+      "width": 709,
+      "height": 150
+    },
+    {
+      "path": "assets/source/identity.json",
+      "role": "identity-source",
+      "bytes": 1039,
+      "sha256": "03862da9f5825e59581a27b78bc122ba046465cee5a1ee906332d6340cbdd05e"
+    },
+    {
+      "path": "assets/tokens/decisioninvitation.tokens.css",
+      "role": "design-tokens",
+      "bytes": 655,
+      "sha256": "ca87e4bff2b9885b0772e7bef16a36bdb9dea0d53b8a077b61093716903a545d"
+    },
+    {
+      "path": "assets/tokens/decisioninvitation.tokens.json",
+      "role": "design-tokens",
+      "bytes": 1406,
+      "sha256": "78b38f7bf4ff87f33502d6c390bbcb3fa33d05f4554bae378cb1a4f7f002296c"
+    },
+    {
+      "path": "brand-system.json",
+      "role": "documentation",
+      "bytes": 3392,
+      "sha256": "6e8c59d6af2cceef968420899843dcfb638846c9958923cd8524f073936ac35e"
+    },
+    {
+      "path": "docs/AI-HANDOFF.md",
+      "role": "documentation",
+      "bytes": 4219,
+      "sha256": "abeba84d9dafeeb4c0aa7c51c3fd45c1fcba43a54455124da60914b4804edeaf"
+    },
+    {
+      "path": "docs/README.md",
+      "role": "documentation",
+      "bytes": 3246,
+      "sha256": "725e304a3f6f215a978adee43bee2d2b1efc8df448cce361666e3bb7d53edd6b"
+    },
+    {
+      "path": "docs/adoption-register-template.md",
+      "role": "documentation",
+      "bytes": 3233,
+      "sha256": "d4701d576687e3740022db9d7ed3cc6acff3859f249a3ddd63b9a1a4bc2570d6"
+    },
+    {
+      "path": "docs/art-direction.md",
+      "role": "documentation",
+      "bytes": 4793,
+      "sha256": "37d3a4fdb8a1eda88f7ad0ed756b2f366dd3d63dfac9b7cb04ed9ee4d3315c53"
+    },
+    {
+      "path": "docs/brand-architecture.md",
+      "role": "documentation",
+      "bytes": 3063,
+      "sha256": "b73bfd03a8a23b95e3d85b4f0c45a490722eaa4a994b99d2f497652b87ba889b"
+    },
+    {
+      "path": "docs/brand-guidelines.md",
+      "role": "documentation",
+      "bytes": 6774,
+      "sha256": "644316cfa58ecf229daea0a82f5f1dc64cb7f7544839fb5b13bbb779d0b5edee"
+    },
+    {
+      "path": "docs/brand-strategy.md",
+      "role": "documentation",
+      "bytes": 7520,
+      "sha256": "123799bb7f6273fe744b369b7630a044deec433f5afa441c3e5f64b8451dd3ed"
+    },
+    {
+      "path": "docs/claims-and-privacy.md",
+      "role": "documentation",
+      "bytes": 4110,
+      "sha256": "62acb7b3c6a92904fe94b98bdf4bf92da062e52ffd5b6f062a064f95b7f70559"
+    },
+    {
+      "path": "docs/color-and-accessibility.md",
+      "role": "documentation",
+      "bytes": 4623,
+      "sha256": "f3307f45e66b5fce9de1121190067147816debfe4cf2ed52af22b77aacc2eaf2"
+    },
+    {
+      "path": "docs/decisions/0001-independent-catalyst-identity.md",
+      "role": "documentation",
+      "bytes": 2417,
+      "sha256": "90fc6fbf9df20ae9ed5ef40567452e8c3ed3a9cb428932aae1f667efee6a6f41"
+    },
+    {
+      "path": "docs/email-and-documents.md",
+      "role": "documentation",
+      "bytes": 3530,
+      "sha256": "72913ec7e929ac9c3dddd3941d67c23fb6c645e40d09790a74d15d9f469865e2"
+    },
+    {
+      "path": "docs/governance-and-release.md",
+      "role": "documentation",
+      "bytes": 4673,
+      "sha256": "b79b0b00a1e6189c899978fada969cba72ad5cf2b5015676670203dd9831d2e5"
+    },
+    {
+      "path": "docs/logo-standards.md",
+      "role": "documentation",
+      "bytes": 4769,
+      "sha256": "830008e7ba0c927f47d0df59221de8984d17601e47d2e429eafe58d1b7160bcb"
+    },
+    {
+      "path": "docs/messaging-and-voice.md",
+      "role": "documentation",
+      "bytes": 7460,
+      "sha256": "910a5560108dee108fa8a0d2a47c27e4d49116b5dd6752f45d94ce020765dcef"
+    },
+    {
+      "path": "docs/motion-and-interaction.md",
+      "role": "documentation",
+      "bytes": 2374,
+      "sha256": "73147c3946754ff2b15f19890774bbaf544f8586c118c1b69f3db3dd12055fe3"
+    },
+    {
+      "path": "docs/social-media-guidelines.md",
+      "role": "documentation",
+      "bytes": 3804,
+      "sha256": "22f219c5658d8bec1b5e73ac3827d8e2e8f83d15337d8af363449b8b90293bd4"
+    },
+    {
+      "path": "docs/typography.md",
+      "role": "documentation",
+      "bytes": 4094,
+      "sha256": "f997d4a066dff29c462382df1566ae86d36441c3f7e90c46f552e06865ff0d61"
+    },
+    {
+      "path": "docs/website-guidelines.md",
+      "role": "documentation",
+      "bytes": 4529,
+      "sha256": "be66cd4ebd3e183fdfcb2f8a1b7d64a38e51d1a06ebb7495027c21ff935c3302"
+    },
+    {
+      "path": "output/pdf/decisioninvitation-identity-manual.pdf",
+      "role": "identity-manual",
+      "bytes": 97366,
+      "sha256": "68ef0f7f4ef3da5d31bd093a50e7019d4a1868d92a43170df90bce67efe05cc0"
+    },
+    {
+      "path": "package-lock.json",
+      "role": "dependency-definition",
+      "bytes": 21224,
+      "sha256": "08da50728aed6478022440dd413a025662364b5d2d6d6b3f2feb36697bb78d90"
+    },
+    {
+      "path": "package.json",
+      "role": "dependency-definition",
+      "bytes": 418,
+      "sha256": "f2fd0e8b6176cc76561ad60629e7705eca20c5971949df0d6fb5a0409c7e1101"
+    },
+    {
+      "path": "production/01-logo/pdf/di-lockup-ink.pdf",
+      "role": "logo-pdf",
+      "bytes": 6635,
+      "sha256": "c649f07bc7bc4bd3aabe59f0285e54a4979b21c3786505af1b16371a623bff2c"
+    },
+    {
+      "path": "production/01-logo/pdf/di-lockup-primary.pdf",
+      "role": "logo-pdf",
+      "bytes": 6651,
+      "sha256": "294548fe25306548894d300c2249f7103a964c9a0d264e43581292fdb27d9008"
+    },
+    {
+      "path": "production/01-logo/pdf/di-lockup-reverse.pdf",
+      "role": "logo-pdf",
+      "bytes": 6663,
+      "sha256": "0609d3b18209ddbfd3590c9ccdbc487240933b2ddd40d18fdb63f33f144e1bb3"
+    },
+    {
+      "path": "production/01-logo/pdf/di-lockup-white.pdf",
+      "role": "logo-pdf",
+      "bytes": 6621,
+      "sha256": "4bbb71146c74378fe11e6124c2e92a00731df33c4f36d9a9bfa497f8cb64ffa4"
+    },
+    {
+      "path": "production/01-logo/pdf/di-mark-ink.pdf",
+      "role": "logo-pdf",
+      "bytes": 1599,
+      "sha256": "df860591bde24e04963db49a4a7b3b4759bf86c23c0ff34289393ee7217ee3c3"
+    },
+    {
+      "path": "production/01-logo/pdf/di-mark-primary.pdf",
+      "role": "logo-pdf",
+      "bytes": 1614,
+      "sha256": "9a854c1055cf1cdb4c0045f5ff020dd82f0b951d91a7681a8714c38b9d5f1ddd"
+    },
+    {
+      "path": "production/01-logo/pdf/di-mark-reverse.pdf",
+      "role": "logo-pdf",
+      "bytes": 1620,
+      "sha256": "67251b0977a8ea913dd6beb48b2ff21a68eb6e02d8eac463c73ef29deedbf28c"
+    },
+    {
+      "path": "production/01-logo/pdf/di-mark-white.pdf",
+      "role": "logo-pdf",
+      "bytes": 1589,
+      "sha256": "d1d1c98d4d322511b6a31596676ed1b7a24b3a2a551ea16face64b7458d41252"
+    },
+    {
+      "path": "production/01-logo/pdf/di-micro-ink.pdf",
+      "role": "logo-pdf",
+      "bytes": 1589,
+      "sha256": "cc17ea88bdb2f404c528c8ee5f9db28dc62d4a73d47feb578720842ba02c56ed"
+    },
+    {
+      "path": "production/01-logo/pdf/di-micro-primary.pdf",
+      "role": "logo-pdf",
+      "bytes": 1601,
+      "sha256": "3820427ede77efa58f8753ed98d9c4cf7cf21fac988f2865966d9ea0ebdfc8f9"
+    },
+    {
+      "path": "production/01-logo/pdf/di-micro-reverse.pdf",
+      "role": "logo-pdf",
+      "bytes": 1606,
+      "sha256": "2c140ad29305b26319ef2436e7f938818cb8a35627c593a7958c7c4d71b88a9b"
+    },
+    {
+      "path": "production/01-logo/pdf/di-micro-white.pdf",
+      "role": "logo-pdf",
+      "bytes": 1577,
+      "sha256": "663ef7035829660991ec002f21d5f38561c3cb6ed786a59aae57cfb4c0fa2daa"
+    },
+    {
+      "path": "production/01-logo/pdf/di-stacked-ink.pdf",
+      "role": "logo-pdf",
+      "bytes": 7067,
+      "sha256": "9d6388cb7e2a906f8bf68c80f2fb783c5b0e586d456f21b7787f2eb0f86e9f27"
+    },
+    {
+      "path": "production/01-logo/pdf/di-stacked-primary.pdf",
+      "role": "logo-pdf",
+      "bytes": 7081,
+      "sha256": "f882f61edca4692ba7e1693bb2e7de5c54e4d545bc186b26c0065180ff48eef2"
+    },
+    {
+      "path": "production/01-logo/pdf/di-stacked-reverse.pdf",
+      "role": "logo-pdf",
+      "bytes": 7088,
+      "sha256": "3db13fbbc60ee477f92e329e975433cb56a1018fd55114b886500bd6a86dd6ce"
+    },
+    {
+      "path": "production/01-logo/pdf/di-stacked-white.pdf",
+      "role": "logo-pdf",
+      "bytes": 7052,
+      "sha256": "94937268299b3b6c4be7bdf653c83b833a6363df8bf7dc8c5d20153be680acd3"
+    },
+    {
+      "path": "production/01-logo/pdf/di-wordmark-ink.pdf",
+      "role": "logo-pdf",
+      "bytes": 6379,
+      "sha256": "18a3d83b0df9fdfbe7ef4d2a6fedb0bfe2a4931e5baf3389c959600d166dfb4f"
+    },
+    {
+      "path": "production/01-logo/pdf/di-wordmark-primary.pdf",
+      "role": "logo-pdf",
+      "bytes": 6379,
+      "sha256": "18a3d83b0df9fdfbe7ef4d2a6fedb0bfe2a4931e5baf3389c959600d166dfb4f"
+    },
+    {
+      "path": "production/01-logo/pdf/di-wordmark-reverse.pdf",
+      "role": "logo-pdf",
+      "bytes": 6382,
+      "sha256": "299db91eb752eabbb3be32267c89b60e4082b57420e72a0c29882cc28b2d7e79"
+    },
+    {
+      "path": "production/01-logo/pdf/di-wordmark-white.pdf",
+      "role": "logo-pdf",
+      "bytes": 6360,
+      "sha256": "c9868eeb569b17cc1e926b92cbd5eb1ac5832c0e38a394796fbceac041929df9"
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-ink-1200.png",
+      "role": "logo-raster",
+      "bytes": 19750,
+      "sha256": "1b9bed4937db642b34aedc2578e674aee3328ec10b97ebf423039b1cd9a81a3c",
+      "width": 1200,
+      "height": 254,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-ink-2400.png",
+      "role": "logo-raster",
+      "bytes": 46355,
+      "sha256": "bc86c325fa5579bd2328bc160c6ad1eafccf7a08d8152ab9498e0303ef505842",
+      "width": 2400,
+      "height": 508,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-primary-1200.png",
+      "role": "logo-raster",
+      "bytes": 19974,
+      "sha256": "2c00f8e82e482bd5abca703d553574ecbf50225ed913c43a17cce378a0abbb8d",
+      "width": 1200,
+      "height": 254,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-primary-2400.png",
+      "role": "logo-raster",
+      "bytes": 46725,
+      "sha256": "f64a9febdd8a6860c88e806b1141c2b675529eeaed7518782be3dc0cbe6eca5e",
+      "width": 2400,
+      "height": 508,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-reverse-1200.png",
+      "role": "logo-raster",
+      "bytes": 19815,
+      "sha256": "664327c93a652b8c0ecf2bd9f00d17ca004749770f4104bd14b40e9bba0d8d80",
+      "width": 1200,
+      "height": 254,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-reverse-2400.png",
+      "role": "logo-raster",
+      "bytes": 46231,
+      "sha256": "b95292387084444ec6a424997af18b74b3194f6fc0b0011ecba1a2f7d209683f",
+      "width": 2400,
+      "height": 508,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-white-1200.png",
+      "role": "logo-raster",
+      "bytes": 16076,
+      "sha256": "bead7e73560ce64e6e8db0d142da9a8920064356241bc9570c968b8012dd67fb",
+      "width": 1200,
+      "height": 254,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-lockup-white-2400.png",
+      "role": "logo-raster",
+      "bytes": 38071,
+      "sha256": "6f11cea045581ec919b1f19aebeae0458e917a9ee8023bbae33b718ea282c521",
+      "width": 2400,
+      "height": 508,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-ink-1024.png",
+      "role": "logo-raster",
+      "bytes": 28727,
+      "sha256": "83d9d9748c2680484b62fd8356394c2caf61b084059b5717f04ae87e881eea13",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-ink-256.png",
+      "role": "logo-raster",
+      "bytes": 4444,
+      "sha256": "40c52cabbe3a98c8c403e5de8573bebd68bf0a7ad128aab7be3b2cdbbf751d3a",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-primary-1024.png",
+      "role": "logo-raster",
+      "bytes": 29243,
+      "sha256": "df5b6a4aad80bf022a7d626d182fb5e0998c378fc0ab6b028c6128bffc1756cc",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-primary-256.png",
+      "role": "logo-raster",
+      "bytes": 4568,
+      "sha256": "17103a5c500491c6cad94782bb5c49a2434f2a635158c596e59997e832a81022",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-reverse-1024.png",
+      "role": "logo-raster",
+      "bytes": 28791,
+      "sha256": "5f0264b985f83f7c4485395245c6ffc89b5711d0e58a57e8557cc1df7b428edb",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-reverse-256.png",
+      "role": "logo-raster",
+      "bytes": 4500,
+      "sha256": "04bd8d530d6a897bebcfc28c9c9037c6460e20108e283788a67d04b9e7626298",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-white-1024.png",
+      "role": "logo-raster",
+      "bytes": 20023,
+      "sha256": "d7d1a225f6ce75392b7495e1591eaad4c55b611b5d78cfbe47c21f4a1f931e66",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-mark-white-256.png",
+      "role": "logo-raster",
+      "bytes": 3448,
+      "sha256": "359e36a312dbf7158c778c106b8d9ac3b65b2e99bc740cdfd436a08a8c4e5e9d",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-ink-1024.png",
+      "role": "logo-raster",
+      "bytes": 28789,
+      "sha256": "84bbcfc740a0e3fedcdc2144f171a18207dbbe1ba97a15c27eb7183e45ecf54f",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-ink-256.png",
+      "role": "logo-raster",
+      "bytes": 4866,
+      "sha256": "7d8783ce751b251d1e082881609aab68acb07824bcfef013f04dfb367c8102d3",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-primary-1024.png",
+      "role": "logo-raster",
+      "bytes": 29339,
+      "sha256": "cf87ab8967d9e454dad8a11d1e155f4994813689bc0b23fe9dac3370ac255250",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-primary-256.png",
+      "role": "logo-raster",
+      "bytes": 4989,
+      "sha256": "f989107e1a2e3ea521205399b26381a677b7924ad180bf197f3f360bd555bd87",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-reverse-1024.png",
+      "role": "logo-raster",
+      "bytes": 29074,
+      "sha256": "3e7ef71aa207ec0b5367ac802b90866660092a2d9bd5c09a8330a21a1357c559",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-reverse-256.png",
+      "role": "logo-raster",
+      "bytes": 4943,
+      "sha256": "bfb018186e826b34f45172ed9421cea3974354360f5d096df6923f8ed732fee8",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-white-1024.png",
+      "role": "logo-raster",
+      "bytes": 19897,
+      "sha256": "50e32579a185a39bfb3830fde67b005266178484bde93dcc22264fd66abe3038",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-micro-white-256.png",
+      "role": "logo-raster",
+      "bytes": 3494,
+      "sha256": "7690cc6fe6cb6df6ff33ff3eeb6c8f87b8f5c9f14485a8f06c5ff20521afc9d4",
+      "width": 256,
+      "height": 256,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-ink-1200.png",
+      "role": "logo-raster",
+      "bytes": 43017,
+      "sha256": "0cb3534804cfa5f9bc03d34d07165afaca91f29702f077640b093d8a49384949",
+      "width": 1200,
+      "height": 1143,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-ink-2400.png",
+      "role": "logo-raster",
+      "bytes": 110271,
+      "sha256": "63e78f9baf50ef90a99fa8736a58cc9b63ebc9ef6fcb3ecee5b6ea663a80d9d3",
+      "width": 2400,
+      "height": 2286,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-primary-1200.png",
+      "role": "logo-raster",
+      "bytes": 43333,
+      "sha256": "384cfad7d1ab29758fff40782ac3d3b7eb258e16e031676214ff2bf5718da0b0",
+      "width": 1200,
+      "height": 1143,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-primary-2400.png",
+      "role": "logo-raster",
+      "bytes": 110680,
+      "sha256": "e9c52d98bed4473a6db4b6872429fac32607433cef5010639436c8d671bad75b",
+      "width": 2400,
+      "height": 2286,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-reverse-1200.png",
+      "role": "logo-raster",
+      "bytes": 42913,
+      "sha256": "075cf5ab201d95f7383aa51d4fb54923bdddfcdda204e83ac9d9571ac60b509d",
+      "width": 1200,
+      "height": 1143,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-reverse-2400.png",
+      "role": "logo-raster",
+      "bytes": 109217,
+      "sha256": "4ad32bc2a1a200ed0fd7312642e20752be512a4267211465b9f1ce34c6383e4e",
+      "width": 2400,
+      "height": 2286,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-white-1200.png",
+      "role": "logo-raster",
+      "bytes": 33936,
+      "sha256": "f8ce8168fce94e35951b03a2ab2100f691048775c40cb35fd31575f7970f8e16",
+      "width": 1200,
+      "height": 1143,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-stacked-white-2400.png",
+      "role": "logo-raster",
+      "bytes": 84970,
+      "sha256": "9c012b433a26ed9ef6755e87acda7d9ddc6afb365e4686c8e75d420c2aa8302f",
+      "width": 2400,
+      "height": 2286,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-ink-1200.png",
+      "role": "logo-raster",
+      "bytes": 20375,
+      "sha256": "7cdf901f9b8f9024fe095cfa9d1810812dace2ae068cfc7fb169809483938086",
+      "width": 1200,
+      "height": 236,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-ink-2400.png",
+      "role": "logo-raster",
+      "bytes": 48703,
+      "sha256": "03e00ba0ef58cb2879df81d9a7c38092bb22a65dafdd765d6580d3ade5d28420",
+      "width": 2400,
+      "height": 472,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-primary-1200.png",
+      "role": "logo-raster",
+      "bytes": 20375,
+      "sha256": "7cdf901f9b8f9024fe095cfa9d1810812dace2ae068cfc7fb169809483938086",
+      "width": 1200,
+      "height": 236,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-primary-2400.png",
+      "role": "logo-raster",
+      "bytes": 48703,
+      "sha256": "03e00ba0ef58cb2879df81d9a7c38092bb22a65dafdd765d6580d3ade5d28420",
+      "width": 2400,
+      "height": 472,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-reverse-1200.png",
+      "role": "logo-raster",
+      "bytes": 20207,
+      "sha256": "6f7ca04002c298447b2dbbd538b84942dde0177b843b6c5b958a91a73b5c86c9",
+      "width": 1200,
+      "height": 236,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-reverse-2400.png",
+      "role": "logo-raster",
+      "bytes": 47944,
+      "sha256": "5ec8518392722c5f6dea58f480a7b00428f5bc63e29e078869f69fe931b9af77",
+      "width": 2400,
+      "height": 472,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-white-1200.png",
+      "role": "logo-raster",
+      "bytes": 16688,
+      "sha256": "f895e34395ae82ab267158a049905c32372fb9741f4541c1b3f45b9f810dd04f",
+      "width": 1200,
+      "height": 236,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/png/di-wordmark-white-2400.png",
+      "role": "logo-raster",
+      "bytes": 39055,
+      "sha256": "ab0662b3ca21fab8203d9c79c7fc29c0694d49b4b4698883acd3a56c1da3c452",
+      "width": 2400,
+      "height": 472,
+      "alpha": true
+    },
+    {
+      "path": "production/01-logo/svg/di-lockup-ink.svg",
+      "role": "logo-vector",
+      "bytes": 11098,
+      "sha256": "ad551c5ec714ef4c762f0de94596b66f2135eb1b52f8e9a64ee8f325e7094209",
+      "width": 709,
+      "height": 150
+    },
+    {
+      "path": "production/01-logo/svg/di-lockup-primary.svg",
+      "role": "logo-vector",
+      "bytes": 11098,
+      "sha256": "de51a16dcf0184aff0bbde4b9ad0bb93654bc08dd7e033e28dad04e8f50aff33",
+      "width": 709,
+      "height": 150
+    },
+    {
+      "path": "production/01-logo/svg/di-lockup-reverse.svg",
+      "role": "logo-vector",
+      "bytes": 11098,
+      "sha256": "f8c934fa6aac1976e4ebd6815aebd16f12d49268f6a94ce14eeb2f3565873007",
+      "width": 709,
+      "height": 150
+    },
+    {
+      "path": "production/01-logo/svg/di-lockup-white.svg",
+      "role": "logo-vector",
+      "bytes": 11098,
+      "sha256": "8cea7eb80044107881315992f380b24d933c16344ceffa1582dfeb6fd7511c1f",
+      "width": 709,
+      "height": 150
+    },
+    {
+      "path": "production/01-logo/svg/di-mark-ink.svg",
+      "role": "logo-vector",
+      "bytes": 380,
+      "sha256": "5e8654b732f5b7a63e2a6c78d983b57063c33cbf04275039413f1225e263ffa2",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-mark-primary.svg",
+      "role": "logo-vector",
+      "bytes": 380,
+      "sha256": "70a1045a17df28607d7cdf8ceb02ab135171027bd0759668a57cc9fd655116b7",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-mark-reverse.svg",
+      "role": "logo-vector",
+      "bytes": 380,
+      "sha256": "088485bc6aaef42b834ef31617394df61ece00cc5fac121ee70d7fffb4c78b7f",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-mark-white.svg",
+      "role": "logo-vector",
+      "bytes": 380,
+      "sha256": "f17817bd1131212abacb7fde554efb0502549404193969cf8878b3e68521c035",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-micro-ink.svg",
+      "role": "logo-vector",
+      "bytes": 371,
+      "sha256": "3c6cfa79ef1f5aa8e903b8a2c6e30a36cb3922d68b87c68de916a3fd01d29ada",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-micro-primary.svg",
+      "role": "logo-vector",
+      "bytes": 371,
+      "sha256": "4a8d42a5c399ce299492c36002e1d9934b7a37670d0796a99dbc2f05772ac9b8",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-micro-reverse.svg",
+      "role": "logo-vector",
+      "bytes": 371,
+      "sha256": "cf44198e135b82fa3d3c30d3799b0cbc3753e778a4c0333c7388e23737a812c8",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-micro-white.svg",
+      "role": "logo-vector",
+      "bytes": 371,
+      "sha256": "1fb28d1a0db325dd4acc6c1700e06365a89536df091e51ccd3c2053f3931f20c",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/01-logo/svg/di-stacked-ink.svg",
+      "role": "logo-vector",
+      "bytes": 11413,
+      "sha256": "6ebe19128894a87412e4c81c9dc884ae0acc4af54d05f4d99c59141d4febd56d",
+      "width": 420,
+      "height": 400
+    },
+    {
+      "path": "production/01-logo/svg/di-stacked-primary.svg",
+      "role": "logo-vector",
+      "bytes": 11413,
+      "sha256": "dad46870a4935454ffb1937b8a4a1b874ad1c83f447ab952852fdbaf7bd20ac1",
+      "width": 420,
+      "height": 400
+    },
+    {
+      "path": "production/01-logo/svg/di-stacked-reverse.svg",
+      "role": "logo-vector",
+      "bytes": 11413,
+      "sha256": "220b175dc7f1b9d741ed752831e8d1fb566f008c68c517574934d9624ffa367e",
+      "width": 420,
+      "height": 400
+    },
+    {
+      "path": "production/01-logo/svg/di-stacked-white.svg",
+      "role": "logo-vector",
+      "bytes": 11413,
+      "sha256": "a5eb5c4af262d679aa9a2ac77a20af6ca6c09aab9c20e2c442a8a2268ad3c1a4",
+      "width": 420,
+      "height": 400
+    },
+    {
+      "path": "production/01-logo/svg/di-wordmark-ink.svg",
+      "role": "logo-vector",
+      "bytes": 12586,
+      "sha256": "c2d1e0b5a800b6de0f9ed22379005a8d5efa121559fe74c0592b8a32bb39ffc1",
+      "width": 539,
+      "height": 106
+    },
+    {
+      "path": "production/01-logo/svg/di-wordmark-primary.svg",
+      "role": "logo-vector",
+      "bytes": 12586,
+      "sha256": "c2d1e0b5a800b6de0f9ed22379005a8d5efa121559fe74c0592b8a32bb39ffc1",
+      "width": 539,
+      "height": 106
+    },
+    {
+      "path": "production/01-logo/svg/di-wordmark-reverse.svg",
+      "role": "logo-vector",
+      "bytes": 12586,
+      "sha256": "3e1c0da763643a0716ed885d6cbc529f6f2a5f59b34d7e6940eae88d41dfdade",
+      "width": 539,
+      "height": 106
+    },
+    {
+      "path": "production/01-logo/svg/di-wordmark-white.svg",
+      "role": "logo-vector",
+      "bytes": 12586,
+      "sha256": "54126f91889cd4e5fce3bb4da3a04e321b5592771c872c474fe4eae2d5e878ac",
+      "width": 539,
+      "height": 106
+    },
+    {
+      "path": "production/02-digital/di-icon-1024.png",
+      "role": "digital-icon",
+      "bytes": 41728,
+      "sha256": "d568105624563d96258b5570219fe1f280e1601021f341f189589a78c6c0a4f0",
+      "width": 1024,
+      "height": 1024,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-1024.svg",
+      "role": "digital-icon",
+      "bytes": 474,
+      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/di-icon-16.png",
+      "role": "digital-icon",
+      "bytes": 366,
+      "sha256": "02a9e008ae5fc9091a757bfb5ffc2ad1880030074cd5a34564d2d14c0a55a103",
+      "width": 16,
+      "height": 16,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-16.svg",
+      "role": "digital-icon",
+      "bytes": 465,
+      "sha256": "698b7efcdd4c7e1ecc95fd1dd92f20763c6b583994fe69a699ccaa8470d9f2b1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/di-icon-180.png",
+      "role": "digital-icon",
+      "bytes": 3156,
+      "sha256": "ee4f492de0486fd265ea71810003b8936e005bab752d0bd49f9dc0e6cfe49e72",
+      "width": 180,
+      "height": 180,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-180.svg",
+      "role": "digital-icon",
+      "bytes": 474,
+      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/di-icon-192.png",
+      "role": "digital-icon",
+      "bytes": 3403,
+      "sha256": "7564607686d7de7650c7b83457524c6003f3bb871c4495469e7d63292cc67c1c",
+      "width": 192,
+      "height": 192,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-192.svg",
+      "role": "digital-icon",
+      "bytes": 474,
+      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/di-icon-32.png",
+      "role": "digital-icon",
+      "bytes": 609,
+      "sha256": "a4950d0da906892014a49d7202996431ca62a784d712a15afc961e696ee28c31",
+      "width": 32,
+      "height": 32,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-32.svg",
+      "role": "digital-icon",
+      "bytes": 465,
+      "sha256": "698b7efcdd4c7e1ecc95fd1dd92f20763c6b583994fe69a699ccaa8470d9f2b1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/di-icon-48.png",
+      "role": "digital-icon",
+      "bytes": 856,
+      "sha256": "10a8a244ae6d7325f2e539985b77347bee27529066e9e8ec5e9eb28ba2d1107d",
+      "width": 48,
+      "height": 48,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-48.svg",
+      "role": "digital-icon",
+      "bytes": 474,
+      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/di-icon-512.png",
+      "role": "digital-icon",
+      "bytes": 14230,
+      "sha256": "e5f59e90b75ad95db5842bd238c6ba5cdc2babd9377b02db9702d654d2be46d3",
+      "width": 512,
+      "height": 512,
+      "alpha": false
+    },
+    {
+      "path": "production/02-digital/di-icon-512.svg",
+      "role": "digital-icon",
+      "bytes": 474,
+      "sha256": "d0a96423a08601dcd6b6d59749baeaddd365c8c4007a897490ca1b9b474a43b5",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "production/02-digital/favicon.ico",
+      "role": "digital-icon",
+      "bytes": 2254,
+      "sha256": "4e2d83d275d7f66cc4e31224f2ce44b3c420f457761bef86826deac4d1628d78",
+      "width": 48,
+      "height": 48,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-avatar-dark-1200.png",
+      "role": "social-artwork",
+      "bytes": 46001,
+      "sha256": "13275dbaa1f67e71ac8b763e77e30bf5b1050ce685e3dc5f5cfc5d6d93215055",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-avatar-dark.svg",
+      "role": "social-artwork",
+      "bytes": 482,
+      "sha256": "07bc92f465c3fea183f798716eeb7c2c314008a2e2dcf5f04a12be31c73dc4d0",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "production/03-social/di-avatar-light-1200.png",
+      "role": "social-artwork",
+      "bytes": 46045,
+      "sha256": "1be1f41ccb0b0b7befc21bc5e9b7ac1166e4307aa2fbc8997d70952994bb831e",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-avatar-light.svg",
+      "role": "social-artwork",
+      "bytes": 482,
+      "sha256": "2b5b491b7d5e6e47a59c57b972f0ef0035e5770dd24e2c2313a6fab0aedce247",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "production/03-social/di-header.png",
+      "role": "social-artwork",
+      "bytes": 81423,
+      "sha256": "0dae2b541cb5b1ca33d6159563830f2e8af0ac4d40ab95c5ee5858ac5c00994e",
+      "width": 2400,
+      "height": 800,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-header.svg",
+      "role": "social-artwork",
+      "bytes": 28088,
+      "sha256": "3ef25fd254a58087ccb9e4e4d72bfc4d812d447da8860203137671ca958e252d",
+      "width": 2400,
+      "height": 800
+    },
+    {
+      "path": "production/03-social/di-portrait.png",
+      "role": "social-artwork",
+      "bytes": 58591,
+      "sha256": "405f91637f2e47283a6636f3e5e71cfffda35d03e5baada3b5b8cbe012e09f74",
+      "width": 1080,
+      "height": 1350,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-portrait.svg",
+      "role": "social-artwork",
+      "bytes": 31845,
+      "sha256": "8e1494f9a32f6154d814d96914a7b0d7ff2829a8a78792d7692ca87a76f49c5f",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "production/03-social/di-presentation.png",
+      "role": "social-artwork",
+      "bytes": 83518,
+      "sha256": "0225a7a730b4f138deee2b8d780fd5e4bd1b728f7629d05d76f81ae5a8615131",
+      "width": 1920,
+      "height": 1080,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-presentation.svg",
+      "role": "social-artwork",
+      "bytes": 32140,
+      "sha256": "32ba2f385474e7439ef18efca70923f9932d5691cacb11cb2b2f826126cbfb51",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "production/03-social/di-share-card.png",
+      "role": "social-artwork",
+      "bytes": 40916,
+      "sha256": "08c3a0455ebb47ea7df37dbe7835a163987c0428cb24935e1e237814a5c0d463",
+      "width": 1200,
+      "height": 630,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-share-card.svg",
+      "role": "social-artwork",
+      "bytes": 27318,
+      "sha256": "dd7fe46e52b8ae879b5039119b9b89408929cde1fdaa11c06649bd28d7e3e402",
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "production/03-social/di-square.png",
+      "role": "social-artwork",
+      "bytes": 59801,
+      "sha256": "83542e52872a219c43065de890780ad07dc30d8540d645609b0ef0c9e4b45994",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-square.svg",
+      "role": "social-artwork",
+      "bytes": 27091,
+      "sha256": "bfe6c1af65222df4b8b0d5d240d79659865a17f8243c09ca675bcc23b5807885",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "path": "production/03-social/di-story.png",
+      "role": "social-artwork",
+      "bytes": 73330,
+      "sha256": "9a221c22278bd7a8248b41933cfdabdd9b7f7ecb598b5bc455aa9c4cabc75d6c",
+      "width": 1080,
+      "height": 1920,
+      "alpha": false
+    },
+    {
+      "path": "production/03-social/di-story.svg",
+      "role": "social-artwork",
+      "bytes": 31921,
+      "sha256": "0dddb138c3b3f0ea54051c9bc7ba670666988d7faff914de5fb2b0994e70c10a",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "path": "production/05-proofs/identity-overview.png",
+      "role": "identity-overview",
+      "bytes": 117245,
+      "sha256": "0d26e1cfe98c96d3748496eeab470f6ade93010cab8ccb42960e496ddf346c67",
+      "width": 1800,
+      "height": 1200,
+      "alpha": false
+    },
+    {
+      "path": "production/05-proofs/identity-overview.svg",
+      "role": "identity-overview",
+      "bytes": 126958,
+      "sha256": "f1c97cdd95a9e9ad9c01e3ff5932f4af2e4122343e2ee757385a6830e9dc618a",
+      "width": 1800,
+      "height": 1200
+    },
+    {
+      "path": "releases/README.md",
+      "role": "documentation",
+      "bytes": 3810,
+      "sha256": "051c7ff5372165235e1c2957974e60cf9c1748152d7791030119ca54a0bbff98"
+    },
+    {
+      "path": "requirements.txt",
+      "role": "dependency-definition",
+      "bytes": 78,
+      "sha256": "b931972f3431b07a17da9f132f22469ebdf07f1c356c08fe610fbb18af9d1e6c"
+    },
+    {
+      "path": "site/README.md",
+      "role": "public-page-source",
+      "bytes": 4471,
+      "sha256": "353a0d04877e4450819d911b5c50960097cf418484fa4af2f3136a5d216107a7"
+    },
+    {
+      "path": "site/brand.css",
+      "role": "public-page-source",
+      "bytes": 18600,
+      "sha256": "0f5680e5f4470de199fc35f7bba807b6c992632db051debaf9a3a55dbeede1fe"
+    },
+    {
+      "path": "site/brand.js",
+      "role": "public-page-source",
+      "bytes": 2165,
+      "sha256": "a8a9f8c7570a884c29a9a1eda41d90421851048936514fac7cb4bf86836c16d6"
+    },
+    {
+      "path": "site/index.html",
+      "role": "public-page-source",
+      "bytes": 20027,
+      "sha256": "d657b243758079a0722ec102c8c7e3c234944c7358a05b9972016d2ee0a4f9e4"
+    },
+    {
+      "path": "templates/applications/README.md",
+      "role": "editable-template",
+      "bytes": 7731,
+      "sha256": "0e36bf6dde3cd6dbddac5af8d75a598e47a8f06d4659be9813084ead24260002"
+    },
+    {
+      "path": "templates/applications/application.css",
+      "role": "editable-template",
+      "bytes": 15911,
+      "sha256": "bd1cfbeab9fd746c76809dc06d49e02f78623d05193e3b14339fa96cc3ee3a47"
+    },
+    {
+      "path": "templates/applications/business-card.html",
+      "role": "editable-template",
+      "bytes": 1748,
+      "sha256": "10d10f0ff6ba9a6ef5bf5f8f401418e0e13859f186d511cc27876d45e97a57c9"
+    },
+    {
+      "path": "templates/applications/decision-brief.html",
+      "role": "editable-template",
+      "bytes": 3895,
+      "sha256": "9f059cd014fe5f969c6d9e6bf8d4cd5a02a94ccd92349a88867bce876a26213e"
+    },
+    {
+      "path": "templates/applications/email-signature.html",
+      "role": "editable-template",
+      "bytes": 3358,
+      "sha256": "e40ee506efd489bee5f839ffddd2192b5df725404406294c3cd4b5ec6554f340"
+    },
+    {
+      "path": "templates/applications/index.html",
+      "role": "editable-template",
+      "bytes": 2626,
+      "sha256": "6ff3598314183cd23a1fa6d378cc59c0843f77c05ac2d0a994259251d167b7ee"
+    },
+    {
+      "path": "templates/applications/letterhead.html",
+      "role": "editable-template",
+      "bytes": 2273,
+      "sha256": "7718ae4cd66eed63b8b32fe5db3e0810e50ead424a3180701245fd9885c29cb2"
+    },
+    {
+      "path": "templates/applications/presentation.html",
+      "role": "editable-template",
+      "bytes": 3931,
+      "sha256": "858f94e47d6bfb750879e160d8e381687a93a8b9247fda8bdd8cbdea6ea8a415"
+    },
+    {
+      "path": "templates/applications/product-moments.html",
+      "role": "editable-template",
+      "bytes": 5331,
+      "sha256": "c4e85c523da86aeb493ecab9c71e605c2b6d077ee139b69fd1596dc43a2dc132"
+    },
+    {
+      "path": "templates/applications/social-layouts.html",
+      "role": "editable-template",
+      "bytes": 3852,
+      "sha256": "c6db00d9f2795107eefe8aedf60844499abeaf43666a8665197b08907182493d"
+    },
+    {
+      "path": "templates/briefs/campaign.md",
+      "role": "editable-template",
+      "bytes": 834,
+      "sha256": "cf44e66213ef73d45be8c7d5b3f866b4d2606829df4766840465533c1c756049"
+    },
+    {
+      "path": "templates/briefs/identity-application.md",
+      "role": "editable-template",
+      "bytes": 1006,
+      "sha256": "825a24d835c0d18647e26e6c57be8720fc60406d82beca1bacb004e1d6828003"
+    },
+    {
+      "path": "templates/briefs/release.md",
+      "role": "editable-template",
+      "bytes": 948,
+      "sha256": "c04d5c6294716c2891dfea7d7b09a7a1c1697ae0fd523959a208fbecf4637e55"
+    },
+    {
+      "path": "tests/brand-page.test.cjs",
+      "role": "quality-test",
+      "bytes": 1472,
+      "sha256": "9b5aff6a08df10545d2cc75d956b1a6ab75a30cd05ddfeac035c1950a1dda883"
+    },
+    {
+      "path": "tests/test_package.py",
+      "role": "quality-test",
+      "bytes": 4245,
+      "sha256": "5d4f39cf2d9c71894dca90c5d95920c42e1e1b03ea6029626da0c87d9869fd13"
+    },
+    {
+      "path": "tests/test_release_tools.py",
+      "role": "quality-test",
+      "bytes": 6080,
+      "sha256": "9d93e7bdc172e60c30f13930cb15da8c8b611f79668d61dd8a485eed54403efc"
+    },
+    {
+      "path": "tools/build.py",
+      "role": "build-tool",
+      "bytes": 10346,
+      "sha256": "85a0d94596a4ee9dc6f10973487c4f51847181782b7ea4d3d7485c2c78b0bda3"
+    },
+    {
+      "path": "tools/build_manual.py",
+      "role": "build-tool",
+      "bytes": 21753,
+      "sha256": "bf8f3cb99e45eb3f69960835a245b546233d9a7c87cbd44072eff72f9c49b151"
+    },
+    {
+      "path": "tools/package_release.py",
+      "role": "build-tool",
+      "bytes": 11085,
+      "sha256": "4cae1679f8db1b439236bba00be0d1e78a5c086430dfdcc8218e2d7338031413"
+    },
+    {
+      "path": "tools/proof_site.cjs",
+      "role": "build-tool",
+      "bytes": 2186,
+      "sha256": "becb6835bf594132630b1203916db887bc47d00923973aa2ef440188747252ca"
+    },
+    {
+      "path": "tools/sync_site.py",
+      "role": "build-tool",
+      "bytes": 1712,
+      "sha256": "172bf09d75849cd76d23f811899b8a3146c14b0bc05fb5143ac544a24cdedb7e"
+    },
+    {
+      "path": "tools/validate.py",
+      "role": "build-tool",
+      "bytes": 16114,
+      "sha256": "d3fe59545023751cd807c32fea23f7da21fed4b8bf63c753bd18da2ab299cf44"
+    }
+  ],
+  "kits": {
+    "brand": {
+      "path": "releases/decisioninvitation-brand-0.2.0.zip",
+      "files": [
+        ".gitignore",
+        "AGENTS.md",
+        "ASSET-LICENSE.md",
+        "BRAND-GUIDELINES.md",
+        "CHANGELOG.md",
+        "CONTRIBUTING.md",
+        "README.md",
+        "assets/fonts/IBMPlexMono-Regular.ttf",
+        "assets/fonts/IBMPlexMono-Regular.woff2",
+        "assets/fonts/LICENSE-IBM-Plex.txt",
+        "assets/fonts/LICENSE-Source-Sans-3.md",
+        "assets/fonts/README.md",
+        "assets/fonts/SourceSans3-Regular.ttf",
+        "assets/fonts/SourceSans3-Regular.woff2",
+        "assets/fonts/SourceSans3-Semibold.ttf",
+        "assets/fonts/SourceSans3-Semibold.woff2",
+        "assets/fonts/SourceSans3.ttf",
+        "assets/fonts/provenance.json",
+        "assets/logo/decisioninvitation-di-mark.svg",
+        "assets/logo/decisioninvitation-wordmark.svg",
+        "assets/source/identity.json",
+        "assets/tokens/decisioninvitation.tokens.css",
+        "assets/tokens/decisioninvitation.tokens.json",
+        "brand-system.json",
+        "docs/AI-HANDOFF.md",
+        "docs/README.md",
+        "docs/adoption-register-template.md",
+        "docs/art-direction.md",
+        "docs/brand-architecture.md",
+        "docs/brand-guidelines.md",
+        "docs/brand-strategy.md",
+        "docs/claims-and-privacy.md",
+        "docs/color-and-accessibility.md",
+        "docs/decisions/0001-independent-catalyst-identity.md",
+        "docs/email-and-documents.md",
+        "docs/governance-and-release.md",
+        "docs/logo-standards.md",
+        "docs/messaging-and-voice.md",
+        "docs/motion-and-interaction.md",
+        "docs/social-media-guidelines.md",
+        "docs/typography.md",
+        "docs/website-guidelines.md",
+        "output/pdf/decisioninvitation-identity-manual.pdf",
+        "package-lock.json",
+        "package.json",
+        "production/01-logo/pdf/di-lockup-ink.pdf",
+        "production/01-logo/pdf/di-lockup-primary.pdf",
+        "production/01-logo/pdf/di-lockup-reverse.pdf",
+        "production/01-logo/pdf/di-lockup-white.pdf",
+        "production/01-logo/pdf/di-mark-ink.pdf",
+        "production/01-logo/pdf/di-mark-primary.pdf",
+        "production/01-logo/pdf/di-mark-reverse.pdf",
+        "production/01-logo/pdf/di-mark-white.pdf",
+        "production/01-logo/pdf/di-micro-ink.pdf",
+        "production/01-logo/pdf/di-micro-primary.pdf",
+        "production/01-logo/pdf/di-micro-reverse.pdf",
+        "production/01-logo/pdf/di-micro-white.pdf",
+        "production/01-logo/pdf/di-stacked-ink.pdf",
+        "production/01-logo/pdf/di-stacked-primary.pdf",
+        "production/01-logo/pdf/di-stacked-reverse.pdf",
+        "production/01-logo/pdf/di-stacked-white.pdf",
+        "production/01-logo/pdf/di-wordmark-ink.pdf",
+        "production/01-logo/pdf/di-wordmark-primary.pdf",
+        "production/01-logo/pdf/di-wordmark-reverse.pdf",
+        "production/01-logo/pdf/di-wordmark-white.pdf",
+        "production/01-logo/png/di-lockup-ink-1200.png",
+        "production/01-logo/png/di-lockup-ink-2400.png",
+        "production/01-logo/png/di-lockup-primary-1200.png",
+        "production/01-logo/png/di-lockup-primary-2400.png",
+        "production/01-logo/png/di-lockup-reverse-1200.png",
+        "production/01-logo/png/di-lockup-reverse-2400.png",
+        "production/01-logo/png/di-lockup-white-1200.png",
+        "production/01-logo/png/di-lockup-white-2400.png",
+        "production/01-logo/png/di-mark-ink-1024.png",
+        "production/01-logo/png/di-mark-ink-256.png",
+        "production/01-logo/png/di-mark-primary-1024.png",
+        "production/01-logo/png/di-mark-primary-256.png",
+        "production/01-logo/png/di-mark-reverse-1024.png",
+        "production/01-logo/png/di-mark-reverse-256.png",
+        "production/01-logo/png/di-mark-white-1024.png",
+        "production/01-logo/png/di-mark-white-256.png",
+        "production/01-logo/png/di-micro-ink-1024.png",
+        "production/01-logo/png/di-micro-ink-256.png",
+        "production/01-logo/png/di-micro-primary-1024.png",
+        "production/01-logo/png/di-micro-primary-256.png",
+        "production/01-logo/png/di-micro-reverse-1024.png",
+        "production/01-logo/png/di-micro-reverse-256.png",
+        "production/01-logo/png/di-micro-white-1024.png",
+        "production/01-logo/png/di-micro-white-256.png",
+        "production/01-logo/png/di-stacked-ink-1200.png",
+        "production/01-logo/png/di-stacked-ink-2400.png",
+        "production/01-logo/png/di-stacked-primary-1200.png",
+        "production/01-logo/png/di-stacked-primary-2400.png",
+        "production/01-logo/png/di-stacked-reverse-1200.png",
+        "production/01-logo/png/di-stacked-reverse-2400.png",
+        "production/01-logo/png/di-stacked-white-1200.png",
+        "production/01-logo/png/di-stacked-white-2400.png",
+        "production/01-logo/png/di-wordmark-ink-1200.png",
+        "production/01-logo/png/di-wordmark-ink-2400.png",
+        "production/01-logo/png/di-wordmark-primary-1200.png",
+        "production/01-logo/png/di-wordmark-primary-2400.png",
+        "production/01-logo/png/di-wordmark-reverse-1200.png",
+        "production/01-logo/png/di-wordmark-reverse-2400.png",
+        "production/01-logo/png/di-wordmark-white-1200.png",
+        "production/01-logo/png/di-wordmark-white-2400.png",
+        "production/01-logo/svg/di-lockup-ink.svg",
+        "production/01-logo/svg/di-lockup-primary.svg",
+        "production/01-logo/svg/di-lockup-reverse.svg",
+        "production/01-logo/svg/di-lockup-white.svg",
+        "production/01-logo/svg/di-mark-ink.svg",
+        "production/01-logo/svg/di-mark-primary.svg",
+        "production/01-logo/svg/di-mark-reverse.svg",
+        "production/01-logo/svg/di-mark-white.svg",
+        "production/01-logo/svg/di-micro-ink.svg",
+        "production/01-logo/svg/di-micro-primary.svg",
+        "production/01-logo/svg/di-micro-reverse.svg",
+        "production/01-logo/svg/di-micro-white.svg",
+        "production/01-logo/svg/di-stacked-ink.svg",
+        "production/01-logo/svg/di-stacked-primary.svg",
+        "production/01-logo/svg/di-stacked-reverse.svg",
+        "production/01-logo/svg/di-stacked-white.svg",
+        "production/01-logo/svg/di-wordmark-ink.svg",
+        "production/01-logo/svg/di-wordmark-primary.svg",
+        "production/01-logo/svg/di-wordmark-reverse.svg",
+        "production/01-logo/svg/di-wordmark-white.svg",
+        "production/02-digital/di-icon-1024.png",
+        "production/02-digital/di-icon-1024.svg",
+        "production/02-digital/di-icon-16.png",
+        "production/02-digital/di-icon-16.svg",
+        "production/02-digital/di-icon-180.png",
+        "production/02-digital/di-icon-180.svg",
+        "production/02-digital/di-icon-192.png",
+        "production/02-digital/di-icon-192.svg",
+        "production/02-digital/di-icon-32.png",
+        "production/02-digital/di-icon-32.svg",
+        "production/02-digital/di-icon-48.png",
+        "production/02-digital/di-icon-48.svg",
+        "production/02-digital/di-icon-512.png",
+        "production/02-digital/di-icon-512.svg",
+        "production/02-digital/favicon.ico",
+        "production/03-social/di-avatar-dark-1200.png",
+        "production/03-social/di-avatar-dark.svg",
+        "production/03-social/di-avatar-light-1200.png",
+        "production/03-social/di-avatar-light.svg",
+        "production/03-social/di-header.png",
+        "production/03-social/di-header.svg",
+        "production/03-social/di-portrait.png",
+        "production/03-social/di-portrait.svg",
+        "production/03-social/di-presentation.png",
+        "production/03-social/di-presentation.svg",
+        "production/03-social/di-share-card.png",
+        "production/03-social/di-share-card.svg",
+        "production/03-social/di-square.png",
+        "production/03-social/di-square.svg",
+        "production/03-social/di-story.png",
+        "production/03-social/di-story.svg",
+        "production/05-proofs/identity-overview.png",
+        "production/05-proofs/identity-overview.svg",
+        "releases/README.md",
+        "requirements.txt",
+        "site/README.md",
+        "site/brand.css",
+        "site/brand.js",
+        "site/index.html",
+        "templates/applications/README.md",
+        "templates/applications/application.css",
+        "templates/applications/business-card.html",
+        "templates/applications/decision-brief.html",
+        "templates/applications/email-signature.html",
+        "templates/applications/index.html",
+        "templates/applications/letterhead.html",
+        "templates/applications/presentation.html",
+        "templates/applications/product-moments.html",
+        "templates/applications/social-layouts.html",
+        "templates/briefs/campaign.md",
+        "templates/briefs/identity-application.md",
+        "templates/briefs/release.md",
+        "tests/brand-page.test.cjs",
+        "tests/test_package.py",
+        "tests/test_release_tools.py",
+        "tools/build.py",
+        "tools/build_manual.py",
+        "tools/package_release.py",
+        "tools/proof_site.cjs",
+        "tools/sync_site.py",
+        "tools/validate.py"
+      ]
+    },
+    "logos": {
+      "path": "releases/decisioninvitation-logos-0.2.0.zip",
+      "files": [
+        "ASSET-LICENSE.md",
+        "brand-system.json",
+        "docs/color-and-accessibility.md",
+        "docs/logo-standards.md",
+        "production/01-logo/pdf/di-lockup-ink.pdf",
+        "production/01-logo/pdf/di-lockup-primary.pdf",
+        "production/01-logo/pdf/di-lockup-reverse.pdf",
+        "production/01-logo/pdf/di-lockup-white.pdf",
+        "production/01-logo/pdf/di-mark-ink.pdf",
+        "production/01-logo/pdf/di-mark-primary.pdf",
+        "production/01-logo/pdf/di-mark-reverse.pdf",
+        "production/01-logo/pdf/di-mark-white.pdf",
+        "production/01-logo/pdf/di-micro-ink.pdf",
+        "production/01-logo/pdf/di-micro-primary.pdf",
+        "production/01-logo/pdf/di-micro-reverse.pdf",
+        "production/01-logo/pdf/di-micro-white.pdf",
+        "production/01-logo/pdf/di-stacked-ink.pdf",
+        "production/01-logo/pdf/di-stacked-primary.pdf",
+        "production/01-logo/pdf/di-stacked-reverse.pdf",
+        "production/01-logo/pdf/di-stacked-white.pdf",
+        "production/01-logo/pdf/di-wordmark-ink.pdf",
+        "production/01-logo/pdf/di-wordmark-primary.pdf",
+        "production/01-logo/pdf/di-wordmark-reverse.pdf",
+        "production/01-logo/pdf/di-wordmark-white.pdf",
+        "production/01-logo/png/di-lockup-ink-1200.png",
+        "production/01-logo/png/di-lockup-ink-2400.png",
+        "production/01-logo/png/di-lockup-primary-1200.png",
+        "production/01-logo/png/di-lockup-primary-2400.png",
+        "production/01-logo/png/di-lockup-reverse-1200.png",
+        "production/01-logo/png/di-lockup-reverse-2400.png",
+        "production/01-logo/png/di-lockup-white-1200.png",
+        "production/01-logo/png/di-lockup-white-2400.png",
+        "production/01-logo/png/di-mark-ink-1024.png",
+        "production/01-logo/png/di-mark-ink-256.png",
+        "production/01-logo/png/di-mark-primary-1024.png",
+        "production/01-logo/png/di-mark-primary-256.png",
+        "production/01-logo/png/di-mark-reverse-1024.png",
+        "production/01-logo/png/di-mark-reverse-256.png",
+        "production/01-logo/png/di-mark-white-1024.png",
+        "production/01-logo/png/di-mark-white-256.png",
+        "production/01-logo/png/di-micro-ink-1024.png",
+        "production/01-logo/png/di-micro-ink-256.png",
+        "production/01-logo/png/di-micro-primary-1024.png",
+        "production/01-logo/png/di-micro-primary-256.png",
+        "production/01-logo/png/di-micro-reverse-1024.png",
+        "production/01-logo/png/di-micro-reverse-256.png",
+        "production/01-logo/png/di-micro-white-1024.png",
+        "production/01-logo/png/di-micro-white-256.png",
+        "production/01-logo/png/di-stacked-ink-1200.png",
+        "production/01-logo/png/di-stacked-ink-2400.png",
+        "production/01-logo/png/di-stacked-primary-1200.png",
+        "production/01-logo/png/di-stacked-primary-2400.png",
+        "production/01-logo/png/di-stacked-reverse-1200.png",
+        "production/01-logo/png/di-stacked-reverse-2400.png",
+        "production/01-logo/png/di-stacked-white-1200.png",
+        "production/01-logo/png/di-stacked-white-2400.png",
+        "production/01-logo/png/di-wordmark-ink-1200.png",
+        "production/01-logo/png/di-wordmark-ink-2400.png",
+        "production/01-logo/png/di-wordmark-primary-1200.png",
+        "production/01-logo/png/di-wordmark-primary-2400.png",
+        "production/01-logo/png/di-wordmark-reverse-1200.png",
+        "production/01-logo/png/di-wordmark-reverse-2400.png",
+        "production/01-logo/png/di-wordmark-white-1200.png",
+        "production/01-logo/png/di-wordmark-white-2400.png",
+        "production/01-logo/svg/di-lockup-ink.svg",
+        "production/01-logo/svg/di-lockup-primary.svg",
+        "production/01-logo/svg/di-lockup-reverse.svg",
+        "production/01-logo/svg/di-lockup-white.svg",
+        "production/01-logo/svg/di-mark-ink.svg",
+        "production/01-logo/svg/di-mark-primary.svg",
+        "production/01-logo/svg/di-mark-reverse.svg",
+        "production/01-logo/svg/di-mark-white.svg",
+        "production/01-logo/svg/di-micro-ink.svg",
+        "production/01-logo/svg/di-micro-primary.svg",
+        "production/01-logo/svg/di-micro-reverse.svg",
+        "production/01-logo/svg/di-micro-white.svg",
+        "production/01-logo/svg/di-stacked-ink.svg",
+        "production/01-logo/svg/di-stacked-primary.svg",
+        "production/01-logo/svg/di-stacked-reverse.svg",
+        "production/01-logo/svg/di-stacked-white.svg",
+        "production/01-logo/svg/di-wordmark-ink.svg",
+        "production/01-logo/svg/di-wordmark-primary.svg",
+        "production/01-logo/svg/di-wordmark-reverse.svg",
+        "production/01-logo/svg/di-wordmark-white.svg",
+        "releases/README.md"
+      ]
+    },
+    "templates": {
+      "path": "releases/decisioninvitation-templates-0.2.0.zip",
+      "files": [
+        "ASSET-LICENSE.md",
+        "assets/fonts/IBMPlexMono-Regular.ttf",
+        "assets/fonts/IBMPlexMono-Regular.woff2",
+        "assets/fonts/LICENSE-IBM-Plex.txt",
+        "assets/fonts/LICENSE-Source-Sans-3.md",
+        "assets/fonts/README.md",
+        "assets/fonts/SourceSans3-Regular.ttf",
+        "assets/fonts/SourceSans3-Regular.woff2",
+        "assets/fonts/SourceSans3-Semibold.ttf",
+        "assets/fonts/SourceSans3-Semibold.woff2",
+        "assets/fonts/SourceSans3.ttf",
+        "assets/fonts/provenance.json",
+        "assets/tokens/decisioninvitation.tokens.css",
+        "assets/tokens/decisioninvitation.tokens.json",
+        "brand-system.json",
+        "docs/claims-and-privacy.md",
+        "docs/email-and-documents.md",
+        "docs/logo-standards.md",
+        "docs/messaging-and-voice.md",
+        "docs/social-media-guidelines.md",
+        "docs/typography.md",
+        "production/01-logo/pdf/di-lockup-ink.pdf",
+        "production/01-logo/pdf/di-lockup-primary.pdf",
+        "production/01-logo/pdf/di-lockup-reverse.pdf",
+        "production/01-logo/pdf/di-lockup-white.pdf",
+        "production/01-logo/pdf/di-mark-ink.pdf",
+        "production/01-logo/pdf/di-mark-primary.pdf",
+        "production/01-logo/pdf/di-mark-reverse.pdf",
+        "production/01-logo/pdf/di-mark-white.pdf",
+        "production/01-logo/pdf/di-micro-ink.pdf",
+        "production/01-logo/pdf/di-micro-primary.pdf",
+        "production/01-logo/pdf/di-micro-reverse.pdf",
+        "production/01-logo/pdf/di-micro-white.pdf",
+        "production/01-logo/pdf/di-stacked-ink.pdf",
+        "production/01-logo/pdf/di-stacked-primary.pdf",
+        "production/01-logo/pdf/di-stacked-reverse.pdf",
+        "production/01-logo/pdf/di-stacked-white.pdf",
+        "production/01-logo/pdf/di-wordmark-ink.pdf",
+        "production/01-logo/pdf/di-wordmark-primary.pdf",
+        "production/01-logo/pdf/di-wordmark-reverse.pdf",
+        "production/01-logo/pdf/di-wordmark-white.pdf",
+        "production/01-logo/png/di-lockup-ink-1200.png",
+        "production/01-logo/png/di-lockup-ink-2400.png",
+        "production/01-logo/png/di-lockup-primary-1200.png",
+        "production/01-logo/png/di-lockup-primary-2400.png",
+        "production/01-logo/png/di-lockup-reverse-1200.png",
+        "production/01-logo/png/di-lockup-reverse-2400.png",
+        "production/01-logo/png/di-lockup-white-1200.png",
+        "production/01-logo/png/di-lockup-white-2400.png",
+        "production/01-logo/png/di-mark-ink-1024.png",
+        "production/01-logo/png/di-mark-ink-256.png",
+        "production/01-logo/png/di-mark-primary-1024.png",
+        "production/01-logo/png/di-mark-primary-256.png",
+        "production/01-logo/png/di-mark-reverse-1024.png",
+        "production/01-logo/png/di-mark-reverse-256.png",
+        "production/01-logo/png/di-mark-white-1024.png",
+        "production/01-logo/png/di-mark-white-256.png",
+        "production/01-logo/png/di-micro-ink-1024.png",
+        "production/01-logo/png/di-micro-ink-256.png",
+        "production/01-logo/png/di-micro-primary-1024.png",
+        "production/01-logo/png/di-micro-primary-256.png",
+        "production/01-logo/png/di-micro-reverse-1024.png",
+        "production/01-logo/png/di-micro-reverse-256.png",
+        "production/01-logo/png/di-micro-white-1024.png",
+        "production/01-logo/png/di-micro-white-256.png",
+        "production/01-logo/png/di-stacked-ink-1200.png",
+        "production/01-logo/png/di-stacked-ink-2400.png",
+        "production/01-logo/png/di-stacked-primary-1200.png",
+        "production/01-logo/png/di-stacked-primary-2400.png",
+        "production/01-logo/png/di-stacked-reverse-1200.png",
+        "production/01-logo/png/di-stacked-reverse-2400.png",
+        "production/01-logo/png/di-stacked-white-1200.png",
+        "production/01-logo/png/di-stacked-white-2400.png",
+        "production/01-logo/png/di-wordmark-ink-1200.png",
+        "production/01-logo/png/di-wordmark-ink-2400.png",
+        "production/01-logo/png/di-wordmark-primary-1200.png",
+        "production/01-logo/png/di-wordmark-primary-2400.png",
+        "production/01-logo/png/di-wordmark-reverse-1200.png",
+        "production/01-logo/png/di-wordmark-reverse-2400.png",
+        "production/01-logo/png/di-wordmark-white-1200.png",
+        "production/01-logo/png/di-wordmark-white-2400.png",
+        "production/01-logo/svg/di-lockup-ink.svg",
+        "production/01-logo/svg/di-lockup-primary.svg",
+        "production/01-logo/svg/di-lockup-reverse.svg",
+        "production/01-logo/svg/di-lockup-white.svg",
+        "production/01-logo/svg/di-mark-ink.svg",
+        "production/01-logo/svg/di-mark-primary.svg",
+        "production/01-logo/svg/di-mark-reverse.svg",
+        "production/01-logo/svg/di-mark-white.svg",
+        "production/01-logo/svg/di-micro-ink.svg",
+        "production/01-logo/svg/di-micro-primary.svg",
+        "production/01-logo/svg/di-micro-reverse.svg",
+        "production/01-logo/svg/di-micro-white.svg",
+        "production/01-logo/svg/di-stacked-ink.svg",
+        "production/01-logo/svg/di-stacked-primary.svg",
+        "production/01-logo/svg/di-stacked-reverse.svg",
+        "production/01-logo/svg/di-stacked-white.svg",
+        "production/01-logo/svg/di-wordmark-ink.svg",
+        "production/01-logo/svg/di-wordmark-primary.svg",
+        "production/01-logo/svg/di-wordmark-reverse.svg",
+        "production/01-logo/svg/di-wordmark-white.svg",
+        "releases/README.md",
+        "templates/applications/README.md",
+        "templates/applications/application.css",
+        "templates/applications/business-card.html",
+        "templates/applications/decision-brief.html",
+        "templates/applications/email-signature.html",
+        "templates/applications/index.html",
+        "templates/applications/letterhead.html",
+        "templates/applications/presentation.html",
+        "templates/applications/product-moments.html",
+        "templates/applications/social-layouts.html",
+        "templates/briefs/campaign.md",
+        "templates/briefs/identity-application.md",
+        "templates/briefs/release.md"
+      ]
+    },
+    "webfonts": {
+      "path": "releases/decisioninvitation-webfonts-0.2.0.zip",
+      "files": [
+        "ASSET-LICENSE.md",
+        "assets/fonts/IBMPlexMono-Regular.ttf",
+        "assets/fonts/IBMPlexMono-Regular.woff2",
+        "assets/fonts/LICENSE-IBM-Plex.txt",
+        "assets/fonts/LICENSE-Source-Sans-3.md",
+        "assets/fonts/README.md",
+        "assets/fonts/SourceSans3-Regular.ttf",
+        "assets/fonts/SourceSans3-Regular.woff2",
+        "assets/fonts/SourceSans3-Semibold.ttf",
+        "assets/fonts/SourceSans3-Semibold.woff2",
+        "assets/fonts/SourceSans3.ttf",
+        "assets/fonts/provenance.json",
+        "brand-system.json",
+        "docs/typography.md",
+        "releases/README.md"
+      ]
+    }
+  }
+}

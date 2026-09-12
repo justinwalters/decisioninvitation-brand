@@ -1,79 +1,42 @@
-# DecisionInvitation identity system
+# DecisionInvitation identity — quick reference
 
-## Identity premise
+**0.2.0 · visual proposal, pending owner review.** This is the entry point, not a competing set of standards. Use the [detailed standards index](docs/README.md) and [identity manual](output/pdf/decisioninvitation-identity-manual.pdf) for complete application rules.
 
-DecisionInvitation protects independent thinking before a consequential decision is made. Its central promise is: **Private perspective. Accountable action.**
+## The idea and the voice
 
-The product is a private, time-bound response space—not a group chat, public poll, or consensus engine. A participant can contribute without being anchored by the room. The responsible person remains visible at the moment of decision.
+**Catalyst of analysis.** Analysis should move a decision forward without rushing judgment. The supporting promise is **Ask separately. Decide clearly.** The product's warmer language remains important: “Better input. Clearer decisions.” and “Invite the perspectives. Keep the responsibility.”
 
-## Position and voice
+Be considered, direct, and inviting. Ask for a perspective without manufacturing urgency. State privacy and visibility precisely; private is not the same as anonymous. Perspectives inform the decision owner. Never suggest the software removes responsibility or guarantees the right answer. See [strategy](docs/brand-strategy.md), [voice](docs/messaging-and-voice.md), and [claims](docs/claims-and-privacy.md).
 
-The personality is **discreet, prepared, and accountable**.
+## Independent identity, quiet relationship
 
-- Name the decision, the useful context, and the next accountable step.
-- Prefer concrete nouns, active verbs, and calm, complete sentences.
-- Make uncertainty legible. Do not manufacture consensus or confidence.
-- Never use urgency, surveillance, social pressure, or the language of “winning.”
-- Do not call the product an AI agent, a voting system, or a guarantee of better outcomes.
+DecisionInvitation has its own visual rhythm and product voice within the aSUKIra family. Source Sans 3, deep Ink, warm Paper, and an open Di signature establish recognition. A small Suki Orange point is a subtle family cue, not a parent-brand takeover. Do not add Suki's icon, display treatment, or brushmark. The acquired-and-lightly-rebranded feeling is creative inspiration, not a factual acquisition announcement. See [brand architecture](docs/brand-architecture.md).
 
-Useful language includes “invite the perspectives,” “independent response,” “decision owner,” “private input,” and “keep the responsibility.”
+## Visual essentials
 
-## Mark
+| Element | Working rule |
+| --- | --- |
+| Logo | Use supplied [production masters](production/01-logo/svg/), never typed “Di” or a screenshot trace. Five forms and four color modes are supplied. |
+| Clear space | At least one dot diameter around visible artwork: 36 units in the 256-unit master. |
+| Small sizes | Use the simplified micro mark at 16–32 px; inspect at actual size. The full symbol minimum is 24 px. Use the full lockup at a comfortable readable size, with 180 px as a working minimum. |
+| Main type | Source Sans 3: Regular 400 for editorial statements and reading; Semibold 600 for structure. |
+| Utility type | IBM Plex Mono Regular 400, sparingly for identifiers, dates, and short labels. |
+| Composition | Generous space, purposeful asymmetry, clear hierarchy, one restrained orange cue. No generic decorative gradients or repeated accent dots. |
+| Interaction | Ink actions with Paper text, visible focus, 48 px control targets in the supplied tokens, reduced-motion support, plain-language states. |
 
-The working mark is a deep-ink **D** framing a separate lowercase **i**. The gap is the protected interval where a person can form a point of view. The warm point above the i signifies an intentional invitation.
-
-Use the full wordmark as the primary identifier. Use the DI mark only in compact contexts where DecisionInvitation is already named, such as a favicon, product header, or social avatar.
-
-### Do
-
-- Keep a clear space equal to the orange point’s diameter around the mark.
-- Use Invitation Ink on Response Paper, or Response Paper on Invitation Ink.
-- Use the orange point once in a composition, as a precise lineage accent.
-- Preserve the open D, the separate i, and the horizontal baseline as one mark.
-
-### Do not
-
-- Use the aSUKIra or Suki wordmark, brush gesture, or orange-dot name treatment as a substitute.
-- Animate the point as a notification, pulse, or urgency cue.
-- Recolor the point to create product states.
-- Treat “DI” as a standalone company name or stretch, redraw, crop, or add effects to the asset.
-
-## Color
-
-| Token | Value | Use |
+| Color | HEX | Role |
 | --- | --- | --- |
-| Invitation Ink | `#042747` | Primary authority field and type |
-| Response Paper | `#FFFCF7` | Primary canvas and reversed type |
-| Context Parchment | `#F8F2E8` | Quiet explanation field |
-| Decision Plum | `#563B4D` | Editorial counterpoint |
-| Invitation Point | `#D54B1E` | Single precise point; never a general fill |
-| Evidence Slate | `#50636B` | Supporting copy and metadata |
-| Quiet Rule | `#E8DDD0` | Boundaries and separators |
+| Deep Ink | `#182B33` | Main type, dark ground, primary actions |
+| Paper | `#F5F4EF` | Main ground and reversed type |
+| Mist | `#E4ECEA` | Supporting surface |
+| Field | `#52766D` | Supporting tone and secondary text on Paper |
+| Suki Orange | `#D54B1E` | Signature point and non-text accent |
+| White | `#FFFFFF` | One-color white artwork and necessary neutral surfaces |
 
-The palette shares disciplined material values with the parent group but is expressed through DecisionInvitation’s own geometry and voice. The orange is deliberately scarce.
+Ink/Paper is 13.31:1; Field/Paper is 4.57:1. Orange/Paper is 3.93:1 and is not suitable for normal small text. Validate the actual foreground, background, size, weight, and state; palette membership alone never guarantees accessibility. Full rules: [logo](docs/logo-standards.md), [color and accessibility](docs/color-and-accessibility.md), [typography](docs/typography.md), [art direction](docs/art-direction.md), [motion](docs/motion-and-interaction.md).
 
-## Typography
+## Apply, review, release
 
-- **Display:** Lexend, then a modern sans-serif fallback. Use for decisive statements only.
-- **Body:** Source Sans 3, then a readable sans-serif fallback. Use for reading and interface explanation.
-- **Metadata:** IBM Plex Mono, then a monospace fallback. Use for dates, roles, states, and labels.
+Start from the [editable applications](templates/applications/index.html) or the [creative briefs](templates/briefs/). Replace placeholders and keep fictional examples distinct from production. Email requires client rendering checks; social crops require channel review; printed work requires printer-specific color conversion, bleed, stock, and proof approval. The supplied RGB vector PDFs are not certified PDF/X or press-ready files.
 
-Use low-radius or square surfaces, rules instead of shadows, and generous whitespace. Never use glass effects, gradients, floating card piles, generic “AI” imagery, or decorative dashboards.
-
-## Public identity page
-
-The public guide lives at `/brand`. It must remain readable without JavaScript, keyboard navigable, responsive at 200% zoom, and respectful of `prefers-reduced-motion`.
-
-The page should contain the identity premise, mark anatomy, voice, palette, typography, relationship disclosure, asset source, and working-clearance notice. It is a public guide, not a trademark licence.
-
-## Relationship disclosure
-
-Use this sentence when a corporate relationship is needed:
-
-> DecisionInvitation operates as its own product and identity. It sits within the aSUKIra group, sharing a standard for calm, evidence-aware work—not its visual shorthand.
-
-Keep the relationship in a footer, company note, or about page. Do not make it a product lockup or a “powered by” badge.
-
-## Legal status
-
-The DecisionInvitation name and DI mark are working creative directions only. Formal clearance, ownership, relevant jurisdictions, goods and services, common-law use, domains, app stores, and design-mark analysis require qualified trademark counsel before launch or recommendation.
+Use [ASSET-LICENSE.md](ASSET-LICENSE.md) for rights and preserve the original font licenses. No legal clearance, business claims, or approval is implied by a public file. Follow [governance and release](docs/governance-and-release.md) before distribution or downstream adoption. The [repository README](README.md) has build, validation, inventory, and integration instructions.

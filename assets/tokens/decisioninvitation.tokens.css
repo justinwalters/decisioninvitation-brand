@@ -1,13 +1,25 @@
+/* Generated from assets/source/identity.json. Do not hand-edit. */
 :root {
-  --di-ink: #042747;
-  --di-paper: #fffcf7;
-  --di-parchment: #f8f2e8;
-  --di-plum: #563b4d;
-  --di-point: #d54b1e;
-  --di-slate: #50636b;
-  --di-rule: #e8ddd0;
-  --di-display: Lexend, Avenir Next, Helvetica Neue, Arial, sans-serif;
-  --di-body: "Source Sans 3", Avenir Next, Helvetica Neue, Arial, sans-serif;
-  --di-mono: "IBM Plex Mono", SFMono-Regular, Consolas, monospace;
-  --di-cut: 2px;
+  --di-ink: #182B33;
+  --di-paper: #F5F4EF;
+  --di-mist: #E4ECEA;
+  --di-field: #52766D;
+  --di-orange: #D54B1E;
+  --di-white: #FFFFFF;
+  --di-surface: #F5F4EF;
+  --di-surface-alternate: #E4ECEA;
+  --di-text: #182B33;
+  --di-text-muted: #52766D;
+  --di-action: #182B33;
+  --di-on-action: #F5F4EF;
+  --di-focus: #182B33;
+  --di-signature: #D54B1E;
+  --di-border: #BAC8C4;
+  --di-positive: #52766D;
+  --di-warning: #71531A;
+  --di-error: #A82C27;
+  --di-font: "Source Sans 3", Arial, sans-serif;
+  --di-mono: "IBM Plex Mono", monospace;
+  --di-radius: 3px;
+  --di-motion: 160ms;
 }
