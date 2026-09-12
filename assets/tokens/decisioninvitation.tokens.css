@@ -1,0 +1,13 @@
+:root {
+  --di-ink: #042747;
+  --di-paper: #fffcf7;
+  --di-parchment: #f8f2e8;
+  --di-plum: #563b4d;
+  --di-point: #d54b1e;
+  --di-slate: #50636b;
+  --di-rule: #e8ddd0;
+  --di-display: Lexend, Avenir Next, Helvetica Neue, Arial, sans-serif;
+  --di-body: "Source Sans 3", Avenir Next, Helvetica Neue, Arial, sans-serif;
+  --di-mono: "IBM Plex Mono", SFMono-Regular, Consolas, monospace;
+  --di-cut: 2px;
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "system": { "name": "DecisionInvitation identity", "version": "2026.1", "status": "working visual system" },
+  "color": {
+    "invitationInk": { "$value": "#042747", "$type": "color" },
+    "responsePaper": { "$value": "#FFFCF7", "$type": "color" },
+    "contextParchment": { "$value": "#F8F2E8", "$type": "color" },
+    "decisionPlum": { "$value": "#563B4D", "$type": "color" },
+    "invitationPoint": { "$value": "#D54B1E", "$type": "color" },
+    "evidenceSlate": { "$value": "#50636B", "$type": "color" },
+    "quietRule": { "$value": "#E8DDD0", "$type": "color" }
+  },
+  "font": {
+    "display": { "$value": ["Lexend", "Avenir Next", "Helvetica Neue", "Arial", "sans-serif"], "$type": "fontFamily" },
+    "body": { "$value": ["Source Sans 3", "Avenir Next", "Helvetica Neue", "Arial", "sans-serif"], "$type": "fontFamily" },
+    "mono": { "$value": ["IBM Plex Mono", "SFMono-Regular", "Consolas", "monospace"], "$type": "fontFamily" }
+  },
+  "radius": { "cut": { "$value": "2px", "$type": "dimension" } }
+}

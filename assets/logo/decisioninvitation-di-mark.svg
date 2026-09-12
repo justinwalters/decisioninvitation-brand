@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-labelledby="title desc">
+  <title id="title">DecisionInvitation DI mark</title>
+  <desc id="desc">A deep navy D forms a quiet frame around a separate lowercase i with a warm orange dot.</desc>
+  <path fill="#042747" d="M50 47h104c79 0 136 51 136 133s-57 133-136 133H50V47Zm76 59v148h26c37 0 61-26 61-74s-24-74-61-74h-26Z"/>
+  <path fill="none" stroke="#042747" stroke-width="3" d="M52 312h258"/>
+  <rect x="210" y="122" width="30" height="132" rx="3" fill="#042747"/>
+  <circle cx="225" cy="82" r="20" fill="#D54B1E"/>
+</svg>
