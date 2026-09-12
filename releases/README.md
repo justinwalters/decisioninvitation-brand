@@ -1,15 +1,15 @@
 # DecisionInvitation release kits
 
-**0.3.1 · Multipath D identity proposal, pending owner review.** These kits distribute exact, usable files; they do not establish owner approval, trademark clearance, print approval, deployment, or downstream adoption.
+**0.3.2 · Negative-space Multipath D identity proposal, pending owner review.** These kits distribute exact, usable files; they do not establish owner approval, trademark clearance, print approval, deployment, or downstream adoption.
 
 ## Choose a kit
 
 | Filename | Intended use |
 | --- | --- |
-| `decisioninvitation-brand-0.3.1.zip` | Complete public identity: standards, manual, fonts/notices, production assets, editable applications, source, tools, tests, and public page source |
-| `decisioninvitation-logos-0.3.1.zip` | Five Multipath D forms in four modes: outlined SVG, transparent PNG, and vector PDF; logo/color standards and asset terms |
-| `decisioninvitation-templates-0.3.1.zip` | Editable HTML/CSS applications and briefs with referenced logos, tokens, licensed fonts, and channel guidance |
-| `decisioninvitation-webfonts-0.3.1.zip` | Supplied Sora Regular and SemiBold files, original OFL notice, typography guidance |
+| `decisioninvitation-brand-0.3.2.zip` | Complete public identity: standards, manual, fonts/notices, production assets, editable applications, source, tools, tests, and public page source |
+| `decisioninvitation-logos-0.3.2.zip` | Five Multipath D forms in four modes: outlined SVG, transparent PNG, and vector PDF; logo/color standards and asset terms |
+| `decisioninvitation-templates-0.3.2.zip` | Editable HTML/CSS applications and briefs with referenced logos, tokens, licensed fonts, and channel guidance |
+| `decisioninvitation-webfonts-0.3.2.zip` | Supplied Sora Regular and SemiBold files, original OFL notice, typography guidance |
 
 Extract into a new folder and preserve the hierarchy. Paths start at the repository root (`assets/`, `production/`, `templates/`, etc.); there is no additional enclosing directory. Open `templates/applications/index.html` for the application gallery. The small kits intentionally contain only their relevant resources; the full README and complete manual are in the complete identity kit.
 

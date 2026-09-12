@@ -39,11 +39,14 @@ def lettering(text,size,x,y,color,weight='Regular',tracking=0):
 
 def mark(color,point,internal=None,micro=False):
     m=S['mark']; p=m['lineagePoint']
+    outer=m['microOuterPaths' if micro else 'outerPaths']
+    outer_width=m['microOuterStrokeWidth' if micro else 'outerStrokeWidth']
     paths=m['microInternalPaths' if micro else 'internalPaths']
     width=m['microInternalStrokeWidth' if micro else 'internalStrokeWidth']
     inner=internal or color
+    shell=''.join(f'<path d="{path}"/>' for path in outer)
     detail=''.join(f'<path d="{path}"/>' for path in paths)
-    return f'<path fill="{color}" fill-rule="evenodd" d="{m["microBody" if micro else "body"]}"/><g fill="none" stroke="{inner}" stroke-width="{width}" stroke-linecap="square" stroke-linejoin="miter">{detail}</g><circle fill="{point}" cx="{p["cx"]}" cy="{p["cy"]}" r="{p["r"]}"/>'
+    return f'<g fill="none" stroke="{color}" stroke-width="{outer_width}" stroke-linecap="square" stroke-linejoin="miter">{shell}</g><g fill="none" stroke="{inner}" stroke-width="{width}" stroke-linecap="square" stroke-linejoin="miter">{detail}</g><path fill="{color}" d="{m["iBody"]}"/><circle fill="{point}" cx="{p["cx"]}" cy="{p["cy"]}" r="{p["r"]}"/>'
 
 def raster(src,dst,width,background=None): JOBS.append({'src':str(src),'dst':str(dst),'width':width,'background':background})
 
@@ -92,7 +95,7 @@ def applications():
         src=write(f'production/03-social/di-{name}.svg',svg(w,h,body,'DecisionInvitation. Catalyst of analysis.')); raster(src,OUT/f'03-social/di-{name}.png',w)
     body=f'<rect width="1800" height="1200" fill="{C["optic"]}"/><rect x="1160" width="640" height="1200" fill="{C["cobalt"]}"/>'
     text,_=lettering('Catalyst of analysis.',80,80,135,C['register']); body+=text
-    text,_=lettering('DecisionInvitation / Decision instrument 0.3 / Design proposal',25,80,195,C['cobalt']); body+=text
+    text,_=lettering('DecisionInvitation / Decision instrument 0.3.2 / Design proposal',25,80,195,C['cobalt']); body+=text
     samples=[('Primary',C['white'],C['register']),('Reverse',C['register'],C['white']),('One color',C['periwinkle'],C['register'])]
     for i,(label,bg,fg) in enumerate(samples):
         x=80+i*565; inner=C['periwinkle'] if i<2 else fg; body+=f'<rect x="{x}" y="260" width="535" height="450" fill="{bg}"/><g transform="translate({x+127} 310) scale(1.1)">{mark(fg,C["orange"] if i<2 else fg,inner)}</g>'

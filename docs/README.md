@@ -7,7 +7,7 @@
 | `logo-standards.md` | Multipath D construction, variants, scale, misuse |
 | `color-and-accessibility.md` | palette roles, orange cap, contrast policy |
 | `typography.md` | Sora hierarchy and implementation |
-| `art-direction.md` | lanes, thresholds, split planes, image behavior |
+| `art-direction.md` | aligned inputs, convergence, split planes, image behavior |
 | `messaging-and-voice.md` | voice, message hierarchy, approved language |
 | `claims-and-privacy.md` | evidence and privacy constraints |
 | `website-guidelines.md` | public and product interface application |
@@ -18,4 +18,4 @@
 | `AI-HANDOFF.md` | machine-readable implementation constraints |
 | `decisions/0002-decision-instrument-identity.md` | rationale for the independent direction |
 
-Canonical machine-readable decisions live in `brand-system.json` and `assets/source/identity.json`. Version 0.3.1 is pending owner review.
+Canonical machine-readable decisions live in `brand-system.json` and `assets/source/identity.json`. Version 0.3.2 is pending owner review.

@@ -2,7 +2,7 @@
 
 ## Multipath D
 
-The outer silhouette must read as a capital D before any inner detail is noticed. Its flat spine, strongly defined upper and lower bowl, and open counter carry recognition. Three thinner Periwinkle paths inside the counter preserve the idea of independent perspectives becoming direction. A distinct lowercase i completes the signature; its orange dot is the sole aSUKIra lineage cue.
+The mark must read as a capital D before its construction is decoded. Five independent inputs begin at one aligned but unconnected vertical axis and converge at one decision point. The two heavy outer inputs define the upper and lower bowl; the three thinner Periwinkle inputs carry independent perspectives. The missing post is intentional negative space—the eye completes it. A distinct lowercase i completes the signature; its orange dot is the sole aSUKIra lineage cue.
 
 ## Approved files
 
@@ -22,4 +22,4 @@ Primary uses Register for the D and i, Periwinkle for the internal paths, and Or
 
 ## Never
 
-Do not redraw, rotate, outline, soften, animate as a spinner, close the counter, thicken the internal paths, merge the i into the D, add a container, move the dot, recolor the dot for status, or combine it with the aSUKIra mark. Do not use typed “Di” as a substitute for the artwork.
+Do not redraw, rotate, outline, soften, animate as a spinner, connect the five input terminals with a literal post, separate their convergence point, thicken the internal paths, merge the i into the D, add a container, move the dot, recolor the dot for status, or combine it with the aSUKIra mark. Do not use typed “Di” as a substitute for the artwork.

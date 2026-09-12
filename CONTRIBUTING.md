@@ -24,4 +24,4 @@ Update `CHANGELOG.md` for a material change and the team's private adoption ledg
 
 Version as `major.minor.patch`. During `0.x`, a new creative direction increments the minor version; corrections and additional exports increment the patch. After approval, changes to recognizable identity, mark geometry, primary palette, or type roles increment the major version. Keep a dated decision with every recognizable change.
 
-A preview may be shared to review the work. Label it “Identity proposal · 0.3.1” until the user approves a release. Hosting a preview does not certify product features or approve public marketing claims.
+A preview may be shared to review the work. Label it “Identity proposal · 0.3.2” until the user approves a release. Hosting a preview does not certify product features or approve public marketing claims.

@@ -1,6 +1,6 @@
 # DecisionInvitation application masters
 
-**System:** 0.3.1 identity proposal · **Creative direction:** Catalyst of analysis. · **Supporting promise:** Ask separately. Decide clearly.
+**System:** 0.3.2 identity proposal · **Creative direction:** Catalyst of analysis. · **Supporting promise:** Ask separately. Decide clearly.
 
 These are editable HTML/CSS source masters. They are not screenshots, locked PDFs, finished customer communications, or evidence of a deployed workflow. Open [the application index](index.html) from a local HTTP server serving the repository root. The HTML can also be opened directly when the browser permits local fonts and images.
 

@@ -20,7 +20,7 @@ Print proofs must use the intended stock, printer profile, trim, bleed, and fini
 
 ## Reports and presentations
 
-Use a typographic cover with one thought, one signature, and a visible commitment threshold. Inside, one claim per section and an explicit source or caption for evidence. Use Sora Regular for reading and Sora SemiBold for page labels, dates, identifiers, and decisions. Distinguish analytical inputs from the final accountable choice through lanes and rules, not a second typeface.
+Use a typographic cover with one thought, one signature, and a visible decision point. Inside, one claim per section and an explicit source or caption for evidence. Use Sora Regular for reading and Sora SemiBold for page labels, dates, identifiers, and decisions. Distinguish analytical inputs from the final accountable choice through input paths and rules, not a second typeface.
 
 A report distinguishes question, evidence, perspective, proposed next step, and owner decision. A presentation must not flatten uncertainty into a decorative consensus score. Tables align comparable units; charts directly label series and expose sample/evidence limitations. Color alone never defines a contributor or state.
 

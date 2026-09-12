@@ -1,6 +1,6 @@
 # ADR 0003: Multipath D refinement
 
-**Status:** accepted as proposal direction; owner review pending
+**Status:** superseded by ADR 0004; retained as proposal history
 **Date:** 2026-09-12
 
 ## Decision

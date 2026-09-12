@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.2 — 2026-09-12 — Negative-space convergence
+
+- Removed the literal vertical post from the Multipath D.
+- Rebuilt the letter from five aligned, independent inputs that converge at one decision point.
+- Preserved D recognition through heavy upper and lower bowl paths and an implied negative-space spine.
+- Kept the three analytical inputs lighter and thinner, with the lowercase i and its Suki Orange provenance dot separate.
+- Updated all masters, exports, icons, lockups, standards, manual, public brand center, templates, and release kits.
+- Recorded the construction and non-negotiable constraints in ADR 0004. The identity remains a proposal pending owner review.
+
 ## 0.3.1 — 2026-09-12 — Multipath D refinement
 
 - Rebuilt the signature around an unmistakable capital D with clearly defined upper and lower bowl geometry.

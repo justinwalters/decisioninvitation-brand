@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "name": "DecisionInvitation",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "status": "proposal-pending-owner-review",
   "archiveRoot": "repository-relative; no enclosing directory",
   "checksumAlgorithm": "SHA-256",
@@ -23,14 +23,14 @@
     {
       "path": "AGENTS.md",
       "role": "documentation",
-      "bytes": 3122,
-      "sha256": "66adee4194cdd12462ad26db7b24c90fc40d9f65d1c3deafa2131f581659d481"
+      "bytes": 3125,
+      "sha256": "411627c6db2a465268fa0be9398b29048aa4b1ecf8b3bc3c8c4563d133289928"
     },
     {
       "path": "ASSET-LICENSE.md",
       "role": "asset-usage-terms",
       "bytes": 528,
-      "sha256": "64b1dac7b477515eee5c27a78f33ca8f46ab2c4e02b19a9de7c92ced1cb4c83d"
+      "sha256": "2754d806ee58cfc1dccb4d326dd5183cd08cd1f7165c1f6712df7bdfcd3f797a"
     },
     {
       "path": "BRAND-GUIDELINES.md",
@@ -41,20 +41,20 @@
     {
       "path": "CHANGELOG.md",
       "role": "documentation",
-      "bytes": 3519,
-      "sha256": "6595cf38f20f741d2f9ba1a526cd06eb25c4100b6607afbe54ab30f15462621a"
+      "bytes": 4199,
+      "sha256": "2c2added4c097d653dd53d9208f01727fee78f34d22c7bef65e6a4f0210eb1d8"
     },
     {
       "path": "CONTRIBUTING.md",
       "role": "documentation",
       "bytes": 2303,
-      "sha256": "4cc39ef80ab76228bef16db11aa919369757b0b1ded1cdb4bd70a5e8708f6072"
+      "sha256": "547844bbbb86aea2a1aa641c808a7fba2498e805f068df543d3b6eafca1733de"
     },
     {
       "path": "README.md",
       "role": "documentation",
-      "bytes": 1371,
-      "sha256": "dbee5d4ebc62e2c20b59e48362451d4d5a2c93df58d67e7364ff33f77e7e33be"
+      "bytes": 1389,
+      "sha256": "0754f01df527269c6ffd5cc308a7e3f677a20d8f78432bd79bcb3daee621b6fd"
     },
     {
       "path": "assets/fonts/LICENSE-Sora.txt",
@@ -101,24 +101,24 @@
     {
       "path": "assets/logo/decisioninvitation-di-mark.svg",
       "role": "compatibility-logo",
-      "bytes": 584,
-      "sha256": "d18c0c81e94ebd4babfaede1f84a7bd267e27c22c5443fc9344a1e41bc88398a",
+      "bytes": 640,
+      "sha256": "0f1ceaf68a6075025c7c5fa3bb9a21f4701af3c6cbd6a84a467e1c2850a26c3b",
       "width": 256,
       "height": 256
     },
     {
       "path": "assets/logo/decisioninvitation-wordmark.svg",
       "role": "compatibility-logo",
-      "bytes": 11265,
-      "sha256": "9af37b4af1292c47ec875f4485d1b7370b832017611ac7560833ab42b287b7a2",
+      "bytes": 11321,
+      "sha256": "4a2db5973899212015de94cc785276d68a1fb936bf3c40208d68b4ad99fcf96a",
       "width": 782,
       "height": 146
     },
     {
       "path": "assets/source/identity.json",
       "role": "identity-source",
-      "bytes": 1466,
-      "sha256": "3867d7ab5a7645697d40b1992056f88576f2c3bc65950948b24173d6a74d98da"
+      "bytes": 1462,
+      "sha256": "4caf20453b64984b5739ff0290f2a5c850532ba051ad48cd433853071e8e8414"
     },
     {
       "path": "assets/tokens/decisioninvitation.tokens.css",
@@ -130,25 +130,25 @@
       "path": "assets/tokens/decisioninvitation.tokens.json",
       "role": "design-tokens",
       "bytes": 1394,
-      "sha256": "117347c467ede92c96debfccbdc7cfdd41f928ba93ef058bcc01264d898316f1"
+      "sha256": "c2f523b1163e12be4acb5c7c7c5cf3a973c9c6f754418ddb5224b5396808ffa9"
     },
     {
       "path": "brand-system.json",
       "role": "documentation",
-      "bytes": 3425,
-      "sha256": "65f3185d31f7acfa0e12e0a4a6e63dd6dd4971ddd46cf636d751581db6d849c9"
+      "bytes": 3460,
+      "sha256": "7be1614424be22adb003254fcbcdafc2e75bdb22101013cc918786077719fae7"
     },
     {
       "path": "docs/AI-HANDOFF.md",
       "role": "documentation",
-      "bytes": 1293,
-      "sha256": "9b5a857e5155a74d59542378806906d09ee069bc259d0a5a415bb98f14c36a47"
+      "bytes": 1407,
+      "sha256": "22c647f31636c000a6088d31d956d3045a7f90f573e98de44b241eb39e96ea22"
     },
     {
       "path": "docs/README.md",
       "role": "documentation",
-      "bytes": 1279,
-      "sha256": "3f5bbc395ed9480ac327eaf2c2d38436e0494b075355afc3d22ca0c8175d4ff7"
+      "bytes": 1289,
+      "sha256": "87d8e887ced11fe0b662845d8e11f8aadfa2b6f5a55743649aac22f9572a76b2"
     },
     {
       "path": "docs/adoption-register-template.md",
@@ -159,8 +159,8 @@
     {
       "path": "docs/art-direction.md",
       "role": "documentation",
-      "bytes": 1016,
-      "sha256": "137c8f9db8bba3435cb2a2a37fefacd2808bdeb5f29bcb50f10a4d139e2797e4"
+      "bytes": 1023,
+      "sha256": "fce67cba2dfa415153848ec6dc1eb7bda8acbaeb9c8b0f486f8c57434d27bedd"
     },
     {
       "path": "docs/brand-architecture.md",
@@ -171,8 +171,8 @@
     {
       "path": "docs/brand-guidelines.md",
       "role": "documentation",
-      "bytes": 3834,
-      "sha256": "b994410a20adf88a92ab896c0ea8f4d2bdaf1db5de180064c42fbc0208f4428b"
+      "bytes": 4037,
+      "sha256": "35d22233079c852db6b56202192e54d8be83d1dfa8f403b790e68083b09b8271"
     },
     {
       "path": "docs/brand-strategy.md",
@@ -207,26 +207,32 @@
     {
       "path": "docs/decisions/0003-multipath-d-refinement.md",
       "role": "documentation",
-      "bytes": 1381,
-      "sha256": "ab312c4297557d7ee372b87674ff3b6ff039c4c11c3f7e06926252f9e6f3099e"
+      "bytes": 1379,
+      "sha256": "e8a02323102c1b070f563e720219f6fe3c166af7ea7ef0486033dd5ff10f12af"
+    },
+    {
+      "path": "docs/decisions/0004-negative-space-convergence.md",
+      "role": "documentation",
+      "bytes": 1491,
+      "sha256": "efa7594e0c071f070f4d1ad28e22569285845c960b8e697f79452342035df74b"
     },
     {
       "path": "docs/email-and-documents.md",
       "role": "documentation",
       "bytes": 3500,
-      "sha256": "e1aebececb9c01e2fef86e27f7b31a061d0a420a5a89813e4a30c6a46dc1e12f"
+      "sha256": "314c43387d26a90c10458a7b0ed847f96cef20808bf6d7160b46ecbdc196b83d"
     },
     {
       "path": "docs/governance-and-release.md",
       "role": "documentation",
       "bytes": 4700,
-      "sha256": "a4a81c4c2d187bb8b3f8319c976f73bb3dc0fce845a4790e09354a7c77994e13"
+      "sha256": "0135426934ce55a980ed049664c0ca49dccbaaa7d36689b61111ea95117ff629"
     },
     {
       "path": "docs/logo-standards.md",
       "role": "documentation",
-      "bytes": 1413,
-      "sha256": "f2894908f6f3e0a77926accde15114ab69e77f6f3aff56e97d273b533656f8bc"
+      "bytes": 1573,
+      "sha256": "076cdc5c77a824f6beedbde0c4cc2389453863b02f99753bb152cbe0a82e2405"
     },
     {
       "path": "docs/messaging-and-voice.md",
@@ -237,14 +243,14 @@
     {
       "path": "docs/motion-and-interaction.md",
       "role": "documentation",
-      "bytes": 661,
-      "sha256": "b0e29926dade412a68f6e15e9864728636b6700c211943e86956f6bf0f97d3f0"
+      "bytes": 698,
+      "sha256": "534786b538d268c0b3f395aedade39e4258ce88cfe6f5e60bf9c7a42c57656f8"
     },
     {
       "path": "docs/social-media-guidelines.md",
       "role": "documentation",
-      "bytes": 2197,
-      "sha256": "107eb8c785a450b7b2215c4263407fd7f189c85a514e1646b899907510fa2eb8"
+      "bytes": 2188,
+      "sha256": "69e7d8244d8b6e90b463811b8bb405240351d624bf598e03776455172e4d4ec1"
     },
     {
       "path": "docs/typography.md",
@@ -255,122 +261,122 @@
     {
       "path": "docs/website-guidelines.md",
       "role": "documentation",
-      "bytes": 1009,
-      "sha256": "80d5d50e671bb89025720949ed8c175cc865012d8dd2de25f0b9a593f8bc96c4"
+      "bytes": 1024,
+      "sha256": "57d255f5a9d6bcbe9ecf4059d603be8597365f24acda6f55cdedcb6f052c1681"
     },
     {
       "path": "output/pdf/decisioninvitation-identity-manual.pdf",
       "role": "identity-manual",
-      "bytes": 47795,
-      "sha256": "6cc88d1f851644d88257eff21bdb8323440f4fc593e751b1c16e6622d5af1237"
+      "bytes": 48510,
+      "sha256": "41cc304df3e24c14fbdac83096283772b55c6e221398e7e3c5cd8bd084eb0e58"
     },
     {
       "path": "package-lock.json",
       "role": "dependency-definition",
       "bytes": 21224,
-      "sha256": "c357152f0ec85d39c8621d25fe12be7198c45d69d03ad01d510b7b02a26095f6"
+      "sha256": "3d1e6985af3f7e0372f5a5c7be75df7849abe02614f1e5e27ac33eb82ba9884d"
     },
     {
       "path": "package.json",
       "role": "dependency-definition",
       "bytes": 418,
-      "sha256": "d9cc4792d2703477fb080d538998698c62e669132c1b1ce59931401ce0e8c00e"
+      "sha256": "5121a97900a10b60a318e496556d794cb250901a1095ffe2295f6cd225b7d508"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 7280,
-      "sha256": "2e8fd13e972ceb3fbe4a5a3e93c3ccadb488a812bd3c453827c12182618fad13"
+      "bytes": 7235,
+      "sha256": "52b5be0ccbb90254f0b54f4b3c89fd636121560271c7e89305115b661a08057f"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 7301,
-      "sha256": "2c080eca9a84a36dd77d8ac769b3de7890de0f0fe75236243e5a9c971ed781d2"
+      "bytes": 7264,
+      "sha256": "80101951c21eff4a52c1e77921831d4a6ec804f5c094e8586cff616629c07ca2"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 7284,
-      "sha256": "23c764f233e99495213f3a49f3406cd3092229f7b3c97d193e75df6c74137411"
+      "bytes": 7241,
+      "sha256": "51cd48e240c2ab56beb4e21590d7d32536d33b12982949939fa8992c02bd3740"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-white.pdf",
       "role": "logo-pdf",
-      "bytes": 7257,
-      "sha256": "dd842e264f68f67f0f87913682a124606973b9bda9b89d2372332c4ce03a278b"
+      "bytes": 7212,
+      "sha256": "ad7958690cffb37ecffb43bb2c58b9c9afdee2b317f1f700188e42d08a60358e"
     },
     {
       "path": "production/01-logo/pdf/di-mark-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 1672,
-      "sha256": "cfb2e5fabf722e2629cbd44ca4261299d984765135b67ca147d1611742052a7a"
+      "bytes": 1635,
+      "sha256": "aea4570ba19d3e35274e6c14567bae25b10508c420b0f65c3446082326dcfe41"
     },
     {
       "path": "production/01-logo/pdf/di-mark-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 1696,
-      "sha256": "5f4ef2a30d1365d117926222cf24717650f66e94bc25541f189b4d149c2406d0"
+      "bytes": 1659,
+      "sha256": "17534dda8edd3fda4b8d561166ee39173b0e61716568c4160644ac1fe3567b08"
     },
     {
       "path": "production/01-logo/pdf/di-mark-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 1682,
-      "sha256": "15206000cb7c152481ffe2c7159a6d354bf547193c39e228d734edf4e49aaa31"
+      "bytes": 1641,
+      "sha256": "0e652f701743a53b53f1fe97d9e5df4899a9c6280c5f4692eaa9c3ceec875030"
     },
     {
       "path": "production/01-logo/pdf/di-mark-white.pdf",
       "role": "logo-pdf",
-      "bytes": 1659,
-      "sha256": "1bec45c11412ec7a8c8076e4e08245441c80f5e318d04b507af4d9f867acac04"
+      "bytes": 1616,
+      "sha256": "ccfc742cd041c3a2d5fd99eb0489f98ca000a03f10019a5994ac4b03b6991a38"
     },
     {
       "path": "production/01-logo/pdf/di-micro-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 1662,
-      "sha256": "a793a6c063517e728fb957221fb4813033cbd56573bd1d2c0ae2537612c0a435"
+      "bytes": 1632,
+      "sha256": "77ec0c9cdc06a61d8eb41cd4e7de0af02abd02901b5dfb46a45a8d39bbbae61a"
     },
     {
       "path": "production/01-logo/pdf/di-micro-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 1684,
-      "sha256": "88d5bcbee02b6cb5b976e04d1a0eb332c810991da881dd3599387b83016c1dbd"
+      "bytes": 1657,
+      "sha256": "281c30bb6476ca8de97e88447d5f6544c07104835f2cb7fe3d01701dafaceab1"
     },
     {
       "path": "production/01-logo/pdf/di-micro-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 1670,
-      "sha256": "17b56dfd7a286746ef25159479d0817b66d5682779a9485b0554980361e91f85"
+      "bytes": 1641,
+      "sha256": "af80591387dc0015a07d162f45290bb4da88a9723ef7b6e26a610630125a668c"
     },
     {
       "path": "production/01-logo/pdf/di-micro-white.pdf",
       "role": "logo-pdf",
-      "bytes": 1646,
-      "sha256": "b944f3f8ad9d3d5651b20fa7cbf823b79f4f8abbcf6c5b2807e425000b067b14"
+      "bytes": 1614,
+      "sha256": "d6803ef70748a98bd55b4f4029e519a863eff634be103283110c78aefb15b5a1"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-ink.pdf",
       "role": "logo-pdf",
-      "bytes": 7103,
-      "sha256": "ca4801e32fa4029508d9fb826c601145f54627f2eaebe821e8512f94f2da7754"
+      "bytes": 7062,
+      "sha256": "f9fd333733ac5dd3988ee0e3cce11adae97a539f7cc757b4b41fbbb276e407aa"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-primary.pdf",
       "role": "logo-pdf",
-      "bytes": 7125,
-      "sha256": "247e506f6d6fd2b21e58dc836c8699ee1d78ec57d63898d3ba5beb5397a7c4d7"
+      "bytes": 7093,
+      "sha256": "78e5bc7767c8c299ed8eb461b560352d6ddecc3015c8c9b7f631c07c66dc8973"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-reverse.pdf",
       "role": "logo-pdf",
-      "bytes": 7106,
-      "sha256": "0754991b9cc02738db755756e477d2e6efdbb6ad4aa7cc69c24b6601c83119f3"
+      "bytes": 7073,
+      "sha256": "2ae63241f8b4b9eb7f12143472a9966fca8f3e5c347c7ee1623269de8a5ab1e9"
     },
     {
       "path": "production/01-logo/pdf/di-stacked-white.pdf",
       "role": "logo-pdf",
-      "bytes": 7082,
-      "sha256": "a725f5e28a10899165258ee6695cbbbb4fe6ef06d7d3141cd3521cc19324501e"
+      "bytes": 7042,
+      "sha256": "dded13a0088bb44961984ea2863443eb029be50e04affac10389231c147c7a43"
     },
     {
       "path": "production/01-logo/pdf/di-wordmark-ink.pdf",
@@ -399,8 +405,8 @@
     {
       "path": "production/01-logo/png/di-lockup-ink-1200.png",
       "role": "logo-raster",
-      "bytes": 19995,
-      "sha256": "f937ca95ac57cb81347171e0c8af3ed0e2f302883be723922770ebf61e414ea2",
+      "bytes": 19626,
+      "sha256": "012d545d29a8c1d3828412a05ca60b4d4cc77c62180fd71d0c0a6a37c3ec7e04",
       "width": 1200,
       "height": 224,
       "alpha": true
@@ -408,8 +414,8 @@
     {
       "path": "production/01-logo/png/di-lockup-ink-2400.png",
       "role": "logo-raster",
-      "bytes": 46683,
-      "sha256": "7e683cd57c97c180e4edc5fc438611ec987fb29ad86daa522a23cbe44bff55b1",
+      "bytes": 45247,
+      "sha256": "400a02be25910ea2a0d3d57b3a9dba4d19ca4c3c3b2a35f2eab34be853dddabe",
       "width": 2400,
       "height": 448,
       "alpha": true
@@ -417,8 +423,8 @@
     {
       "path": "production/01-logo/png/di-lockup-primary-1200.png",
       "role": "logo-raster",
-      "bytes": 20646,
-      "sha256": "0927f4b00e34d329d3d7e0ee27d8119a715cc26d0860d72d2dfe4abf496a5bd6",
+      "bytes": 20585,
+      "sha256": "3d17e87d2f0786254e7aac1f7191c0f607a029c28b1b2f0eb98af2ccd018074b",
       "width": 1200,
       "height": 224,
       "alpha": true
@@ -426,8 +432,8 @@
     {
       "path": "production/01-logo/png/di-lockup-primary-2400.png",
       "role": "logo-raster",
-      "bytes": 47711,
-      "sha256": "d23f5789bad978c2591a250c9acbb146e31f3b857c83737e692a2b573126b567",
+      "bytes": 47005,
+      "sha256": "76e008ca04cd479a6cccd2dcb68835d136a6b19b1aca2f654931cb73afc3d217",
       "width": 2400,
       "height": 448,
       "alpha": true
@@ -435,8 +441,8 @@
     {
       "path": "production/01-logo/png/di-lockup-reverse-1200.png",
       "role": "logo-raster",
-      "bytes": 17100,
-      "sha256": "3646baeb7f2ae27b670504aaf2fa30823ddea80bfefbbfc7d2e854f98d59f3ec",
+      "bytes": 17060,
+      "sha256": "3ac43f3f3266118fb92f647dc843167bf5943ba2cf18c71d17ece8fe59af056b",
       "width": 1200,
       "height": 224,
       "alpha": true
@@ -444,8 +450,8 @@
     {
       "path": "production/01-logo/png/di-lockup-reverse-2400.png",
       "role": "logo-raster",
-      "bytes": 39297,
-      "sha256": "a930351ebeea321920d2bcf8cef54b4a999a21c5a94a5de30b7c745da61ffc26",
+      "bytes": 38369,
+      "sha256": "19fe0c346369a99fb5a355962b055e259f2e2c615d85beaa6713872f0a59253f",
       "width": 2400,
       "height": 448,
       "alpha": true
@@ -453,8 +459,8 @@
     {
       "path": "production/01-logo/png/di-lockup-white-1200.png",
       "role": "logo-raster",
-      "bytes": 16387,
-      "sha256": "c58d50ad94396d05fd92c9783db079c5db1ea9f15ceae14ed660de167ebf6a78",
+      "bytes": 16055,
+      "sha256": "8b648bc017880f675aa42ffb810f95b81b7302ef6457c6c696d35d0646f152e4",
       "width": 1200,
       "height": 224,
       "alpha": true
@@ -462,8 +468,8 @@
     {
       "path": "production/01-logo/png/di-lockup-white-2400.png",
       "role": "logo-raster",
-      "bytes": 38030,
-      "sha256": "a90205952480cf75e5b38e8a2a2382866f9c78c1cca36204d2a5083026df937e",
+      "bytes": 36454,
+      "sha256": "8feab0d96ee0c22612209df2e3f6d4b7b9beffdb38d0a7a5daf755caf5bf2029",
       "width": 2400,
       "height": 448,
       "alpha": true
@@ -471,8 +477,8 @@
     {
       "path": "production/01-logo/png/di-mark-ink-1024.png",
       "role": "logo-raster",
-      "bytes": 36776,
-      "sha256": "513eab8e632b57e7aba8431cab8f26c840c67fcb9a693aef1fb1d32225f4992d",
+      "bytes": 31189,
+      "sha256": "9015fea46796cb197d5912897ff65a56af2ca449748d5a1f539159c6579e18ec",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -480,8 +486,8 @@
     {
       "path": "production/01-logo/png/di-mark-ink-256.png",
       "role": "logo-raster",
-      "bytes": 5804,
-      "sha256": "1a27877205df47f1c248c8ec9a181e728b9d3c28058eb370f67197395d56f9cb",
+      "bytes": 5272,
+      "sha256": "19d770cba3599f8b1cafb3faa8f1261558f9dc9d1f55afe27ab81219e40f66e8",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -489,8 +495,8 @@
     {
       "path": "production/01-logo/png/di-mark-primary-1024.png",
       "role": "logo-raster",
-      "bytes": 37091,
-      "sha256": "5dd60bb922017f3fa76776c6a009e95b3536d9a11da8bae86e6d6b2ffaccb490",
+      "bytes": 34009,
+      "sha256": "bb7dfe257bcc6ee8a5a273fe7c7c7a6f70db12054fd9e0c02e905ff9a9acfaee",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -498,8 +504,8 @@
     {
       "path": "production/01-logo/png/di-mark-primary-256.png",
       "role": "logo-raster",
-      "bytes": 6104,
-      "sha256": "7d2d6629c7088e9d3683dbc454fc926f674b644bfb8c71d6817c99f10143ff71",
+      "bytes": 5853,
+      "sha256": "675397162d157b897c80968c7e675971b968c6bad43cd06e51877489a92d05cb",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -507,8 +513,8 @@
     {
       "path": "production/01-logo/png/di-mark-reverse-1024.png",
       "role": "logo-raster",
-      "bytes": 27984,
-      "sha256": "c87189d05e6afc0b3e78c1537b879c543461857392602f910f52d7667bfa8763",
+      "bytes": 27253,
+      "sha256": "63b36bd6d4c5365ebc1378be30717a58fa3d16f4b6dbe2b7455cecf5cccba75d",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -516,8 +522,8 @@
     {
       "path": "production/01-logo/png/di-mark-reverse-256.png",
       "role": "logo-raster",
-      "bytes": 5166,
-      "sha256": "b40a12991501e5975f08be1076cb9b371fdcccd00e47110e3d176b4298597e49",
+      "bytes": 5162,
+      "sha256": "61fbbc07a1a151a9f345dc3da3ee55fae305053a05053634d62e39a8b9a9e54d",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -525,8 +531,8 @@
     {
       "path": "production/01-logo/png/di-mark-white-1024.png",
       "role": "logo-raster",
-      "bytes": 25687,
-      "sha256": "2367ea8e4db18c1d47cf5621fa9bc387be07fdb11055d24141e432c7a9ed71b0",
+      "bytes": 22731,
+      "sha256": "3b00eee7f354673e14a751aedbde572b72153fd26fbcacca156b3c90d1ccc727",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -534,8 +540,8 @@
     {
       "path": "production/01-logo/png/di-mark-white-256.png",
       "role": "logo-raster",
-      "bytes": 4603,
-      "sha256": "95e6df1274cc68df5a77dc49092172a3be58c0becfce51911572cdc15ef657f2",
+      "bytes": 4430,
+      "sha256": "825aedc9306ae7ecea7c54bb4b425e99949ca41ba0b664309c94dd2c9d8fc8b1",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -543,8 +549,8 @@
     {
       "path": "production/01-logo/png/di-micro-ink-1024.png",
       "role": "logo-raster",
-      "bytes": 36641,
-      "sha256": "6ea54f94a66dd55177127134fde81c90e027d14d8255b1b7fa8060f7ec330b48",
+      "bytes": 30846,
+      "sha256": "9221ad161cc4a8d283943b5b228e24ea434b44fcb3954792fd0bb372ddd2da49",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -552,8 +558,8 @@
     {
       "path": "production/01-logo/png/di-micro-ink-256.png",
       "role": "logo-raster",
-      "bytes": 5672,
-      "sha256": "2172773d444e1b6301df1b59ca53cb1a20cd00f72959be2e34491cd0b9755e8a",
+      "bytes": 5158,
+      "sha256": "3a15cf8d1c6565e45025941c858b630824733a0876db759e2fa6eddb028cdab2",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -561,8 +567,8 @@
     {
       "path": "production/01-logo/png/di-micro-primary-1024.png",
       "role": "logo-raster",
-      "bytes": 37050,
-      "sha256": "73607ede6c9a0145e879f82b2c67c2f975924aa5e8f0012e8752f38f50082fd8",
+      "bytes": 33633,
+      "sha256": "461f6b8a3795a30301df2e5f7be5e5a6078cf414a158ddf416c8e3812ff0c63e",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -570,8 +576,8 @@
     {
       "path": "production/01-logo/png/di-micro-primary-256.png",
       "role": "logo-raster",
-      "bytes": 5932,
-      "sha256": "bfc149af6f0e03f161c9b479923d8aa3e6555e6021286541dcae3bf83680c7bd",
+      "bytes": 5750,
+      "sha256": "857d5dc788183d64b730065eb28c5d0b5847188e91fc10ab146f0cf8464a4eca",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -579,8 +585,8 @@
     {
       "path": "production/01-logo/png/di-micro-reverse-1024.png",
       "role": "logo-raster",
-      "bytes": 28213,
-      "sha256": "3672b6437c81a21f9e46cb8c453363743da436c81b8391f7ad0dbc43ff3de9f5",
+      "bytes": 27263,
+      "sha256": "f1d39779d61162afb43fda0af63a4ef52a24ff108bda9b773612d71aae59c8b8",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -588,8 +594,8 @@
     {
       "path": "production/01-logo/png/di-micro-reverse-256.png",
       "role": "logo-raster",
-      "bytes": 4958,
-      "sha256": "4d6b94f57565d9d63f10b1901b3eeb0d1ec78d3f501988dcc581906d905a4d21",
+      "bytes": 5009,
+      "sha256": "80902f3fdfc84ae7fd013ee68584b73d296d15987bbbe584583dc741ce783041",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -597,8 +603,8 @@
     {
       "path": "production/01-logo/png/di-micro-white-1024.png",
       "role": "logo-raster",
-      "bytes": 25385,
-      "sha256": "3379bf17cf93c81e9baa7677d76c2aa62809fd1ab33b8b17cf81fd0c13a26de0",
+      "bytes": 22355,
+      "sha256": "bf984f3120a69f387871d07106ba94dc09456b270651ee900085ffb435d7931d",
       "width": 1024,
       "height": 1024,
       "alpha": true
@@ -606,8 +612,8 @@
     {
       "path": "production/01-logo/png/di-micro-white-256.png",
       "role": "logo-raster",
-      "bytes": 4455,
-      "sha256": "a23893bb90c82430a632e7e5828fe43cd2c996631f0a52387557f200571e771b",
+      "bytes": 4242,
+      "sha256": "6950e0418bbc4d7d67e32eab3b91e547747f0f523df7dcb0a2a425938ce22633",
       "width": 256,
       "height": 256,
       "alpha": true
@@ -615,8 +621,8 @@
     {
       "path": "production/01-logo/png/di-stacked-ink-1200.png",
       "role": "logo-raster",
-      "bytes": 49175,
-      "sha256": "e8a7d743fc63ce09c6efab387730b80947d9f1cbd765af2f336d94ddd15777e6",
+      "bytes": 48022,
+      "sha256": "e44dd82624a5302037b6d8b90422b9d55fb5da9281ea9e07acfebad61ad30acf",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -624,8 +630,8 @@
     {
       "path": "production/01-logo/png/di-stacked-ink-2400.png",
       "role": "logo-raster",
-      "bytes": 125855,
-      "sha256": "609a06c76748e16aff17276cf9d6ff62e366262afd1ebe5d94063a4f1ab5579e",
+      "bytes": 119604,
+      "sha256": "fa3300e2b55dd6b64bd7a02320b31579e6643229a30610f73a40710837bb17ae",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -633,8 +639,8 @@
     {
       "path": "production/01-logo/png/di-stacked-primary-1200.png",
       "role": "logo-raster",
-      "bytes": 49801,
-      "sha256": "084edd4be1d093ebe2957c6d091ac66ade9387a0fb9e258e338c837ff20ea4c3",
+      "bytes": 49364,
+      "sha256": "37a00ef45da3a4fe683f70394fc692b9416ca28eebce73c417dbc9d78d25e6ca",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -642,8 +648,8 @@
     {
       "path": "production/01-logo/png/di-stacked-primary-2400.png",
       "role": "logo-raster",
-      "bytes": 126803,
-      "sha256": "28b97aafe09b2a3137544880fceb12d99aef176a7be4b283b0548cf074c3819f",
+      "bytes": 121939,
+      "sha256": "b6ab9e15e6e0af535911e4dc2849552283527fcc11ada128257bc23618584982",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -651,8 +657,8 @@
     {
       "path": "production/01-logo/png/di-stacked-reverse-1200.png",
       "role": "logo-raster",
-      "bytes": 39654,
-      "sha256": "913a1d355ce74680039f16aa4a3f48d0907f68f8651b432672c205c5fbaa4d3f",
+      "bytes": 39166,
+      "sha256": "840222a2de5b116906980b3a2756989b2afcc2181a812665e8bdec2db1eeedde",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -660,8 +666,8 @@
     {
       "path": "production/01-logo/png/di-stacked-reverse-2400.png",
       "role": "logo-raster",
-      "bytes": 96870,
-      "sha256": "6337aa5b66ca6903e42ccdf5d3953550ae76749c786bf435bb17f89c8f0989fa",
+      "bytes": 96030,
+      "sha256": "81126265518a8055dcd0b4cb1bbcabc74abf2076bb5fdd768e935826c579b1f6",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -669,8 +675,8 @@
     {
       "path": "production/01-logo/png/di-stacked-white-1200.png",
       "role": "logo-raster",
-      "bytes": 38463,
-      "sha256": "5b1d9720dfa7eac1e229aca80da360bc1af1062c43e0ffb703f7519b952f7734",
+      "bytes": 36957,
+      "sha256": "8c2b8330a032ed15ce1385a29911bca3c1258c51a17bd5b65f33ca5a46b018ec",
       "width": 1200,
       "height": 1143,
       "alpha": true
@@ -678,8 +684,8 @@
     {
       "path": "production/01-logo/png/di-stacked-white-2400.png",
       "role": "logo-raster",
-      "bytes": 94592,
-      "sha256": "fcbac67dcc0aad58a26276059ad4d000ab09f325e4b5c6e5569b17fda730f216",
+      "bytes": 91700,
+      "sha256": "d5a45007447186754a05a2fea3cdba29f99ed7041add1a1ef752826e85252236",
       "width": 2400,
       "height": 2286,
       "alpha": true
@@ -759,128 +765,128 @@
     {
       "path": "production/01-logo/svg/di-lockup-ink.svg",
       "role": "logo-vector",
-      "bytes": 11265,
-      "sha256": "27d5f89f455340541e40afe34a59d7580f9e2ee7cd9b4e75823a8e920c8f6dc0",
+      "bytes": 11321,
+      "sha256": "04109e6e7ecf9abc53230440d2ec86fd4f9f1801790d4d11c6733099998ea344",
       "width": 782,
       "height": 146
     },
     {
       "path": "production/01-logo/svg/di-lockup-primary.svg",
       "role": "logo-vector",
-      "bytes": 11265,
-      "sha256": "9af37b4af1292c47ec875f4485d1b7370b832017611ac7560833ab42b287b7a2",
+      "bytes": 11321,
+      "sha256": "4a2db5973899212015de94cc785276d68a1fb936bf3c40208d68b4ad99fcf96a",
       "width": 782,
       "height": 146
     },
     {
       "path": "production/01-logo/svg/di-lockup-reverse.svg",
       "role": "logo-vector",
-      "bytes": 11265,
-      "sha256": "c5e56a7e0d80d08d275aecbdf72e05bb9f1a4bcf9df863626f817014d5c6cb76",
+      "bytes": 11321,
+      "sha256": "11e9a44d31fcc4cc91b0afc91d5195cd618fca47d28cd080d5c466a73bb545f6",
       "width": 782,
       "height": 146
     },
     {
       "path": "production/01-logo/svg/di-lockup-white.svg",
       "role": "logo-vector",
-      "bytes": 11265,
-      "sha256": "fd603c506c265b5b4c54801195efcca0fdb44d943cebedd65f375100a7bbdeaa",
+      "bytes": 11321,
+      "sha256": "00601c20935667cefcb0a10b1574b0885d21ee0b34e8160bb02af99760d786e0",
       "width": 782,
       "height": 146
     },
     {
       "path": "production/01-logo/svg/di-mark-ink.svg",
       "role": "logo-vector",
-      "bytes": 584,
-      "sha256": "897e575365636913c3b0ca4b7e7ac5e967fa8c1024fe5d25ae3f865b6ea6f6df",
+      "bytes": 640,
+      "sha256": "cce246685c40e3da6413bd2777f307e1c6fc41b2b010ef2dda45085f9eda5823",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-mark-primary.svg",
       "role": "logo-vector",
-      "bytes": 584,
-      "sha256": "d18c0c81e94ebd4babfaede1f84a7bd267e27c22c5443fc9344a1e41bc88398a",
+      "bytes": 640,
+      "sha256": "0f1ceaf68a6075025c7c5fa3bb9a21f4701af3c6cbd6a84a467e1c2850a26c3b",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-mark-reverse.svg",
       "role": "logo-vector",
-      "bytes": 584,
-      "sha256": "aab41381488af5a86f9395d4a682b0f5fd386d5ab4fb6c6abc6f612ec4216521",
+      "bytes": 640,
+      "sha256": "5a2f7f8dbe5d84a5f190f8ca661665c7c67083a4214fac93347b596a168f2c8b",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-mark-white.svg",
       "role": "logo-vector",
-      "bytes": 584,
-      "sha256": "819ee2eac4082972e2415d611a2b0da3fbf7899743163f4747000f4e197d6a7d",
+      "bytes": 640,
+      "sha256": "76fe59683d7a11f39fc0e4f6955c4c1b939c64f969aa79a28a65b0c1e3091474",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-ink.svg",
       "role": "logo-vector",
-      "bytes": 561,
-      "sha256": "f48c161f6e9e53a9ea647aa3e82347a1c41157d2dcae114cba4eadba84357f42",
+      "bytes": 640,
+      "sha256": "aad22dc06b25dfe878a56dcc9401ead100f5bfd8e0f3d67e16f1975258e11817",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-primary.svg",
       "role": "logo-vector",
-      "bytes": 561,
-      "sha256": "1a890405aa09ccd4bd44042e39708fb66fd0bd3c414ddb701469a144b957f71c",
+      "bytes": 640,
+      "sha256": "85dd8493d14e5e7368392644156c4682871d55b9abf29bb3f4e8e761083563e9",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-reverse.svg",
       "role": "logo-vector",
-      "bytes": 561,
-      "sha256": "d68e27a4b7c1a118afe57711cfc0ee59dab4ac50bcc67015e5c07ea97d10976d",
+      "bytes": 640,
+      "sha256": "9ceb29bc6d73fdc91f078276c2ec842a0f677b534ef30d133cec4721f522070d",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-micro-white.svg",
       "role": "logo-vector",
-      "bytes": 561,
-      "sha256": "fe271afe66215b46c169d951b1c92977beb3bf6db5eff2717eb6f4db9a5bae42",
+      "bytes": 640,
+      "sha256": "3b82d492cd929bb7781a72781abea916ba31c23ec59f5fc5f0b482f19c563b62",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/01-logo/svg/di-stacked-ink.svg",
       "role": "logo-vector",
-      "bytes": 14499,
-      "sha256": "f1b1b1d45210bd1217633e475eef9e9062ed567a0c9a8f44206449595c66084a",
+      "bytes": 14555,
+      "sha256": "41dc1b755ec5bf83716cfd864990853a290ae2feb76c5083ea1df4056226116e",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-stacked-primary.svg",
       "role": "logo-vector",
-      "bytes": 14499,
-      "sha256": "d77fbddc8472aac8467744465f8f2846f1e3b3dd19ad1a09fa6cde62590d3e0d",
+      "bytes": 14555,
+      "sha256": "94350bf4a6735d76f7a0e492d3a8fa43d56ee974810c8f4ca25ded94563bf72b",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-stacked-reverse.svg",
       "role": "logo-vector",
-      "bytes": 14499,
-      "sha256": "726a16f7189a1c701a31c99e835e1627d397de0a7a957e6239f5195a26913376",
+      "bytes": 14555,
+      "sha256": "8d52049879ac998611c8e2d2b8cc4aa16c2724385f386713acf691fd9e8ab7ad",
       "width": 420,
       "height": 400
     },
     {
       "path": "production/01-logo/svg/di-stacked-white.svg",
       "role": "logo-vector",
-      "bytes": 14499,
-      "sha256": "6577d74d413514ffa5d38c99505a775bc51e2204b9a304a67b429f0079b545d8",
+      "bytes": 14555,
+      "sha256": "d7a43b49fa1db67a2cafe3e5ad42c6a49fe03f43a3ef50bbc87f5ec070d21390",
       "width": 420,
       "height": 400
     },
@@ -919,8 +925,8 @@
     {
       "path": "production/02-digital/di-icon-1024.png",
       "role": "digital-icon",
-      "bytes": 45811,
-      "sha256": "391e53c67208694809693bb59d3795f8c99cb1a8b73685c436a9e465a5cb068a",
+      "bytes": 44896,
+      "sha256": "abfe12a11cf60a6fb886bc4f06b62a863ef38a8307574cf81f4d537f79027710",
       "width": 1024,
       "height": 1024,
       "alpha": false
@@ -928,16 +934,16 @@
     {
       "path": "production/02-digital/di-icon-1024.svg",
       "role": "digital-icon",
-      "bytes": 678,
-      "sha256": "3c95d37501a8452138c4e51529b6111bdd50a732fedc388a030115539667e20c",
+      "bytes": 734,
+      "sha256": "ba06c0e375943eeba606e8f2aec656b1ae4d8e23cdd57c0972e57fa469dc2085",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-16.png",
       "role": "digital-icon",
-      "bytes": 405,
-      "sha256": "6b6775f5406409fcd56b09d9434845391f09e5efb87315230f90b258e0266f0f",
+      "bytes": 395,
+      "sha256": "44484f210a5402da27608e7d7f9795d5099bbf1face0c89ea502005daa837db6",
       "width": 16,
       "height": 16,
       "alpha": false
@@ -945,16 +951,16 @@
     {
       "path": "production/02-digital/di-icon-16.svg",
       "role": "digital-icon",
-      "bytes": 655,
-      "sha256": "7e20d0c07bb4a1ce16bcdcd14b578153de4038c72c5a18c31338149536566e67",
+      "bytes": 734,
+      "sha256": "7a44420917a50a7566f770e612515e76e98ecc134ee50439d6e72b46d2e4b197",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-180.png",
       "role": "digital-icon",
-      "bytes": 3754,
-      "sha256": "7963b3a81e9405a37e88fa3aed59f7d41c52b667b7f736127c145e140a11ef9d",
+      "bytes": 3990,
+      "sha256": "5ec15a632fbd3fd2a10dc32a64123ed0f4a98e415928a3f19d9faf8cebb652b2",
       "width": 180,
       "height": 180,
       "alpha": false
@@ -962,16 +968,16 @@
     {
       "path": "production/02-digital/di-icon-180.svg",
       "role": "digital-icon",
-      "bytes": 678,
-      "sha256": "3c95d37501a8452138c4e51529b6111bdd50a732fedc388a030115539667e20c",
+      "bytes": 734,
+      "sha256": "ba06c0e375943eeba606e8f2aec656b1ae4d8e23cdd57c0972e57fa469dc2085",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-192.png",
       "role": "digital-icon",
-      "bytes": 4059,
-      "sha256": "73831415697ac2baa36df03d07ee3724a422561e58ccf17ed3e8c0c8812d5bb5",
+      "bytes": 4286,
+      "sha256": "e5ad786cc8961ee78c80d03268c32ce621a622fb486302802bc07b0e4affe1dd",
       "width": 192,
       "height": 192,
       "alpha": false
@@ -979,16 +985,16 @@
     {
       "path": "production/02-digital/di-icon-192.svg",
       "role": "digital-icon",
-      "bytes": 678,
-      "sha256": "3c95d37501a8452138c4e51529b6111bdd50a732fedc388a030115539667e20c",
+      "bytes": 734,
+      "sha256": "ba06c0e375943eeba606e8f2aec656b1ae4d8e23cdd57c0972e57fa469dc2085",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-32.png",
       "role": "digital-icon",
-      "bytes": 685,
-      "sha256": "99fba80f866adc84f8de6f660407a77aa8fed50b73f1655721b7e21a765e4a5a",
+      "bytes": 750,
+      "sha256": "3c6d5fa2b5c9c0854d4ef9fcded87bec6995e446e551662f86090030f69217a3",
       "width": 32,
       "height": 32,
       "alpha": false
@@ -996,16 +1002,16 @@
     {
       "path": "production/02-digital/di-icon-32.svg",
       "role": "digital-icon",
-      "bytes": 655,
-      "sha256": "7e20d0c07bb4a1ce16bcdcd14b578153de4038c72c5a18c31338149536566e67",
+      "bytes": 734,
+      "sha256": "7a44420917a50a7566f770e612515e76e98ecc134ee50439d6e72b46d2e4b197",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-48.png",
       "role": "digital-icon",
-      "bytes": 996,
-      "sha256": "29536b2e61a0bfdf97237e80db8d98a41eb32ea46c5c31760f3d88f5c9b30fd6",
+      "bytes": 1042,
+      "sha256": "05d72e190ab9f0a53f3ee1692ef59f7f4dbc47cebb3fd61035c58f3ba8520f76",
       "width": 48,
       "height": 48,
       "alpha": false
@@ -1013,16 +1019,16 @@
     {
       "path": "production/02-digital/di-icon-48.svg",
       "role": "digital-icon",
-      "bytes": 678,
-      "sha256": "3c95d37501a8452138c4e51529b6111bdd50a732fedc388a030115539667e20c",
+      "bytes": 734,
+      "sha256": "ba06c0e375943eeba606e8f2aec656b1ae4d8e23cdd57c0972e57fa469dc2085",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/di-icon-512.png",
       "role": "digital-icon",
-      "bytes": 16126,
-      "sha256": "895530fadb94ddb9adf73c1ec12fc9db5cb19df66c2517ec3d350942ed5642a3",
+      "bytes": 16111,
+      "sha256": "b7844f070e949d3aae327e2578eae62c8fb61d5fcffead1d70f6b16850fb78f2",
       "width": 512,
       "height": 512,
       "alpha": false
@@ -1030,16 +1036,16 @@
     {
       "path": "production/02-digital/di-icon-512.svg",
       "role": "digital-icon",
-      "bytes": 678,
-      "sha256": "3c95d37501a8452138c4e51529b6111bdd50a732fedc388a030115539667e20c",
+      "bytes": 734,
+      "sha256": "ba06c0e375943eeba606e8f2aec656b1ae4d8e23cdd57c0972e57fa469dc2085",
       "width": 256,
       "height": 256
     },
     {
       "path": "production/02-digital/favicon.ico",
       "role": "digital-icon",
-      "bytes": 2542,
-      "sha256": "c7061d89465ece557380a63902ddd077fede6858df43da14767c9f5ca0689799",
+      "bytes": 2636,
+      "sha256": "4915007e321a7646580e635c1a8f00f13514f7ce71e6a1bf1aef5bc82f894415",
       "width": 48,
       "height": 48,
       "alpha": false
@@ -1047,8 +1053,8 @@
     {
       "path": "production/03-social/di-avatar-dark-1200.png",
       "role": "social-artwork",
-      "bytes": 50374,
-      "sha256": "ffee80a529f37abc6e0f64405a2685c284062b4d2503f86290a555767461372c",
+      "bytes": 50259,
+      "sha256": "d65824729ac1e05310aef765ddd40cd95ad4e528418466974709ec589d8c6f4e",
       "width": 1200,
       "height": 1200,
       "alpha": false
@@ -1056,16 +1062,16 @@
     {
       "path": "production/03-social/di-avatar-dark.svg",
       "role": "social-artwork",
-      "bytes": 686,
-      "sha256": "63bc7603cdd7f40c5ad617d0da75bf3be3e19f5ff4998ea22f1084d5666a69a9",
+      "bytes": 742,
+      "sha256": "050d5a9e18559406aed18086686219c3cf5c1b3eaaad916b15cbc77a36866678",
       "width": 1200,
       "height": 1200
     },
     {
       "path": "production/03-social/di-avatar-light-1200.png",
       "role": "social-artwork",
-      "bytes": 50282,
-      "sha256": "672c9d941451c4ea9580212d1ef88985cb8ba97088aece607cfefe0d587e492d",
+      "bytes": 49633,
+      "sha256": "592f87624e1428e9352689e6ad2bbc2e8cfe9765fcf2ee5e97bd024587f89520",
       "width": 1200,
       "height": 1200,
       "alpha": false
@@ -1073,8 +1079,8 @@
     {
       "path": "production/03-social/di-avatar-light.svg",
       "role": "social-artwork",
-      "bytes": 686,
-      "sha256": "df7af874e5e09d04b28a7fc7e820c36a1d128f5b97cab97efc66d3deb3b2f1f5",
+      "bytes": 742,
+      "sha256": "31dfc2f6428a7da11ab8c35006ed4c9b7e9e83ae151a633b03d3ba810bb0dc2b",
       "width": 1200,
       "height": 1200
     },
@@ -1183,8 +1189,8 @@
     {
       "path": "production/05-proofs/identity-overview.png",
       "role": "identity-overview",
-      "bytes": 135148,
-      "sha256": "d802cb29ca261724ff6c49c892ad4d80ca1aa5fe89d82eff08bd854531e9450e",
+      "bytes": 134119,
+      "sha256": "984e03b53092c43b6499813bf79f75e5cf028eedfad05008fc7b9de9803dca7b",
       "width": 1800,
       "height": 1200,
       "alpha": false
@@ -1192,16 +1198,16 @@
     {
       "path": "production/05-proofs/identity-overview.svg",
       "role": "identity-overview",
-      "bytes": 136427,
-      "sha256": "d0cd822451028729247ff1ec71dd17851037dc35e362e9d373c26921c0b04a61",
+      "bytes": 137797,
+      "sha256": "f1c3611581a8f0fdbf9648499930c0d23a9feae19de4d11b972dd4481db8c4e4",
       "width": 1800,
       "height": 1200
     },
     {
       "path": "releases/README.md",
       "role": "documentation",
-      "bytes": 3815,
-      "sha256": "7bda1342990b80685954895ee3fcf4479b5392cbfd36a7bdad26fe7e889d2d0c"
+      "bytes": 3830,
+      "sha256": "19475d8db7877a9adccf70ed2b0cbf6ce1d62114864b4f747a0ce36e351f0d13"
     },
     {
       "path": "requirements.txt",
@@ -1213,7 +1219,7 @@
       "path": "site/README.md",
       "role": "public-page-source",
       "bytes": 4471,
-      "sha256": "afdfd857ef24dd4aa837daf2e65c874d9cec07434a0508989b0b5ec1142130e6"
+      "sha256": "9d25b60e9eebc3b6a9121daf2e4e2cf33f508384498b95b4beb6dbc6d6c4ddb0"
     },
     {
       "path": "site/brand.css",
@@ -1230,68 +1236,68 @@
     {
       "path": "site/index.html",
       "role": "public-page-source",
-      "bytes": 10671,
-      "sha256": "775cf248c4709884ab389030371416a38e427288a5d12ce67e1bf1ea1cfc5b47"
+      "bytes": 10766,
+      "sha256": "73ead37dd7a47c04eebf198e61fd659b2883fea74a3767042be92a9420e90f06"
     },
     {
       "path": "templates/applications/README.md",
       "role": "editable-template",
       "bytes": 7714,
-      "sha256": "c1928312f8919e0ff19fca13815b21ec38974f094290b10a2625e933a705ab9e"
+      "sha256": "d337883525970f00135b24888b9efc448c54986edfc14cf5012595dc85881a9e"
     },
     {
       "path": "templates/applications/application.css",
       "role": "editable-template",
       "bytes": 15776,
-      "sha256": "48e4c39759d376a24a9e9ce59adee6e35e9d05e33a0139ffc8046b8a434f26a1"
+      "sha256": "572e3fda8ff2ac8a0829cf25b3ca314a9a2114932416b09a8c5b2860cef748f1"
     },
     {
       "path": "templates/applications/business-card.html",
       "role": "editable-template",
       "bytes": 1748,
-      "sha256": "bd8bd33637683b5b26f3f92e2cd9616238b9620f8ca73010a377b7611cbfd6b1"
+      "sha256": "44f04897c491cc054d65c07fa7902e89e9500421152992d51a5bd5e03b5c34e3"
     },
     {
       "path": "templates/applications/decision-brief.html",
       "role": "editable-template",
       "bytes": 3895,
-      "sha256": "631bdeed3f2e91a1dd44d422e1a3ed565fa994de5821478bd5f7125c71c5d858"
+      "sha256": "653da80e551454dd1e560ef680cf7eaec345ba39cd4e07a4d540aadcc01bd72a"
     },
     {
       "path": "templates/applications/email-signature.html",
       "role": "editable-template",
       "bytes": 3352,
-      "sha256": "0acf89399b99ed8c958c4185b629513552542eb34f39d9bf0122dbd0540a8ad6"
+      "sha256": "179981658ff4c70b4da448a42885dc81f0f1fbfcc5b605719c073c58b5c19a26"
     },
     {
       "path": "templates/applications/index.html",
       "role": "editable-template",
       "bytes": 2626,
-      "sha256": "45fcca55bd96de4ce7ac8254a8bb37714585144877f805f1ec3ae5fabdff1a2a"
+      "sha256": "a6feb47aab09123f4d45e790fac463618bf8ad0e6b2fe78c85bd8acd931767a2"
     },
     {
       "path": "templates/applications/letterhead.html",
       "role": "editable-template",
       "bytes": 2273,
-      "sha256": "50854cf57fafb57c3e68146ff2fc1dc4829572d29cd934661e2443452119887e"
+      "sha256": "d68b23fbae7a4fe522f2bb9de177279d9400432f175c112f2b54950f09e166c8"
     },
     {
       "path": "templates/applications/presentation.html",
       "role": "editable-template",
       "bytes": 3931,
-      "sha256": "cb208119fc1d980148a56bf48fd2ade57cadf85cd7dd1ca2c58d4627ae38795f"
+      "sha256": "9b93db5ecc1add12fbb3202893e040838fe8be1d33ded35a26563f73da95284b"
     },
     {
       "path": "templates/applications/product-moments.html",
       "role": "editable-template",
       "bytes": 5331,
-      "sha256": "e4ffbd6bae9d8065ad96d87cc3f4246cb77787dc87764541f427171623e3c8fe"
+      "sha256": "895e90d7438d4b6441c34d52df66d3a462d334724b38e02238a43236395c7612"
     },
     {
       "path": "templates/applications/social-layouts.html",
       "role": "editable-template",
       "bytes": 3852,
-      "sha256": "da60e722f4f2ce2ea5313b67bf5664a1df940279593e044bed072c9941bc4a85"
+      "sha256": "ff2748b6cd0e423927966ccca540f4f882038d0ccaa8d610b345ffe2ffb04d38"
     },
     {
       "path": "templates/briefs/campaign.md",
@@ -1332,14 +1338,14 @@
     {
       "path": "tools/build.py",
       "role": "build-tool",
-      "bytes": 10043,
-      "sha256": "9fe63fb9f1590dc625e631626e31f4e99946f693944fddee292767a4a1754bd4"
+      "bytes": 10313,
+      "sha256": "8ce2e70eef6bf9d3cdb61ae20d8cf8e798efafaa0a4e4a2b1a95f67969744c67"
     },
     {
       "path": "tools/build_manual.py",
       "role": "build-tool",
-      "bytes": 9352,
-      "sha256": "c7364b26add6224df421668a25c12ed3e42983239cf5da36ee95f00bd6c7b5eb"
+      "bytes": 9721,
+      "sha256": "a3300683898ed322d4603d5fd922dd9940f483638be8a8ff16494c2d336b3455"
     },
     {
       "path": "tools/package_release.py",
@@ -1374,7 +1380,7 @@
   ],
   "kits": {
     "brand": {
-      "path": "releases/decisioninvitation-brand-0.3.1.zip",
+      "path": "releases/decisioninvitation-brand-0.3.2.zip",
       "files": [
         ".gitignore",
         "AGENTS.md",
@@ -1408,6 +1414,7 @@
         "docs/decisions/0001-independent-catalyst-identity.md",
         "docs/decisions/0002-decision-instrument-identity.md",
         "docs/decisions/0003-multipath-d-refinement.md",
+        "docs/decisions/0004-negative-space-convergence.md",
         "docs/email-and-documents.md",
         "docs/governance-and-release.md",
         "docs/logo-standards.md",
@@ -1564,7 +1571,7 @@
       ]
     },
     "logos": {
-      "path": "releases/decisioninvitation-logos-0.3.1.zip",
+      "path": "releases/decisioninvitation-logos-0.3.2.zip",
       "files": [
         "ASSET-LICENSE.md",
         "brand-system.json",
@@ -1654,7 +1661,7 @@
       ]
     },
     "templates": {
-      "path": "releases/decisioninvitation-templates-0.3.1.zip",
+      "path": "releases/decisioninvitation-templates-0.3.2.zip",
       "files": [
         "ASSET-LICENSE.md",
         "assets/fonts/LICENSE-Sora.txt",
@@ -1770,7 +1777,7 @@
       ]
     },
     "webfonts": {
-      "path": "releases/decisioninvitation-webfonts-0.3.1.zip",
+      "path": "releases/decisioninvitation-webfonts-0.3.2.zip",
       "files": [
         "ASSET-LICENSE.md",
         "assets/fonts/LICENSE-Sora.txt",

@@ -1,6 +1,6 @@
 # DecisionInvitation corporate identity
 
-**System:** Decision Instrument · **Version:** 0.3.1 · **Status:** proposal for owner review
+**System:** Decision Instrument · **Version:** 0.3.2 · **Status:** proposal for owner review
 
 DecisionInvitation is the catalyst between thoughtful analysis and an accountable decision. It is a standalone product identity with one deliberately quiet lineage cue.
 
@@ -12,8 +12,8 @@ DecisionInvitation is the catalyst between thoughtful analysis and an accountabl
 | Primary idea | Catalyst of analysis. |
 | Product promise | Better input. Clearer decisions. |
 | Supporting line | Ask separately. Decide clearly. |
-| Mark | Multipath D: a dominant D, analytical paths, and a lowercase i |
-| Graphic grammar | Lanes, threshold, resolved outcome |
+| Mark | Multipath D: five inputs, one implied spine, one decision point, and a lowercase i |
+| Graphic grammar | Aligned inputs, implied axis, shared convergence |
 | Color | Register, Cobalt, Periwinkle, Optic, White |
 | Provenance | One small Suki Orange dot over the lowercase i |
 | Type | Sora Regular and SemiBold |
@@ -27,7 +27,7 @@ Use the primary lockup when the audience has not yet learned the name. Use the s
 
 ## Visual behavior
 
-The D is always the first read. Fine paths within its counter express multiple perspectives without weakening the letter. The lowercase i keeps the signature specific to DecisionInvitation, while its orange dot quietly records provenance. This hierarchy may structure a page, document, presentation, campaign, or product moment without becoming a literal process diagram.
+The D is always the first read. Five unconnected inputs share an aligned origin, allowing negative space to imply the missing post. Their common endpoint expresses analysis resolving into direction; the lighter internal paths keep multiple perspectives visible without weakening the letter. The lowercase i keeps the signature specific to DecisionInvitation, while its orange dot quietly records provenance. This hierarchy may structure a page, document, presentation, campaign, or product moment without becoming a literal process diagram.
 
 Build from square corners, exact baselines, ruled regions, and split planes. A 58/42 division is characteristic but not mandatory. Keep long prose between roughly 55 and 75 characters per line. Avoid gradients, soft blobs, glass effects, card clouds, editorial chapter numbers, and the parent identity's cream/navy atmosphere.
 

@@ -1,10 +1,10 @@
 # Art direction
 
-The visual world is a decision instrument: perspectives enter as separate lanes, cross a fixed commitment threshold, and resolve into one accountable outcome.
+The visual world is a decision instrument: perspectives enter independently, align without being forced together, and resolve at one accountable point.
 
 ## Composition grammar
 
-- Begin with two or three distinct horizontal lanes.
+- Begin with distinct horizontal inputs sharing an implied origin.
 - Use converging fine paths to show analysis becoming direction.
 - Keep the dominant structure strong enough that the paths remain secondary.
 - Place the orange lineage cue only on the lowercase i dot.
