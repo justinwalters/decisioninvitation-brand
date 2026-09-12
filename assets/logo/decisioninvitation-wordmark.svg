@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
   <title id="title">DecisionInvitation wordmark</title>
   <desc id="desc">The DecisionInvitation DI mark followed by the DecisionInvitation name.</desc>
-  <g fill="#042747"><path d="M14 26h45c35 0 60 23 60 59s-25 59-60 59H14V26Zm33 27v64h10c15 0 25-11 25-32s-10-32-25-32H47Z"/><rect x="94" y="68" width="12" height="49" rx="2"/><text x="126" y="110" font-family="Lexend, Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="-1.5">DecisionInvitation</text></g>
-  <circle cx="100" cy="47" r="8" fill="#D54B1E"/>
+  <g fill="#042747"><path d="M14 26h27c32 0 54 23 54 59s-22 59-54 59H14V26Zm33 27v64c10 0 15-11 15-32s-5-32-15-32Z"/><rect x="105" y="68" width="12" height="49" rx="2"/><text x="137" y="110" font-family="Lexend, Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="29" font-weight="650" letter-spacing="-1.5">DecisionInvitation</text></g>
+  <circle cx="111" cy="47" r="8" fill="#D54B1E"/>
 </svg>
