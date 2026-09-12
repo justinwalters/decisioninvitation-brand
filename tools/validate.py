@@ -54,7 +54,7 @@ def check_identity(root):
         for label, colors in [('source', source.get('colors')), ('brand-system', system.get('identity', {}).get('palette')),
                               ('tokens', tokens.get('primitive', {}).get('color'))]:
             if colors != PALETTE:
-                issues.append(f'{label} palette differs from the version 0.3.0 identity palette')
+                issues.append(f'{label} palette differs from the canonical identity palette')
         semantic = tokens.get('semantic', {})
         expected = {'surface': PALETTE['optic'], 'text': PALETTE['register'], 'textMuted': '#5F5870',
                     'action': PALETTE['cobalt'], 'onAction': PALETTE['white'], 'focus': PALETTE['cobalt'],

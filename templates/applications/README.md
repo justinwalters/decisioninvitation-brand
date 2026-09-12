@@ -1,6 +1,6 @@
 # DecisionInvitation application masters
 
-**System:** 0.3.0 identity proposal · **Creative direction:** Catalyst of analysis. · **Supporting promise:** Ask separately. Decide clearly.
+**System:** 0.3.1 identity proposal · **Creative direction:** Catalyst of analysis. · **Supporting promise:** Ask separately. Decide clearly.
 
 These are editable HTML/CSS source masters. They are not screenshots, locked PDFs, finished customer communications, or evidence of a deployed workflow. Open [the application index](index.html) from a local HTTP server serving the repository root. The HTML can also be opened directly when the browser permits local fonts and images.
 
@@ -8,7 +8,7 @@ These are editable HTML/CSS source masters. They are not screenshots, locked PDF
 
 The audience is a decision owner, an invited contributor, or someone encountering the product through ordinary business correspondence. Each artifact should make the next useful thought or action clear. The identity acts as a catalyst for analysis that leads to a responsible decision; it does not promise speed, agreement, objectivity, or a guaranteed outcome.
 
-The system is calm but active: separate perspectives, a precise threshold, a clearly held question, and an identifiable next step. Sora carries both voice and utility. Register, Cobalt, Periwinkle, and Optic make the independent product recognizable. The orange point after the threshold supplies the subtle provenance cue. There are no additional orange decorations, parent-brand layouts, invented endorsement seals, or acquisition claims.
+The system is calm but active: an unmistakable D, fine internal perspective paths, a clearly held question, and an identifiable next step. Sora carries both voice and utility. Register, Cobalt, Periwinkle, and Optic make the independent product recognizable. The orange lowercase-i dot supplies the subtle provenance cue. There are no additional orange decorations, parent-brand layouts, invented endorsement seals, or acquisition claims.
 
 The current assignment's `Catalyst of analysis.` language takes precedence over earlier campaign-line proposals. Source assets and the overall identity remain proposals until user approval is recorded. These applications must not be relabeled approved by exporting or publishing them.
 

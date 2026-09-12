@@ -5,8 +5,9 @@ The visual world is a decision instrument: perspectives enter as separate lanes,
 ## Composition grammar
 
 - Begin with two or three distinct horizontal lanes.
-- Use one vertical gate as the moment responsibility changes.
-- Place the orange lineage point only beyond that gate.
+- Use converging fine paths to show analysis becoming direction.
+- Keep the dominant structure strong enough that the paths remain secondary.
+- Place the orange lineage cue only on the lowercase i dot.
 - Prefer split planes, hard alignment, square corners, and visible rules.
 - Use a 58/42 split when a page needs a characteristic asymmetry.
 - Let evidence and language occupy real space; decoration stays secondary.

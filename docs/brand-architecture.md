@@ -6,7 +6,7 @@ DecisionInvitation is the visible product brand. It should be recognized without
 
 The permitted endorsement is `an aSUKIra company`, restricted to legal, about, procurement, and footer contexts. Keep it secondary and typographic. Do not create a co-lockup.
 
-The single visual provenance signal is Suki Orange on the small point beyond the Commitment Gate. Orange must remain below 2% of any composition and may not encode product state.
+The single visual provenance signal is Suki Orange on the lowercase i dot in the Multipath D signature. Orange must remain below 2% of any composition and may not encode product state.
 
 ## Prohibited inheritance
 

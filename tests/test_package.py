@@ -18,8 +18,9 @@ class PackageTests(unittest.TestCase):
             self.assertEqual(len(data), entry['bytes'])
 
     def test_download_kits_contain_real_assets_and_licenses(self):
+        version = json.loads((ROOT/'brand-system.json').read_text())['version']
         for kind in ['brand', 'logos', 'templates', 'webfonts']:
-            with zipfile.ZipFile(ROOT/f'releases/decisioninvitation-{kind}-0.3.0.zip') as bundle:
+            with zipfile.ZipFile(ROOT/f'releases/decisioninvitation-{kind}-{version}.zip') as bundle:
                 self.assertIsNone(bundle.testzip())
                 self.assertTrue(bundle.namelist())
                 self.assertFalse(any(n.endswith('.zip') for n in bundle.namelist()))

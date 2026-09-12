@@ -37,23 +37,27 @@ def lettering(text,size,x,y,color,weight='Regular',tracking=0):
         cursor+=glyph.width*scale+tracking
     return f'<g fill="{color}">{"".join(paths)}</g>',cursor-x
 
-def mark(color,point,micro=False):
+def mark(color,point,internal=None,micro=False):
     m=S['mark']; p=m['lineagePoint']
-    return f'<path fill="{color}" d="{m["microBody" if micro else "body"]}"/><circle fill="{point}" cx="{p["cx"]}" cy="{p["cy"]}" r="{p["r"]}"/>'
+    paths=m['microInternalPaths' if micro else 'internalPaths']
+    width=m['microInternalStrokeWidth' if micro else 'internalStrokeWidth']
+    inner=internal or color
+    detail=''.join(f'<path d="{path}"/>' for path in paths)
+    return f'<path fill="{color}" fill-rule="evenodd" d="{m["microBody" if micro else "body"]}"/><g fill="none" stroke="{inner}" stroke-width="{width}" stroke-linecap="square" stroke-linejoin="miter">{detail}</g><circle fill="{point}" cx="{p["cx"]}" cy="{p["cy"]}" r="{p["r"]}"/>'
 
 def raster(src,dst,width,background=None): JOBS.append({'src':str(src),'dst':str(dst),'width':width,'background':background})
 
 def logos():
-    variants={'primary':(C['register'],C['orange']),'reverse':(C['white'],C['orange']),'ink':(C['register'],C['register']),'white':(C['white'],C['white'])}
-    for variant,(color,point) in variants.items():
+    variants={'primary':(C['register'],C['orange'],C['periwinkle']),'reverse':(C['white'],C['orange'],C['periwinkle']),'ink':(C['register'],C['register'],C['register']),'white':(C['white'],C['white'],C['white'])}
+    for variant,(color,point,internal) in variants.items():
         word,ww=lettering('DecisionInvitation',66,0,78,color,'SemiBold',-1.4)
         lockword,lw=lettering('DecisionInvitation',66,165,96,color,'SemiBold',-1.4)
         first,_=lettering('Decision',70,0,0,color,'SemiBold',-1.2); second,_=lettering('Invitation',70,0,0,color,'SemiBold',-1.2)
         family={
-          'mark':(256,256,mark(color,point)), 'micro':(256,256,mark(color,point,True)),
+          'mark':(256,256,mark(color,point,internal)), 'micro':(256,256,mark(color,point,internal,True)),
           'wordmark':(math.ceil(ww+8),104,f'<g transform="translate(4)">{word}</g>'),
-          'lockup':(math.ceil(lw+178),146,f'<g transform="scale(.57)">{mark(color,point)}</g>{lockword}'),
-          'stacked':(420,400,f'<g transform="scale(.64)">{mark(color,point)}</g><g transform="translate(16 245)">{first}</g><g transform="translate(16 319)">{second}</g>')}
+          'lockup':(math.ceil(lw+178),146,f'<g transform="scale(.57)">{mark(color,point,internal)}</g>{lockword}'),
+          'stacked':(420,400,f'<g transform="scale(.64)">{mark(color,point,internal)}</g><g transform="translate(16 245)">{first}</g><g transform="translate(16 319)">{second}</g>')}
         for kind,(w,h,body) in family.items():
             src=write(f'production/01-logo/svg/di-{kind}-{variant}.svg',svg(w,h,body))
             for width in ([256,1024] if kind in ('mark','micro') else [1200,2400]):
@@ -70,11 +74,11 @@ def tokens():
 
 def applications():
     for size in (16,32,48,180,192,512,1024):
-        body=f'<rect width="256" height="256" fill="{C["optic"]}"/><g transform="translate(19 10) scale(.85)">{mark(C["register"],C["orange"],size<=32)}</g>'
+        body=f'<rect width="256" height="256" fill="{C["optic"]}"/><g transform="translate(19 10) scale(.85)">{mark(C["register"],C["orange"],C["periwinkle"],size<=32)}</g>'
         src=write(f'production/02-digital/di-icon-{size}.svg',svg(256,256,body)); raster(src,OUT/f'02-digital/di-icon-{size}.png',size)
     for variant in ('light','dark'):
         bg=C['optic'] if variant=='light' else C['register']; fg=C['register'] if variant=='light' else C['white']
-        src=write(f'production/03-social/di-avatar-{variant}.svg',svg(1200,1200,f'<rect width="1200" height="1200" fill="{bg}"/><g transform="translate(244 216) scale(2.8)">{mark(fg,C["orange"])}</g>'))
+        src=write(f'production/03-social/di-avatar-{variant}.svg',svg(1200,1200,f'<rect width="1200" height="1200" fill="{bg}"/><g transform="translate(244 216) scale(2.8)">{mark(fg,C["orange"],C["periwinkle"])}</g>'))
         raster(src,OUT/f'03-social/di-avatar-{variant}-1200.png',1200)
     for name,w,h in [('share-card',1200,630),('square',1200,1200),('portrait',1080,1350),('story',1080,1920),('header',2400,800),('presentation',1920,1080)]:
         body=f'<rect width="{w}" height="{h}" fill="{C["register"]}"/><rect x="{w*.58}" width="{w*.42}" height="{h}" fill="{C["cobalt"]}"/>'
@@ -91,7 +95,7 @@ def applications():
     text,_=lettering('DecisionInvitation / Decision instrument 0.3 / Design proposal',25,80,195,C['cobalt']); body+=text
     samples=[('Primary',C['white'],C['register']),('Reverse',C['register'],C['white']),('One color',C['periwinkle'],C['register'])]
     for i,(label,bg,fg) in enumerate(samples):
-        x=80+i*565; body+=f'<rect x="{x}" y="260" width="535" height="450" fill="{bg}"/><g transform="translate({x+127} 310) scale(1.1)">{mark(fg,C["orange"] if i<2 else fg)}</g>'
+        x=80+i*565; inner=C['periwinkle'] if i<2 else fg; body+=f'<rect x="{x}" y="260" width="535" height="450" fill="{bg}"/><g transform="translate({x+127} 310) scale(1.1)">{mark(fg,C["orange"] if i<2 else fg,inner)}</g>'
         text,_=lettering(label,28,x+30,675,fg,'SemiBold'); body+=text
     for i,(name,value) in enumerate(C.items()):
         x=80+i*275; body+=f'<rect x="{x}" y="770" width="255" height="160" fill="{value}" stroke="{C["register"]}" stroke-width=".5"/>'
@@ -118,4 +122,4 @@ if __name__=='__main__':
     from PIL import Image
     imgs=[Image.open(OUT/f'02-digital/di-icon-{s}.png') for s in (16,32,48)]
     imgs[-1].save(OUT/'02-digital/favicon.ico',format='ICO',sizes=[(16,16),(32,32),(48,48)],append_images=imgs[:-1])
-    print(f'Built Commitment Gate identity, tokens and {len(JOBS)} raster exports.')
+    print(f'Built Multipath D identity, tokens and {len(JOBS)} raster exports.')

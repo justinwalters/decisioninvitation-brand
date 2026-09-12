@@ -6,7 +6,7 @@ DecisionInvitation speaks as an independent product. Social work uses the Decisi
 
 | Surface | Composition target | Content rule |
 |---|---:|---|
-| Profile/avatar | 1024 × 1024 | Commitment Gate mark; test circular and square crops at 32 px |
+| Profile/avatar | 1024 × 1024 | Multipath D mark; test circular and square crops at 32 px |
 | Feed square | 1080 × 1080 | One tension, one threshold, full product name |
 | Feed portrait | 1080 × 1350 | More evidence or perspective, never more decoration |
 | Link preview | 1200 × 630 | Essential type inside the central field; full name |
@@ -25,6 +25,6 @@ Lead brand-establishing work with “Catalyst of analysis.” Supporting lines i
 
 ## Identity restraint
 
-Use one signature or mark per composition. Orange appears only as the tiny post-threshold lineage point and never exceeds two percent of the artwork. Avoid parent-brand typography, cream/navy fields, editorial numbering, generic AI sparkles, stock boardrooms, gradients, rounded card piles, or orange decoration.
+Use one signature or mark per composition. Orange appears only as the lowercase i dot and never exceeds two percent of the artwork. Avoid parent-brand typography, cream/navy fields, editorial numbering, generic AI sparkles, stock boardrooms, gradients, rounded card piles, or orange decoration.
 
 Before publication, check crop, thumbnail legibility, accessible caption, verified link, evidence for every product claim, image permission, and release status. Asset creation does not prove account ownership, username availability, platform verification, scheduling, or publication.

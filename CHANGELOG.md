@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.1 — 2026-09-12 — Multipath D refinement
+
+- Rebuilt the signature around an unmistakable capital D with clearly defined upper and lower bowl geometry.
+- Retained the multiple-perspective idea as three thinner, lighter Periwinkle paths inside the D counter.
+- Added a distinct lowercase i and moved the quiet aSUKIra provenance cue to its Suki Orange dot.
+- Updated the master, micro mark, lockups, digital icons, social files, manual, public brand center, standards, and release kits.
+- Recorded the refinement and its constraints in ADR 0003. The identity remains a proposal pending owner review.
+
 ## 0.3.0 — 2026-09-12 — Decision Instrument proposal
 
 Replaced the parent-adjacent editorial identity with an independent system derived from the product's role between analysis and commitment.

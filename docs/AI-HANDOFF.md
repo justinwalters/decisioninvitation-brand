@@ -6,7 +6,7 @@ Use these rules when generating DecisionInvitation material.
 
 1. Treat DecisionInvitation as an independent product, not an aSUKIra theme.
 2. Use Sora, Register, Cobalt, Periwinkle, Optic, and White.
-3. Use Suki Orange only as the tiny post-threshold provenance point, capped at two percent of a composition.
+3. Use Suki Orange only as the tiny lowercase-i dot in the color signature, capped at two percent of a composition.
 4. Build layouts from separate analytical lanes and one fixed commitment threshold.
 5. Keep corners square, alignment exact, and language plain.
 6. Do not invent product capabilities, approvals, certifications, customers, delivery evidence, or acquisition details.
@@ -14,4 +14,4 @@ Use these rules when generating DecisionInvitation material.
 
 ## Reject on sight
 
-Reject orange-led palettes, parent-brand fonts, cream/navy editorial pages, `Di` monograms, soft SaaS gradients, rounded card clouds, checkmark symbols, speech bubbles, and decorative data visualizations. Generated material must remain understandable when the logo and orange point are removed.
+Reject orange-led palettes, parent-brand fonts, cream/navy editorial pages, typed `Di` substitutes, soft SaaS gradients, rounded card clouds, checkmark symbols, speech bubbles, and decorative data visualizations. Preserve the bespoke Multipath D geometry and its thin internal paths. Generated material must remain understandable when the logo and orange dot are removed.

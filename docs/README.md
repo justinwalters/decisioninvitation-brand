@@ -4,7 +4,7 @@
 | --- | --- |
 | `brand-strategy.md` | category, audience, position, promise, personality |
 | `brand-architecture.md` | standalone-product and parent-provenance rules |
-| `logo-standards.md` | Commitment Gate construction, variants, scale, misuse |
+| `logo-standards.md` | Multipath D construction, variants, scale, misuse |
 | `color-and-accessibility.md` | palette roles, orange cap, contrast policy |
 | `typography.md` | Sora hierarchy and implementation |
 | `art-direction.md` | lanes, thresholds, split planes, image behavior |
@@ -18,4 +18,4 @@
 | `AI-HANDOFF.md` | machine-readable implementation constraints |
 | `decisions/0002-decision-instrument-identity.md` | rationale for the independent direction |
 
-Canonical machine-readable decisions live in `brand-system.json` and `assets/source/identity.json`. Version 0.3.0 is pending owner review.
+Canonical machine-readable decisions live in `brand-system.json` and `assets/source/identity.json`. Version 0.3.1 is pending owner review.

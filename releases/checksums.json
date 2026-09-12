@@ -1,29 +1,29 @@
 {
   "schemaVersion": "1.0",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "status": "proposal-pending-owner-review",
   "algorithm": "SHA-256",
-  "manifestSha256": "6ba8099da4fc0b8f4ff716caaaa67e30a34fb095b88fccc34668cc39c87d112e",
+  "manifestSha256": "5cac5f706421b513f45a40d25549a183238b5dfc31aa03b3b4bb55ce5e0847b5",
   "kits": [
     {
-      "path": "releases/decisioninvitation-brand-0.3.0.zip",
-      "bytes": 1925223,
-      "sha256": "efffeffcf5c06417b1ef33212cb43dc300cfed7a09e7ed9058fcad3538ef9998"
+      "path": "releases/decisioninvitation-brand-0.3.1.zip",
+      "bytes": 2166627,
+      "sha256": "fb0df6726ba657d59bd8591a6e3ccb3622083f361045c6e84058c8612557c487"
     },
     {
-      "path": "releases/decisioninvitation-logos-0.3.0.zip",
-      "bytes": 1133936,
-      "sha256": "03d9463a612b373cace840a4d9c0bec7d186761bdf1ffacd0fcd6de835767b57"
+      "path": "releases/decisioninvitation-logos-0.3.1.zip",
+      "bytes": 1329990,
+      "sha256": "94c464d1c86fba5802beb211d88b81befc82d3502d4e9037a587bd261854f152"
     },
     {
-      "path": "releases/decisioninvitation-templates-0.3.0.zip",
-      "bytes": 1322560,
-      "sha256": "53d836e628588dc278dec2eb822954f89946e1c3de8f1134ef12f890e8fed785"
+      "path": "releases/decisioninvitation-templates-0.3.1.zip",
+      "bytes": 1518621,
+      "sha256": "68686305055f968abb9db500463b7d0afc845f6b84d15152759203e7cbea97bb"
     },
     {
-      "path": "releases/decisioninvitation-webfonts-0.3.0.zip",
-      "bytes": 172841,
-      "sha256": "40f9cd79b06a5e6f8d411cdd799f323945f981324153e5c199ea554b070a6b07"
+      "path": "releases/decisioninvitation-webfonts-0.3.1.zip",
+      "bytes": 172962,
+      "sha256": "bdba4e7c3ed1706ed1cdc0acd3ef2755e33bf4122f9d86a25dd785166ff5474b"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # DecisionInvitation corporate identity
 
-**System:** Decision Instrument · **Version:** 0.3.0 · **Status:** proposal for owner review
+**System:** Decision Instrument · **Version:** 0.3.1 · **Status:** proposal for owner review
 
 DecisionInvitation is the catalyst between thoughtful analysis and an accountable decision. It is a standalone product identity with one deliberately quiet lineage cue.
 
@@ -12,28 +12,28 @@ DecisionInvitation is the catalyst between thoughtful analysis and an accountabl
 | Primary idea | Catalyst of analysis. |
 | Product promise | Better input. Clearer decisions. |
 | Supporting line | Ask separately. Decide clearly. |
-| Mark | Commitment Gate: perspectives crossing a fixed threshold |
+| Mark | Multipath D: a dominant D, analytical paths, and a lowercase i |
 | Graphic grammar | Lanes, threshold, resolved outcome |
 | Color | Register, Cobalt, Periwinkle, Optic, White |
-| Provenance | One small Suki Orange point after the threshold |
+| Provenance | One small Suki Orange dot over the lowercase i |
 | Type | Sora Regular and SemiBold |
 | Voice | Clear, composed, invitational, accountable |
 
 ## Name and signature
 
-Write `DecisionInvitation` as one word with a capital D and I. Do not abbreviate it to DI in public prose. The Commitment Gate is a symbol, not a letterform, checkmark, score, status light, or guarantee that a decision is complete.
+Write `DecisionInvitation` as one word with a capital D and I. Do not abbreviate it to DI in public prose. The Multipath D is a bespoke letterform signature, not typed initials, a checkmark, score, status light, or guarantee that a decision is complete.
 
-Use the primary lockup when the audience has not yet learned the name. Use the standalone mark for favicons, avatars, and repeated product contexts. Preserve the orange point in color signatures; one-color versions intentionally remove the lineage color while preserving the complete geometry.
+Use the primary lockup when the audience has not yet learned the name. Use the standalone mark for favicons, avatars, and repeated product contexts. Preserve the orange lowercase-i dot in color signatures; one-color versions intentionally remove the lineage color while preserving the complete geometry.
 
 ## Visual behavior
 
-Separate perspectives occupy lanes before the threshold. The gate marks where analysis becomes an owned choice. After it, the orange point quietly records provenance. This sequence may structure a page, document, presentation, campaign, or product moment without becoming a literal process diagram.
+The D is always the first read. Fine paths within its counter express multiple perspectives without weakening the letter. The lowercase i keeps the signature specific to DecisionInvitation, while its orange dot quietly records provenance. This hierarchy may structure a page, document, presentation, campaign, or product moment without becoming a literal process diagram.
 
 Build from square corners, exact baselines, ruled regions, and split planes. A 58/42 division is characteristic but not mandatory. Keep long prose between roughly 55 and 75 characters per line. Avoid gradients, soft blobs, glass effects, card clouds, editorial chapter numbers, and the parent identity's cream/navy atmosphere.
 
 ## Color and type
 
-Register carries text and structure. Cobalt is the action and focus color. Periwinkle identifies analytical space. Optic is the primary field. White provides reverse space. Suki Orange is capped at two percent and appears only as the post-threshold provenance point; it is never an action, warning, status, or feature color.
+Register carries text and the dominant letterforms. Cobalt is the action and focus color. Periwinkle identifies analytical space and the mark's secondary paths. Optic is the primary field. White provides reverse space. Suki Orange is capped at two percent and appears only as the lowercase i dot; it is never an action, warning, status, or feature color.
 
 Sora is the sole identity family. Regular carries statements and reading; SemiBold carries headings, actions, and compact metadata. Do not introduce a utility monospace or parent-brand typeface merely to create hierarchy.
 

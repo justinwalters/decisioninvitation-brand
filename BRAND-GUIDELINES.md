@@ -7,11 +7,11 @@
 ## Identity behavior
 
 - Lead with DecisionInvitation; it must read as a standalone product.
-- Use the Commitment Gate to represent distinct perspectives meeting a declared threshold.
+- Use the Multipath D so the product initial reads first and distinct perspectives appear as secondary structure.
 - Use Register and Optic for authority and clarity; use Cobalt for active structure.
 - Keep the Suki Orange point below 2% of the composition. It is provenance, never UI meaning.
 - Set all communication in Sora Regular or SemiBold.
-- Build layouts from lanes, split planes, hard alignment, and square corners.
+- Build layouts from deliberate paths, strong alignment, and square corners.
 - Never use parent-brand typography, palette combinations, co-lockups, or editorial chapter styling.
 
 ## Verbal system

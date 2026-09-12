@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "status": "Design proposal - owner review pending",
   "name": "DecisionInvitation",
   "idea": "Catalyst of analysis.",
@@ -13,11 +13,15 @@
     "white": "#FFFFFF"
   },
   "mark": {
-    "name": "Commitment Gate",
+    "name": "Multipath D",
     "viewBox": [0, 0, 256, 256],
-    "body": "M24 44H60L158 108H126L54 66H24Z M24 113H126L158 128L126 143H24Z M24 212H60L158 148H126L54 190H24Z M170 36H198V220H170Z",
-    "microBody": "M24 56H58L158 112H122L52 76H24Z M24 200H58L158 144H122L52 180H24Z M170 36H198V220H170Z",
-    "lineagePoint": {"cx": 222, "cy": 128, "r": 8},
+    "body": "M20 28H96C157 28 195 67 195 128C195 189 157 228 96 228H20ZM58 64V192H96C134 192 158 168 158 128C158 88 134 64 96 64Z M204 106H228V228H204Z",
+    "microBody": "M20 28H96C157 28 195 67 195 128C195 189 157 228 96 228H20ZM60 66V190H96C132 190 156 167 156 128C156 89 132 66 96 66Z M204 106H228V228H204Z",
+    "internalPaths": ["M70 88H98C119 88 135 104 151 120", "M70 128H151", "M70 168H98C119 168 135 152 151 136"],
+    "microInternalPaths": ["M72 94H98C118 94 134 108 149 121", "M72 162H98C118 162 134 148 149 135"],
+    "internalStrokeWidth": 7,
+    "microInternalStrokeWidth": 9,
+    "lineagePoint": {"cx": 216, "cy": 72, "r": 12},
     "clearSpace": 32,
     "minimumMasterPixels": 24,
     "minimumMicroPixels": 16,

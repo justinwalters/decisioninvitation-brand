@@ -6,7 +6,7 @@ The source of truth for the DecisionInvitation identity: strategy, standards, pr
 
 **Catalyst of analysis.** DecisionInvitation turns considered input into a clear next move without manufacturing consensus or taking responsibility from the decision owner.
 
-The visual system is a **Decision Instrument**. Its Commitment Gate mark, Sora typography, cool instrument palette, ruled lanes, and hard thresholds stand apart from aSUKIra. A tiny Suki Orange point is a provenance signal only.
+The visual system is a **Decision Instrument**. Its Multipath D mark, Sora typography, cool instrument palette, ruled lanes, and hard thresholds stand apart from aSUKIra. A tiny Suki Orange dot over the lowercase i is a provenance signal only.
 
 ## Start here
 
@@ -19,7 +19,7 @@ The visual system is a **Decision Instrument**. Its Commitment Gate mark, Sora t
 
 ## Status
 
-Version 0.3.0 is a design proposal pending owner review. Local validation proves file integrity, not trademark clearance, owner approval, production print quality, deployment, or live-route acceptance.
+Version 0.3.1 is a design proposal pending owner review. Local validation proves file integrity, not trademark clearance, owner approval, production print quality, deployment, or live-route acceptance.
 
 ## Rebuild
 

@@ -1,6 +1,6 @@
 # ADR 0002: Decision Instrument identity
 
-Status: proposed; owner review pending
+Status: superseded by ADR 0003
 
 ## Decision
 

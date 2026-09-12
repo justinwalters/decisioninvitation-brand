@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "releaseStatus": "proposal-pending-owner-review",
   "name": "DecisionInvitation",
   "domain": "decisioninvitation.com",
@@ -14,7 +14,7 @@
     "homepageLanguageStatus": "explicitly-valued-by-user",
     "positioning": "A structured invitation to gather independent perspectives and turn analysis into responsible forward motion.",
     "visualDirection": "Decision Instrument",
-    "visualSignature": "Independent lanes cross the Commitment Gate; one orange lineage point appears after commitment.",
+    "visualSignature": "A clearly defined D contains three fine analytical paths; a lowercase i carries one orange provenance point.",
     "visualDirectionStatus": "proposed",
     "architecture": "Standalone product identity with a quiet aSUKIra provenance signal",
     "acquisitionClaim": false
@@ -33,7 +33,7 @@
     "measurements": {"viewBox":[0,0,256,256],"clearSpaceUnits":32,"masterMinimumCssPixels":24,"microMinimumCssPixels":16,"horizontalLockupWorkingMinimumCssPixels":180,"orangeShareMaxPercent":2}
   },
   "documentation": {
-    "index":"docs/README.md","handoff":"docs/AI-HANDOFF.md","strategy":"docs/brand-strategy.md","overview":"docs/brand-guidelines.md","logo":"docs/logo-standards.md","colorAccessibility":"docs/color-and-accessibility.md","typography":"docs/typography.md","artDirection":"docs/art-direction.md","motion":"docs/motion-and-interaction.md","voice":"docs/messaging-and-voice.md","website":"docs/website-guidelines.md","social":"docs/social-media-guidelines.md","emailPrintDocuments":"docs/email-and-documents.md","architecture":"docs/brand-architecture.md","claimsPrivacy":"docs/claims-and-privacy.md","governance":"docs/governance-and-release.md","adoption":"docs/adoption-register-template.md","decision":"docs/decisions/0002-decision-instrument-identity.md"
+    "index":"docs/README.md","handoff":"docs/AI-HANDOFF.md","strategy":"docs/brand-strategy.md","overview":"docs/brand-guidelines.md","logo":"docs/logo-standards.md","colorAccessibility":"docs/color-and-accessibility.md","typography":"docs/typography.md","artDirection":"docs/art-direction.md","motion":"docs/motion-and-interaction.md","voice":"docs/messaging-and-voice.md","website":"docs/website-guidelines.md","social":"docs/social-media-guidelines.md","emailPrintDocuments":"docs/email-and-documents.md","architecture":"docs/brand-architecture.md","claimsPrivacy":"docs/claims-and-privacy.md","governance":"docs/governance-and-release.md","adoption":"docs/adoption-register-template.md","decision":"docs/decisions/0003-multipath-d-refinement.md"
   },
   "artifacts":{"manual":"output/pdf/decisioninvitation-identity-manual.pdf","publicPageSource":"site/","briefs":"templates/briefs/"},
   "commands":{"build":"python3 tools/build.py","manual":"python3 tools/build_manual.py","validate":"python3 tools/validate.py"},
