@@ -11,6 +11,7 @@ The visual system is a **Decision Instrument**. Its negative-space Multipath D, 
 ## Start here
 
 - `output/pdf/decisioninvitation-identity-manual.pdf` — 16-page executive identity manual
+- `output/pdf/decisioninvitation-neuroinclusive-case-study.pdf` — evidence, product mechanism, competitive landscape, and validation plan
 - `docs/README.md` — complete standards index
 - `production/01-logo/` — outlined SVG, transparent PNG, and PDF masters
 - `templates/applications/` — editable communication specimens
@@ -19,13 +20,14 @@ The visual system is a **Decision Instrument**. Its negative-space Multipath D, 
 
 ## Status
 
-Version 0.3.2 is a design proposal pending owner review. Local validation proves file integrity, not trademark clearance, owner approval, production print quality, deployment, or live-route acceptance.
+Version 0.4.0 is a design proposal pending owner review. Local validation proves file integrity, not trademark clearance, owner approval, production print quality, deployment, clinical efficacy, or live-route acceptance.
 
 ## Rebuild
 
 ```sh
 npm run build
 .venv/bin/python tools/build_manual.py
+.venv/bin/python tools/build_case_study.py
 npm run release
 npm test
 npm run validate

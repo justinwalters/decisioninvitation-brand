@@ -2,7 +2,7 @@
 
 This repository defines DecisionInvitation's corporate identity and its public `/brand` reference. It is an independent product system within the aSUKIra family. Parent identity material supplies lineage and discipline; it does not override DecisionInvitation's documented choices.
 
-The current system is **0.3.2, a complete proposal for review**. “Catalyst of analysis.” is the user's explicit strategic direction. The visual direction, mark, and applications remain proposed. Do not promote a proposal to approved by renaming a folder, publishing a preview, or producing exports.
+The current system is **0.4.0, a complete proposal for review**. “Catalyst of analysis.” is the user's explicit strategic direction. The visual direction, mark, applications, and neuroinclusive design position remain proposed. Do not promote a proposal to approved by renaming a folder, publishing a preview, or producing exports.
 
 ## Start here
 
@@ -22,6 +22,7 @@ The current system is **0.3.2, a complete proposal for review**. “Catalyst of 
 - Use product source and deployment receipts for capability claims. Do not infer security, email delivery, encryption, compliance, or live availability from brand mockups.
 - No live participant data, addresses, tokens, credentials, private attachments, or customer logos in public examples or repository releases.
 - Labels, text, focus, and structural cues carry meaning alongside color. Essential content survives font fallback, keyboard use, reduced motion, and narrow viewports.
+- Treat neuroinclusion as a product-design discipline, not a diagnosis gate or clinical claim. Do not claim treatment, symptom change, universal accessibility, or improved decisions without direct evidence.
 - Render the mark from its source vector. Never trace a screenshot, auto-trace a raster, or modify generated exports by hand.
 - Keep proposals, review evidence, and approved releases distinguishable. Historical material stays out of public asset downloads.
 

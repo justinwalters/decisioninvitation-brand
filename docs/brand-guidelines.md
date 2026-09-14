@@ -1,6 +1,6 @@
 # DecisionInvitation corporate identity
 
-**System:** Decision Instrument · **Version:** 0.3.2 · **Status:** proposal for owner review
+**System:** Decision Instrument · **Version:** 0.4.0 · **Status:** proposal for owner review
 
 DecisionInvitation is the catalyst between thoughtful analysis and an accountable decision. It is a standalone product identity with one deliberately quiet lineage cue.
 

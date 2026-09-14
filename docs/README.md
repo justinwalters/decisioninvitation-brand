@@ -17,5 +17,7 @@
 | `governance-and-release.md` | ownership, change control, release evidence |
 | `AI-HANDOFF.md` | machine-readable implementation constraints |
 | `decisions/0002-decision-instrument-identity.md` | rationale for the independent direction |
+| `decisions/0005-neuroinclusive-decision-design.md` | neuroinclusive position, product rules, evidence gate |
+| `research/neuroinclusive-decision-design-case-study.md` | executive-function case, competitive landscape, validation plan, sources |
 
-Canonical machine-readable decisions live in `brand-system.json` and `assets/source/identity.json`. Version 0.3.2 is pending owner review.
+Canonical machine-readable decisions live in `brand-system.json` and `assets/source/identity.json`. Version 0.4.0 is pending owner review.

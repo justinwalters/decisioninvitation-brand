@@ -22,6 +22,15 @@ The sibling `suki-decisioninvitation/PRODUCT.md` is the current product-position
 | Free / Pro / subscription | Packaging is not a brand decision | Approved current plan definitions and live billing acceptance |
 | Compliant / certified / audited | No unsourced badges or shorthand | Exact scope, entity, date, assessor, and permission to publish |
 | Customer outcome or speed | No invented metrics or testimonials | Consented, relevant, attributable evidence and limitations |
+| Neuroinclusive by design | Use only for implemented and participatively tested structural choices; explain what they are | Current accessibility acceptance and paid neurodivergent participant research |
+| Executive-function support | Describe the design mechanism, such as externalized context or resumable steps | Product-specific usability evidence for any measured outcome |
+| Treats ADHD/autism or executive dysfunction | Do not use | Appropriate clinical evidence, regulatory/legal review, and explicit approval |
+
+## Neurodivergence and research claims
+
+Neurodivergent profiles are heterogeneous. Do not present ADHD, autism, dyslexia, or another identity as one fixed deficit profile. Do not imply that neurodivergent people are inherently indecisive. The product position is that a clear environment can remove avoidable demands on memory, rapid social processing, interruption recovery, and task initiation while preserving a person's judgment.
+
+Adjacent research can support a mechanism hypothesis; it does not prove product efficacy. “Designed to reduce avoidable cognitive and social load” is an intent statement. “Improves executive function,” “reduces paralysis,” and outcome comparisons require direct, relevant product research. See `docs/research/neuroinclusive-decision-design-case-study.md`.
 
 ## Participant respect
 

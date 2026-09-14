@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.0 — 2026-09-14 — Neuroinclusive decision design
+
+- Added a research-backed product and market case for DecisionInvitation as a neuroinclusive decision instrument.
+- Positioned the product for minds that benefit from context, time, resumable structure, explicit conditions, and a clear next step without making clinical or universal outcome claims.
+- Added product requirements for orientation, independent asynchronous response, autosave and re-entry, qualified answers, controlled reminders, accessible interaction, and owner-held closure.
+- Mapped the competitive landscape across collective governance, workshop tools, forms and polls, neuroinclusive planners, and work-execution products.
+- Added ADR 0005, a deep case-study source, a governed PDF artifact, public `/brand` content, claims controls, and Node.js product handoff guidance.
+- Preserved the existing homepage verbal foundation and all 0.3.2 visual identity decisions.
+
 ## 0.3.2 — 2026-09-12 — Negative-space convergence
 
 - Removed the literal vertical post from the Multipath D.

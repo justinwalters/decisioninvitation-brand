@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "releaseStatus": "proposal-pending-owner-review",
   "name": "DecisionInvitation",
   "domain": "decisioninvitation.com",
@@ -17,7 +17,9 @@
     "visualSignature": "Five independent inputs begin on an implied vertical axis and converge into a capital D; a lowercase i carries one orange provenance point.",
     "visualDirectionStatus": "proposed",
     "architecture": "Standalone product identity with a quiet aSUKIra provenance signal",
-    "acquisitionClaim": false
+    "acquisitionClaim": false,
+    "neuroinclusivePosition": "Designed for minds that do their best thinking with context, time, and a clear next step.",
+    "neuroinclusivePositionStatus": "proposed-design-intent-not-clinical-outcome"
   },
   "identity": {
     "source": "assets/source/identity.json",
@@ -33,10 +35,10 @@
     "measurements": {"viewBox":[0,0,256,256],"clearSpaceUnits":32,"masterMinimumCssPixels":24,"microMinimumCssPixels":16,"horizontalLockupWorkingMinimumCssPixels":180,"orangeShareMaxPercent":2}
   },
   "documentation": {
-    "index":"docs/README.md","handoff":"docs/AI-HANDOFF.md","strategy":"docs/brand-strategy.md","overview":"docs/brand-guidelines.md","logo":"docs/logo-standards.md","colorAccessibility":"docs/color-and-accessibility.md","typography":"docs/typography.md","artDirection":"docs/art-direction.md","motion":"docs/motion-and-interaction.md","voice":"docs/messaging-and-voice.md","website":"docs/website-guidelines.md","social":"docs/social-media-guidelines.md","emailPrintDocuments":"docs/email-and-documents.md","architecture":"docs/brand-architecture.md","claimsPrivacy":"docs/claims-and-privacy.md","governance":"docs/governance-and-release.md","adoption":"docs/adoption-register-template.md","decision":"docs/decisions/0004-negative-space-convergence.md"
+    "index":"docs/README.md","handoff":"docs/AI-HANDOFF.md","strategy":"docs/brand-strategy.md","overview":"docs/brand-guidelines.md","logo":"docs/logo-standards.md","colorAccessibility":"docs/color-and-accessibility.md","typography":"docs/typography.md","artDirection":"docs/art-direction.md","motion":"docs/motion-and-interaction.md","voice":"docs/messaging-and-voice.md","website":"docs/website-guidelines.md","social":"docs/social-media-guidelines.md","emailPrintDocuments":"docs/email-and-documents.md","architecture":"docs/brand-architecture.md","claimsPrivacy":"docs/claims-and-privacy.md","governance":"docs/governance-and-release.md","adoption":"docs/adoption-register-template.md","decision":"docs/decisions/0005-neuroinclusive-decision-design.md","neuroinclusiveCaseStudy":"docs/research/neuroinclusive-decision-design-case-study.md"
   },
-  "artifacts":{"manual":"output/pdf/decisioninvitation-identity-manual.pdf","publicPageSource":"site/","briefs":"templates/briefs/"},
-  "commands":{"build":"python3 tools/build.py","manual":"python3 tools/build_manual.py","validate":"python3 tools/validate.py"},
+  "artifacts":{"manual":"output/pdf/decisioninvitation-identity-manual.pdf","neuroinclusiveCaseStudy":"output/pdf/decisioninvitation-neuroinclusive-case-study.pdf","publicPageSource":"site/","briefs":"templates/briefs/"},
+  "commands":{"build":"python3 tools/build.py","manual":"python3 tools/build_manual.py","caseStudy":"python3 tools/build_case_study.py","validate":"python3 tools/validate.py"},
   "releaseGates":["source-and-export-validation","visual-and-accessibility-review","claims-review","explicit-owner-approval","repository-publication","host-acceptance","live-route-and-download-verification","consumer-adoption"],
   "publicExclusions":["private participant data","live invitation tokens","credentials","internal approval evidence","retired proposals","unverified capability claims"]
 }

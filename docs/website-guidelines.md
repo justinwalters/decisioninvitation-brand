@@ -7,3 +7,5 @@ Use the Decision Instrument grammar: aligned analytical inputs, implied origin, 
 Every page must support keyboard navigation, visible focus, reduced motion, semantic headings, useful alternative text, 200 percent zoom, and AA contrast. Links must remain identifiable without color alone. Product claims, privacy language, permissions, and participant visibility must match implemented behavior.
 
 The aSUKIra relationship belongs in a quiet footer or provenance note. It must not become a co-branded masthead.
+
+The neuroinclusive story belongs in a dedicated explanatory section, not as a badge or diagnosis-targeted campaign. Lead with conditions that help people contribute: context, time, a resumable path, visible privacy boundaries, and a clear next step. Preserve the existing homepage wording. A product page may add the approved neuroinclusive section around it, but must not rewrite the valued verbal foundation or claim implemented behavior without acceptance evidence.

@@ -1,7 +1,7 @@
 {
   "system": {
     "name": "DecisionInvitation",
-    "version": "0.3.2",
+    "version": "0.4.0",
     "status": "Design proposal - owner review pending"
   },
   "primitive": {

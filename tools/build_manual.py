@@ -16,7 +16,7 @@ pdfmetrics.registerFont(TTFont('Sora',str(ROOT/'assets/fonts/Sora-Regular.ttf'))
 pdfmetrics.registerFont(TTFont('SoraSemi',str(ROOT/'assets/fonts/Sora-SemiBold.ttf')))
 OUT.parent.mkdir(parents=True,exist_ok=True)
 c=canvas.Canvas(str(OUT),pagesize=(W,H),pageCompression=1,invariant=1)
-c.setTitle('DecisionInvitation Corporate Identity 0.3.2')
+c.setTitle('DecisionInvitation Corporate Identity 0.4.0')
 c.setAuthor('DecisionInvitation')
 c.setSubject('Decision Instrument identity proposal; owner review pending')
 
@@ -74,9 +74,9 @@ def convergence_motif(x,y,dark=False):
 def page(n,section,dark=False):
     if n>1: c.showPage()
     rect(0,0,W,H,'register' if dark else 'optic'); fg='white' if dark else 'register'
-    txt('DECISIONINVITATION',M,26,10,fg,'SoraSemi'); txt('IDENTITY MANUAL / 0.3.2',704,26,10,'periwinkle' if dark else 'cobalt','SoraSemi')
+    txt('DECISIONINVITATION',M,26,10,fg,'SoraSemi'); txt('IDENTITY MANUAL / 0.4.0',704,26,10,'periwinkle' if dark else 'cobalt','SoraSemi')
     line(M,558,W-M,558,'periwinkle' if dark else 'cobalt',.6)
-    txt('0.3.2 / DESIGN PROPOSAL / OWNER REVIEW PENDING',M,571,8,fg)
+    txt('0.4.0 / DESIGN PROPOSAL / OWNER REVIEW PENDING',M,571,8,fg)
     txt(f'{n:02d} / 16',852,571,8,fg)
 
 def heading(kicker,title,deck='',dark=False):

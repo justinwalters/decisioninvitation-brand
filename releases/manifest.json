@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "name": "DecisionInvitation",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "status": "proposal-pending-owner-review",
   "archiveRoot": "repository-relative; no enclosing directory",
   "checksumAlgorithm": "SHA-256",
@@ -23,14 +23,14 @@
     {
       "path": "AGENTS.md",
       "role": "documentation",
-      "bytes": 3125,
-      "sha256": "411627c6db2a465268fa0be9398b29048aa4b1ecf8b3bc3c8c4563d133289928"
+      "bytes": 3364,
+      "sha256": "2e1d12da5b027ea6048d267f00bb7ed4bd5ed6736a6eb522ede260e6c74b38cc"
     },
     {
       "path": "ASSET-LICENSE.md",
       "role": "asset-usage-terms",
-      "bytes": 528,
-      "sha256": "2754d806ee58cfc1dccb4d326dd5183cd08cd1f7165c1f6712df7bdfcd3f797a"
+      "bytes": 576,
+      "sha256": "a3d2842cd9ceb8fefc5ac1031c5e8d09db7324f1d7fdcb4c2375ada8cf17a3ae"
     },
     {
       "path": "BRAND-GUIDELINES.md",
@@ -41,20 +41,20 @@
     {
       "path": "CHANGELOG.md",
       "role": "documentation",
-      "bytes": 4199,
-      "sha256": "2c2added4c097d653dd53d9208f01727fee78f34d22c7bef65e6a4f0210eb1d8"
+      "bytes": 5146,
+      "sha256": "a6a581d24b89ad8567b54f6f0fdd11bef4be674dd216c285312887a72ab80719"
     },
     {
       "path": "CONTRIBUTING.md",
       "role": "documentation",
-      "bytes": 2303,
-      "sha256": "547844bbbb86aea2a1aa641c808a7fba2498e805f068df543d3b6eafca1733de"
+      "bytes": 2342,
+      "sha256": "2e00cd9bd46fdd35b6a0efa314335bad1904f0c4811ce65c67460715a6ca0d7c"
     },
     {
       "path": "README.md",
       "role": "documentation",
-      "bytes": 1389,
-      "sha256": "0754f01df527269c6ffd5cc308a7e3f677a20d8f78432bd79bcb3daee621b6fd"
+      "bytes": 1591,
+      "sha256": "11419d305227bef7d379eb97a505c0c9c25605421b91733ed5136c492b15e173"
     },
     {
       "path": "assets/fonts/LICENSE-Sora.txt",
@@ -118,7 +118,7 @@
       "path": "assets/source/identity.json",
       "role": "identity-source",
       "bytes": 1462,
-      "sha256": "4caf20453b64984b5739ff0290f2a5c850532ba051ad48cd433853071e8e8414"
+      "sha256": "16991e9015c613260c8e7bd5c60dcaa3d63ab8246fdc4508b067c6e9dcf5296c"
     },
     {
       "path": "assets/tokens/decisioninvitation.tokens.css",
@@ -130,25 +130,25 @@
       "path": "assets/tokens/decisioninvitation.tokens.json",
       "role": "design-tokens",
       "bytes": 1394,
-      "sha256": "c2f523b1163e12be4acb5c7c7c5cf3a973c9c6f754418ddb5224b5396808ffa9"
+      "sha256": "7b8482990c5cbd39865ef59c9e79ece89b311a72086ab66e2c4fad3162a99f34"
     },
     {
       "path": "brand-system.json",
       "role": "documentation",
-      "bytes": 3460,
-      "sha256": "7be1614424be22adb003254fcbcdafc2e75bdb22101013cc918786077719fae7"
+      "bytes": 3893,
+      "sha256": "4aabc64407df2e0e92834a6cebf36145a7f94cac193b4450d2b30ee8419c6d7c"
     },
     {
       "path": "docs/AI-HANDOFF.md",
       "role": "documentation",
-      "bytes": 1407,
-      "sha256": "22c647f31636c000a6088d31d956d3045a7f90f573e98de44b241eb39e96ea22"
+      "bytes": 2533,
+      "sha256": "6030b5382a488f8ffc820ae44875182c0fdd6b71fc1bcf57c41615a6b2046a11"
     },
     {
       "path": "docs/README.md",
       "role": "documentation",
-      "bytes": 1289,
-      "sha256": "87d8e887ced11fe0b662845d8e11f8aadfa2b6f5a55743649aac22f9572a76b2"
+      "bytes": 1535,
+      "sha256": "fc74553e66c3e52beb07dc8c4118d1948313d21437d1bc67783d4e04643b3d35"
     },
     {
       "path": "docs/adoption-register-template.md",
@@ -172,19 +172,19 @@
       "path": "docs/brand-guidelines.md",
       "role": "documentation",
       "bytes": 4037,
-      "sha256": "35d22233079c852db6b56202192e54d8be83d1dfa8f403b790e68083b09b8271"
+      "sha256": "e7611c3539ee75a194f3990f820bede9161f738531438b15171feff7d9a147d6"
     },
     {
       "path": "docs/brand-strategy.md",
       "role": "documentation",
-      "bytes": 1059,
-      "sha256": "65ccde37f37ba10c1977f570f601db755b1647d3ee3a0ce933b439ac6f36bf90"
+      "bytes": 1833,
+      "sha256": "a27d9f63353557dc86269c5bd162fec45f23338fe89e19bee0ed76d4fcd901c8"
     },
     {
       "path": "docs/claims-and-privacy.md",
       "role": "documentation",
-      "bytes": 4110,
-      "sha256": "62acb7b3c6a92904fe94b98bdf4bf92da062e52ffd5b6f062a064f95b7f70559"
+      "bytes": 5435,
+      "sha256": "8e5ebb26c196697d4a29bdcfc4af2bf7956dd630b9aec7a1cf21f8910c7e41c1"
     },
     {
       "path": "docs/color-and-accessibility.md",
@@ -217,6 +217,12 @@
       "sha256": "efa7594e0c071f070f4d1ad28e22569285845c960b8e697f79452342035df74b"
     },
     {
+      "path": "docs/decisions/0005-neuroinclusive-decision-design.md",
+      "role": "documentation",
+      "bytes": 2329,
+      "sha256": "843be40ce7a9e3293078eb545d509c3dc206fc7fd1871a6ee65b71f7fa16f696"
+    },
+    {
       "path": "docs/email-and-documents.md",
       "role": "documentation",
       "bytes": 3500,
@@ -225,8 +231,8 @@
     {
       "path": "docs/governance-and-release.md",
       "role": "documentation",
-      "bytes": 4700,
-      "sha256": "0135426934ce55a980ed049664c0ca49dccbaaa7d36689b61111ea95117ff629"
+      "bytes": 4770,
+      "sha256": "aea9e377fc175f1127433a34d401c3396465f53924f1f943d8bbca6ab4fbd103"
     },
     {
       "path": "docs/logo-standards.md",
@@ -237,14 +243,20 @@
     {
       "path": "docs/messaging-and-voice.md",
       "role": "documentation",
-      "bytes": 7458,
-      "sha256": "3d61348bd37703c3889ab6c2f1422b31cf315a57dc700f636c835c93750bd920"
+      "bytes": 8078,
+      "sha256": "f00c4a9714f6b347bf3281f78b4a8c1560ba4e845b3491aa311e8a635b18ead0"
     },
     {
       "path": "docs/motion-and-interaction.md",
       "role": "documentation",
       "bytes": 698,
       "sha256": "534786b538d268c0b3f395aedade39e4258ce88cfe6f5e60bf9c7a42c57656f8"
+    },
+    {
+      "path": "docs/research/neuroinclusive-decision-design-case-study.md",
+      "role": "documentation",
+      "bytes": 20834,
+      "sha256": "a7fb6ade61961ef1d4a85e41d9adc391cdf2d9ab626cdafe61fa6177e4547e6e"
     },
     {
       "path": "docs/social-media-guidelines.md",
@@ -261,26 +273,32 @@
     {
       "path": "docs/website-guidelines.md",
       "role": "documentation",
-      "bytes": 1024,
-      "sha256": "57d255f5a9d6bcbe9ecf4059d603be8597365f24acda6f55cdedcb6f052c1681"
+      "bytes": 1494,
+      "sha256": "972ed1e6f105f29f4bc3446c7750052833233fd7189691bb902f7532b7e83ec8"
     },
     {
       "path": "output/pdf/decisioninvitation-identity-manual.pdf",
       "role": "identity-manual",
-      "bytes": 48510,
-      "sha256": "41cc304df3e24c14fbdac83096283772b55c6e221398e7e3c5cd8bd084eb0e58"
+      "bytes": 48523,
+      "sha256": "575838179a8aa2abfef7b7d1f4bedcd671faefb36f905449f4cd4df647898bbd"
+    },
+    {
+      "path": "output/pdf/decisioninvitation-neuroinclusive-case-study.pdf",
+      "role": "documentation",
+      "bytes": 53672,
+      "sha256": "1a72502b1beb2d4b404da57ad854d31cc0245943bce2393a982908f24e8d0867"
     },
     {
       "path": "package-lock.json",
       "role": "dependency-definition",
       "bytes": 21224,
-      "sha256": "3d1e6985af3f7e0372f5a5c7be75df7849abe02614f1e5e27ac33eb82ba9884d"
+      "sha256": "9a945282320e7076a34a2ccd3bcbe511ab837bc1aa95def785ef1506bd036f6f"
     },
     {
       "path": "package.json",
       "role": "dependency-definition",
       "bytes": 418,
-      "sha256": "5121a97900a10b60a318e496556d794cb250901a1095ffe2295f6cd225b7d508"
+      "sha256": "9508552fa81944439e5343507a49ac1a882160e6236215b19a46fc8139da2352"
     },
     {
       "path": "production/01-logo/pdf/di-lockup-ink.pdf",
@@ -1189,8 +1207,8 @@
     {
       "path": "production/05-proofs/identity-overview.png",
       "role": "identity-overview",
-      "bytes": 134119,
-      "sha256": "984e03b53092c43b6499813bf79f75e5cf028eedfad05008fc7b9de9803dca7b",
+      "bytes": 134139,
+      "sha256": "5a363f072023a9e86c895c019549a07e2150b0f6ee61d90b984baa84ee68306a",
       "width": 1800,
       "height": 1200,
       "alpha": false
@@ -1198,8 +1216,8 @@
     {
       "path": "production/05-proofs/identity-overview.svg",
       "role": "identity-overview",
-      "bytes": 137797,
-      "sha256": "f1c3611581a8f0fdbf9648499930c0d23a9feae19de4d11b972dd4481db8c4e4",
+      "bytes": 137766,
+      "sha256": "2e32df661f67adce067bcb27bc04bc73780e65c5a24d31ab8599bd1bc9c519b3",
       "width": 1800,
       "height": 1200
     },
@@ -1218,14 +1236,14 @@
     {
       "path": "site/README.md",
       "role": "public-page-source",
-      "bytes": 4471,
-      "sha256": "9d25b60e9eebc3b6a9121daf2e4e2cf33f508384498b95b4beb6dbc6d6c4ddb0"
+      "bytes": 4528,
+      "sha256": "af04731882dfe5b155cd0017064c34291da5b780eeafc3588b30e48f56d2d45a"
     },
     {
       "path": "site/brand.css",
       "role": "public-page-source",
-      "bytes": 8487,
-      "sha256": "77f98165d9fe1236c14198483c261185e9e1efdc83e16ae743bdcd3ed4998b7a"
+      "bytes": 9915,
+      "sha256": "f5e8c94e04debf9fbecb9d3b05b17dec244ce070363f5de701bcd0d298f09f17"
     },
     {
       "path": "site/brand.js",
@@ -1236,68 +1254,68 @@
     {
       "path": "site/index.html",
       "role": "public-page-source",
-      "bytes": 10766,
-      "sha256": "73ead37dd7a47c04eebf198e61fd659b2883fea74a3767042be92a9420e90f06"
+      "bytes": 12762,
+      "sha256": "3e7901403c5aca688c1c6ea06e00f66c5b55af2058cdd47e33e608a56357449f"
     },
     {
       "path": "templates/applications/README.md",
       "role": "editable-template",
       "bytes": 7714,
-      "sha256": "d337883525970f00135b24888b9efc448c54986edfc14cf5012595dc85881a9e"
+      "sha256": "a7bf1a8f38176e315f3805d26c52f530bdb440e7f315bad55834c583e2c732c7"
     },
     {
       "path": "templates/applications/application.css",
       "role": "editable-template",
       "bytes": 15776,
-      "sha256": "572e3fda8ff2ac8a0829cf25b3ca314a9a2114932416b09a8c5b2860cef748f1"
+      "sha256": "8d079e3faf71ad6732dfc51a6258b8403727619b95742219ab35d91f2945b333"
     },
     {
       "path": "templates/applications/business-card.html",
       "role": "editable-template",
       "bytes": 1748,
-      "sha256": "44f04897c491cc054d65c07fa7902e89e9500421152992d51a5bd5e03b5c34e3"
+      "sha256": "2a324a5e3b215351357e16c80255e476c8d17e9243233861a56122f913ae75bc"
     },
     {
       "path": "templates/applications/decision-brief.html",
       "role": "editable-template",
       "bytes": 3895,
-      "sha256": "653da80e551454dd1e560ef680cf7eaec345ba39cd4e07a4d540aadcc01bd72a"
+      "sha256": "f07282a5db9a3fad0c861a9899403694ca8b039d5b1891a1b30e29ae72c02a0c"
     },
     {
       "path": "templates/applications/email-signature.html",
       "role": "editable-template",
       "bytes": 3352,
-      "sha256": "179981658ff4c70b4da448a42885dc81f0f1fbfcc5b605719c073c58b5c19a26"
+      "sha256": "dff15ad93a087f02d1d8876fefc18e799afe555266abf864002c05f7af8ced76"
     },
     {
       "path": "templates/applications/index.html",
       "role": "editable-template",
       "bytes": 2626,
-      "sha256": "a6feb47aab09123f4d45e790fac463618bf8ad0e6b2fe78c85bd8acd931767a2"
+      "sha256": "76f0304f69c25fa79532319f40b6fd6d1386bcf4f60204307a7da8d938973083"
     },
     {
       "path": "templates/applications/letterhead.html",
       "role": "editable-template",
       "bytes": 2273,
-      "sha256": "d68b23fbae7a4fe522f2bb9de177279d9400432f175c112f2b54950f09e166c8"
+      "sha256": "dbc01f00edceabf9198ddc0c654a218a2617080df593c44586372f7ecb67c69b"
     },
     {
       "path": "templates/applications/presentation.html",
       "role": "editable-template",
       "bytes": 3931,
-      "sha256": "9b93db5ecc1add12fbb3202893e040838fe8be1d33ded35a26563f73da95284b"
+      "sha256": "beaf2b2e7a3ae9886522d415d435a4baf3e033d5e45ebc4e7ecca4e384f2318a"
     },
     {
       "path": "templates/applications/product-moments.html",
       "role": "editable-template",
       "bytes": 5331,
-      "sha256": "895e90d7438d4b6441c34d52df66d3a462d334724b38e02238a43236395c7612"
+      "sha256": "84694ba8d523173bce6cdd721d27c63fc7a16104fe37b15ac76c298568f47fdb"
     },
     {
       "path": "templates/applications/social-layouts.html",
       "role": "editable-template",
       "bytes": 3852,
-      "sha256": "ff2748b6cd0e423927966ccca540f4f882038d0ccaa8d610b345ffe2ffb04d38"
+      "sha256": "e2d30e3ad0e6f0e04a589201db0b4533462a64d934c031b625a3640bcbb35119"
     },
     {
       "path": "templates/briefs/campaign.md",
@@ -1339,13 +1357,19 @@
       "path": "tools/build.py",
       "role": "build-tool",
       "bytes": 10313,
-      "sha256": "8ce2e70eef6bf9d3cdb61ae20d8cf8e798efafaa0a4e4a2b1a95f67969744c67"
+      "sha256": "1f452d4291b277041b937a6685be182050cd34ea0c4e0f1d8d76d5517becf359"
+    },
+    {
+      "path": "tools/build_case_study.py",
+      "role": "build-tool",
+      "bytes": 21544,
+      "sha256": "2ba00a208c85eaf64302689e9c12ca3cb6e8fd61a582324890c73ebc7bb0867b"
     },
     {
       "path": "tools/build_manual.py",
       "role": "build-tool",
       "bytes": 9721,
-      "sha256": "a3300683898ed322d4603d5fd922dd9940f483638be8a8ff16494c2d336b3455"
+      "sha256": "b9dd30fa60202b61d0c60ddbd082c063ad06032ebd930c6cdc16bba59a2e7e0c"
     },
     {
       "path": "tools/package_release.py",
@@ -1380,7 +1404,7 @@
   ],
   "kits": {
     "brand": {
-      "path": "releases/decisioninvitation-brand-0.3.2.zip",
+      "path": "releases/decisioninvitation-brand-0.4.0.zip",
       "files": [
         ".gitignore",
         "AGENTS.md",
@@ -1415,15 +1439,18 @@
         "docs/decisions/0002-decision-instrument-identity.md",
         "docs/decisions/0003-multipath-d-refinement.md",
         "docs/decisions/0004-negative-space-convergence.md",
+        "docs/decisions/0005-neuroinclusive-decision-design.md",
         "docs/email-and-documents.md",
         "docs/governance-and-release.md",
         "docs/logo-standards.md",
         "docs/messaging-and-voice.md",
         "docs/motion-and-interaction.md",
+        "docs/research/neuroinclusive-decision-design-case-study.md",
         "docs/social-media-guidelines.md",
         "docs/typography.md",
         "docs/website-guidelines.md",
         "output/pdf/decisioninvitation-identity-manual.pdf",
+        "output/pdf/decisioninvitation-neuroinclusive-case-study.pdf",
         "package-lock.json",
         "package.json",
         "production/01-logo/pdf/di-lockup-ink.pdf",
@@ -1562,6 +1589,7 @@
         "tests/test_package.py",
         "tests/test_release_tools.py",
         "tools/build.py",
+        "tools/build_case_study.py",
         "tools/build_manual.py",
         "tools/package_release.py",
         "tools/proof_applications.cjs",
@@ -1571,7 +1599,7 @@
       ]
     },
     "logos": {
-      "path": "releases/decisioninvitation-logos-0.3.2.zip",
+      "path": "releases/decisioninvitation-logos-0.4.0.zip",
       "files": [
         "ASSET-LICENSE.md",
         "brand-system.json",
@@ -1661,7 +1689,7 @@
       ]
     },
     "templates": {
-      "path": "releases/decisioninvitation-templates-0.3.2.zip",
+      "path": "releases/decisioninvitation-templates-0.4.0.zip",
       "files": [
         "ASSET-LICENSE.md",
         "assets/fonts/LICENSE-Sora.txt",
@@ -1777,7 +1805,7 @@
       ]
     },
     "webfonts": {
-      "path": "releases/decisioninvitation-webfonts-0.3.2.zip",
+      "path": "releases/decisioninvitation-webfonts-0.4.0.zip",
       "files": [
         "ASSET-LICENSE.md",
         "assets/fonts/LICENSE-Sora.txt",

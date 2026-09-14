@@ -1,6 +1,6 @@
 # Application review proofs
 
-Reviewed locally on 2026-09-12 for the 0.3.2 identity proposal. These 21 PNGs record source-layout review; they are not approved artwork, platform-ready social exports, delivered communications, or press proofs.
+Reviewed locally on 2026-09-12 for the 0.4.0 identity proposal. These 21 PNGs record source-layout review; they are not approved artwork, platform-ready social exports, delivered communications, or press proofs.
 
 ## Scope
 

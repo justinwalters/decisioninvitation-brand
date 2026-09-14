@@ -27,6 +27,12 @@ Source: sibling `suki-decisioninvitation/home.html`, inspected 2026-09-12. Prese
 
 ## Core copy
 
+**Neuroinclusive expression**
+
+Designed for minds that do their best thinking with context, time, and a clear next step.
+
+Supporting line: **Neuroinclusive by design. Useful for anyone deciding under cognitive load.** Use this as a statement of documented design intent only when the relevant interaction behaviors are present and tested. Do not turn neurodivergence into a diagnosis gate or imply treatment, symptom reduction, or universal outcomes.
+
 **One sentence**
 
 DecisionInvitation turns a decision that keeps circulating into a clear question, independent perspectives, and a more useful next move.
@@ -62,6 +68,7 @@ For the owner, lead with the stuck question and what would move it forward. For 
 | Exact | State the question, deadline, and audience | “Reply by 18 September, 17:00 Phoenix time.” | “Respond soon.” |
 | Open | Make disagreement and missing evidence legitimate | “Name the fact you still need.” | “Help us confirm the right answer.” |
 | Accountable | Distinguish advice, inference, and decision | “Morgan will review your response and make the decision.” | “The platform finds the best answer.” |
+| Neuroinclusive | Orient, sequence, and normalize qualified answers | “Not enough information is useful. What is missing?” | “Just focus and make a choice.” |
 
 Be composed without becoming ceremonial. Use direct second-person instructions where helpful. Prefer “response,” “reason,” “condition,” “question,” and “next step” to specialized decision-science language. “Perspective” means the particular view someone was invited to bring; define it through context.
 

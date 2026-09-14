@@ -18,6 +18,14 @@ For people accountable for consequential choices, DecisionInvitation turns distr
 - Contributor: understand why their view matters, who can see it, and what happens next.
 - Organizational reader: see a credible workflow, evidence boundary, and accountable owner.
 
+## Neuroinclusive position
+
+**Designed for minds that do their best thinking with context, time, and a clear next step.**
+
+DecisionInvitation is neuroinclusive by design when its product behavior externalizes context, separates cognitive stages, supports asynchronous and resumable contribution, makes conditional answers legitimate, discloses social visibility, and keeps the next action explicit. These choices are useful for anyone deciding under cognitive load. They are not a diagnosis gate, treatment claim, or guarantee of a better decision.
+
+The strategic opportunity is the space between personal executive-function tools and collaborative governance platforms: a calm protocol that moves several independently formed perspectives toward one accountable decision.
+
 ## Personality
 
 Exact, calm, invitational, decisive. Never coercive, performatively clever, or falsely certain.
